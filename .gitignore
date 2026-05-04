@@ -1,0 +1,7 @@
+.DS_Store
+/.quarto/
+.Renviron
+**/*.quarto_ipynb
+.Rproj.user
+.Rproj.user/
+psicostat-teaching-list.xlsx

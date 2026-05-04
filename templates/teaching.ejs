@@ -1,0 +1,35 @@
+```{=html}
+<div class="list grid">
+  <% for(const item of items) { %>
+    <div class="card h-100" <%= metadataAttrs(item) %>> 
+      <% if (item.image) { %>
+      <a href="<%= item.link %>" target="_blank" rel="noopener">
+        <img loading="lazy" src="<%= item.image %>" class="card-img-top" alt="">
+      </a>
+      <% } %>
+      <div class="card-body post-contents d-flex flex-column">
+        <a href="<%= item.link %>" class="title-link" target="_blank" rel="noopener">
+          <h5 class="card-title listing-title no-anchor"><%= item.title %></h5>
+        </a>
+        <% if (item.description) { %>
+        <p class="card-text listing-description"><%= item.description %></p>
+        <% } %>
+        <% if (item.categories) { %>
+        <div class="listing-categories mb-2">
+          <% for (const cat of item.categories) { %>
+            <a class="category-link badge bg-light text-dark border me-1" href="#category=<%= cat %>">
+              <%= cat %>
+            </a>
+          <% } %>
+        </div>
+        <% } %>
+        <div class="mt-auto">
+          <div class="listing-author text-muted small">
+            <%= item.author %>
+          </div>
+        </div>
+      </div>
+    </div>
+  <% } %>
+</div>
+```
