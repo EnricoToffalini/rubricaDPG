@@ -1061,7 +1061,7 @@
     "href": "procedures/syllabus.html#link-operativo",
     "title": "Syllabus",
     "section": "Link operativo",
-    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nwww.spgi.unipd.it"
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://www.spgi.unipd.it"
   },
   {
     "objectID": "procedures/syllabus.html#documentazione",
@@ -1075,7 +1075,7 @@
     "href": "procedures/syllabus.html#link-utili",
     "title": "Syllabus",
     "section": "Link utili",
-    "text": "Link utili\n\nLink operativo: www.spgi.unipd.it\nLink documentazione: SI - link"
+    "text": "Link utili\n\nLink operativo: https://www.spgi.unipd.it\nLink documentazione: SI - link"
   },
   {
     "objectID": "procedures/syllabus.html#categorie",
@@ -1089,6 +1089,6 @@
     "href": "procedures/syllabus.html#tutti-i-campi-disponibili",
     "title": "Syllabus",
     "section": "Tutti i campi disponibili",
-    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\n-\n\n\nMacroCAT3\n-\n\n\ntitoloSezione\nSyllabus\n\n\ndescrizione\nIl Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali didattici, e ne descrive le modalità di verifica. Il syllabus, inoltre, può riportare altre indicazioni ritenute utili per agevolare la frequenza (in presenza o a distanza) dell’insegnamento e le attività di studio individuale di studenti e studentesse, favorendone l’apprendimento consapevole e attivo.\n\n\nStrutturaReferente1\n-\n\n\nContattoStruttura1\n-\n\n\nStrutturaReferente2\n-\n\n\nContattoStruttura2\n-\n\n\nServizioCollegato1\n-\n\n\nServizioCollegato2\n-\n\n\nlinkOperativo\nwww.spgi.unipd.it\n\n\nlinkDocumentazione\nSI - link\n\n\nFAQ1\n-\n\n\nFAQ2\n-\n\n\nFAQ3\n-\n\n\nslug_base\nsyllabus\n\n\nslug\nsyllabus"
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\n-\n\n\nMacroCAT3\n-\n\n\ntitoloSezione\nSyllabus\n\n\ndescrizione\nIl Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali didattici, e ne descrive le modalità di verifica. Il syllabus, inoltre, può riportare altre indicazioni ritenute utili per agevolare la frequenza (in presenza o a distanza) dell’insegnamento e le attività di studio individuale di studenti e studentesse, favorendone l’apprendimento consapevole e attivo.\n\n\nStrutturaReferente1\n-\n\n\nContattoStruttura1\n-\n\n\nStrutturaReferente2\n-\n\n\nContattoStruttura2\n-\n\n\nServizioCollegato1\n-\n\n\nServizioCollegato2\n-\n\n\nlinkOperativo\nhttps://www.spgi.unipd.it\n\n\nlinkDocumentazione\nSI - link\n\n\nFAQ1\n-\n\n\nFAQ2\n-\n\n\nFAQ3\n-\n\n\nslug_base\nsyllabus\n\n\nslug\nsyllabus"
   }
 ]

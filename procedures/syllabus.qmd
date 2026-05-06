@@ -16,7 +16,7 @@ Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i 
 ## Link operativo
 
 :::{.callout-important}
-[www.spgi.unipd.it](www.spgi.unipd.it)
+[https://www.spgi.unipd.it](https://www.spgi.unipd.it)
 :::
 
 
@@ -28,7 +28,7 @@ Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i 
 
 ## Link utili
 
-- **Link operativo**: [www.spgi.unipd.it](www.spgi.unipd.it)
+- **Link operativo**: [https://www.spgi.unipd.it](https://www.spgi.unipd.it)
 - **Link documentazione**: [SI - link](SI - link)
 
 
@@ -59,7 +59,7 @@ Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i 
 | ContattoStruttura2 | - |
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
-| linkOperativo | www.spgi.unipd.it |
+| linkOperativo | https://www.spgi.unipd.it |
 | linkDocumentazione | SI - link |
 | FAQ1 | - |
 | FAQ2 | - |

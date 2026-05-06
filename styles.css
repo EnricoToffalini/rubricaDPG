@@ -48,6 +48,10 @@ a:hover {
   text-decoration: none;
 }
 
+.menu-text, .navbar-title {
+  color: white !important;
+}
+
 ::selection {
   background: #9b0014;
   color: white;

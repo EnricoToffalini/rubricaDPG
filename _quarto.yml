@@ -8,6 +8,10 @@ website:
   favicon: favicon.ico
   title: "Trova il link"
   search: true
+  navbar:
+    background: "#9b0014"
+    foreground: "#ffffff"
+    logo: logo.png
 
 format:
   html:
