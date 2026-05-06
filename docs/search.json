@@ -1,9 +1,1094 @@
 [
   {
+    "objectID": "procedures/verifica-fondi-disponibili.html",
+    "href": "procedures/verifica-fondi-disponibili.html",
+    "title": "Verifica fondi disponibili",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/verifica-fondi-disponibili.html#descrizione",
+    "href": "procedures/verifica-fondi-disponibili.html#descrizione",
+    "title": "Verifica fondi disponibili",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/verifica-fondi-disponibili.html#link-operativo",
+    "href": "procedures/verifica-fondi-disponibili.html#link-operativo",
+    "title": "Verifica fondi disponibili",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://apex.cca.unipd.it/pls/apex/f?p=376:4:13680169487078:::::"
+  },
+  {
+    "objectID": "procedures/verifica-fondi-disponibili.html#link-utili",
+    "href": "procedures/verifica-fondi-disponibili.html#link-utili",
+    "title": "Verifica fondi disponibili",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://apex.cca.unipd.it/pls/apex/f?p=376:4:13680169487078:::::"
+  },
+  {
+    "objectID": "procedures/verifica-fondi-disponibili.html#categorie",
+    "href": "procedures/verifica-fondi-disponibili.html#categorie",
+    "title": "Verifica fondi disponibili",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo"
+  },
+  {
+    "objectID": "procedures/verifica-fondi-disponibili.html#tutti-i-campi-disponibili",
+    "href": "procedures/verifica-fondi-disponibili.html#tutti-i-campi-disponibili",
+    "title": "Verifica fondi disponibili",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nVerifica fondi disponibili\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://apex.cca.unipd.it/pls/apex/f?p=376:4:13680169487078:::::\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nverifica-fondi-disponibili\n\n\nslug\nverifica-fondi-disponibili"
+  },
+  {
+    "objectID": "procedures/servizi-agli-studenti-inclusione.html",
+    "href": "procedures/servizi-agli-studenti-inclusione.html",
+    "title": "Servizi agli studenti - inclusione",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/servizi-agli-studenti-inclusione.html#descrizione",
+    "href": "procedures/servizi-agli-studenti-inclusione.html#descrizione",
+    "title": "Servizi agli studenti - inclusione",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/servizi-agli-studenti-inclusione.html#categorie",
+    "href": "procedures/servizi-agli-studenti-inclusione.html#categorie",
+    "title": "Servizi agli studenti - inclusione",
+    "section": "Categorie",
+    "text": "Categorie\n\ndidattica"
+  },
+  {
+    "objectID": "procedures/servizi-agli-studenti-inclusione.html#referenti-e-contatti",
+    "href": "procedures/servizi-agli-studenti-inclusione.html#referenti-e-contatti",
+    "title": "Servizi agli studenti - inclusione",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nContatto struttura 1: inclusione@unipd.it"
+  },
+  {
+    "objectID": "procedures/servizi-agli-studenti-inclusione.html#tutti-i-campi-disponibili",
+    "href": "procedures/servizi-agli-studenti-inclusione.html#tutti-i-campi-disponibili",
+    "title": "Servizi agli studenti - inclusione",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nServizi agli studenti - inclusione\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\ninclusione@unipd.it\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nservizi-agli-studenti-inclusione\n\n\nslug\nservizi-agli-studenti-inclusione"
+  },
+  {
+    "objectID": "procedures/richiesta-ordine-materiali.html",
+    "href": "procedures/richiesta-ordine-materiali.html",
+    "title": "Richiesta ordine materiali",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/richiesta-ordine-materiali.html#descrizione",
+    "href": "procedures/richiesta-ordine-materiali.html#descrizione",
+    "title": "Richiesta ordine materiali",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/richiesta-ordine-materiali.html#link-operativo",
+    "href": "procedures/richiesta-ordine-materiali.html#link-operativo",
+    "title": "Richiesta ordine materiali",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://richieste.dpg.psy.unipd.it/ordine/insert"
+  },
+  {
+    "objectID": "procedures/richiesta-ordine-materiali.html#link-utili",
+    "href": "procedures/richiesta-ordine-materiali.html#link-utili",
+    "title": "Richiesta ordine materiali",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://richieste.dpg.psy.unipd.it/ordine/insert"
+  },
+  {
+    "objectID": "procedures/richiesta-ordine-materiali.html#categorie",
+    "href": "procedures/richiesta-ordine-materiali.html#categorie",
+    "title": "Richiesta ordine materiali",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo"
+  },
+  {
+    "objectID": "procedures/richiesta-ordine-materiali.html#referenti-e-contatti",
+    "href": "procedures/richiesta-ordine-materiali.html#referenti-e-contatti",
+    "title": "Richiesta ordine materiali",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Ilaria Longo"
+  },
+  {
+    "objectID": "procedures/richiesta-ordine-materiali.html#tutti-i-campi-disponibili",
+    "href": "procedures/richiesta-ordine-materiali.html#tutti-i-campi-disponibili",
+    "title": "Richiesta ordine materiali",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nRichiesta ordine materiali\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nIlaria Longo\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://richieste.dpg.psy.unipd.it/ordine/insert\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nrichiesta-ordine-materiali\n\n\nslug\nrichiesta-ordine-materiali"
+  },
+  {
+    "objectID": "procedures/registro-didattico.html",
+    "href": "procedures/registro-didattico.html",
+    "title": "Registro didattico",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/registro-didattico.html#descrizione",
+    "href": "procedures/registro-didattico.html#descrizione",
+    "title": "Registro didattico",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/registro-didattico.html#categorie",
+    "href": "procedures/registro-didattico.html#categorie",
+    "title": "Registro didattico",
+    "section": "Categorie",
+    "text": "Categorie\n\ndidattica"
+  },
+  {
+    "objectID": "procedures/registro-didattico.html#referenti-e-contatti",
+    "href": "procedures/registro-didattico.html#referenti-e-contatti",
+    "title": "Registro didattico",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Manuela Borrelli\nContatto struttura 1: manuela.borrelli@unipd.it\nStruttura referente 2: Chiara Andrea Cavotto\nContatto struttura 2: chiaraandrea.cravotto@unipd.it"
+  },
+  {
+    "objectID": "procedures/registro-didattico.html#faq-note",
+    "href": "procedures/registro-didattico.html#faq-note",
+    "title": "Registro didattico",
+    "section": "FAQ / Note",
+    "text": "FAQ / Note\n\nFAQ 1: Come si compila il registro didattico e quando?"
+  },
+  {
+    "objectID": "procedures/registro-didattico.html#tutti-i-campi-disponibili",
+    "href": "procedures/registro-didattico.html#tutti-i-campi-disponibili",
+    "title": "Registro didattico",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nRegistro didattico\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nManuela Borrelli\n\n\nContattoStruttura1\nmanuela.borrelli@unipd.it\n\n\nStrutturaReferente2\nChiara Andrea Cavotto\n\n\nContattoStruttura2\nchiaraandrea.cravotto@unipd.it\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nCome si compila il registro didattico e quando?\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nregistro-didattico\n\n\nslug\nregistro-didattico"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-didattiche.html",
+    "href": "procedures/prenotazione-aule-didattiche.html",
+    "title": "Prenotazione aule didattiche",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-didattiche.html#descrizione",
+    "href": "procedures/prenotazione-aule-didattiche.html#descrizione",
+    "title": "Prenotazione aule didattiche",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-didattiche.html#categorie",
+    "href": "procedures/prenotazione-aule-didattiche.html#categorie",
+    "title": "Prenotazione aule didattiche",
+    "section": "Categorie",
+    "text": "Categorie\n\ndidattica"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-didattiche.html#tutti-i-campi-disponibili",
+    "href": "procedures/prenotazione-aule-didattiche.html#tutti-i-campi-disponibili",
+    "title": "Prenotazione aule didattiche",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nPrenotazione aule didattiche\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nprenotazione-aule-didattiche\n\n\nslug\nprenotazione-aule-didattiche"
+  },
+  {
+    "objectID": "procedures/piattaforma-online-per-firma-digitale.html",
+    "href": "procedures/piattaforma-online-per-firma-digitale.html",
+    "title": "Piattaforma online per firma digitale",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/piattaforma-online-per-firma-digitale.html#descrizione",
+    "href": "procedures/piattaforma-online-per-firma-digitale.html#descrizione",
+    "title": "Piattaforma online per firma digitale",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/piattaforma-online-per-firma-digitale.html#link-operativo",
+    "href": "procedures/piattaforma-online-per-firma-digitale.html#link-operativo",
+    "title": "Piattaforma online per firma digitale",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://unipd.webfirma.cineca.it/"
+  },
+  {
+    "objectID": "procedures/piattaforma-online-per-firma-digitale.html#link-utili",
+    "href": "procedures/piattaforma-online-per-firma-digitale.html#link-utili",
+    "title": "Piattaforma online per firma digitale",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://unipd.webfirma.cineca.it/"
+  },
+  {
+    "objectID": "procedures/piattaforma-online-per-firma-digitale.html#categorie",
+    "href": "procedures/piattaforma-online-per-firma-digitale.html#categorie",
+    "title": "Piattaforma online per firma digitale",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo"
+  },
+  {
+    "objectID": "procedures/piattaforma-online-per-firma-digitale.html#tutti-i-campi-disponibili",
+    "href": "procedures/piattaforma-online-per-firma-digitale.html#tutti-i-campi-disponibili",
+    "title": "Piattaforma online per firma digitale",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nPiattaforma online per firma digitale\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://unipd.webfirma.cineca.it/\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\npiattaforma-online-per-firma-digitale\n\n\nslug\npiattaforma-online-per-firma-digitale"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html",
+    "href": "procedures/missioni-fuori-sede.html",
+    "title": "Missioni fuori sede",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html#descrizione",
+    "href": "procedures/missioni-fuori-sede.html#descrizione",
+    "title": "Missioni fuori sede",
+    "section": "Descrizione",
+    "text": "Descrizione\nSvolgimento missioni fuori sede per qualsiasi finalità"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html#link-operativo",
+    "href": "procedures/missioni-fuori-sede.html#link-operativo",
+    "title": "Missioni fuori sede",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://www.unipd.it/richieste/"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html#link-utili",
+    "href": "procedures/missioni-fuori-sede.html#link-utili",
+    "title": "Missioni fuori sede",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://www.unipd.it/richieste/"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html#categorie",
+    "href": "procedures/missioni-fuori-sede.html#categorie",
+    "title": "Missioni fuori sede",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html#referenti-e-contatti",
+    "href": "procedures/missioni-fuori-sede.html#referenti-e-contatti",
+    "title": "Missioni fuori sede",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Giovanna Mezzetti"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html#faq-note",
+    "href": "procedures/missioni-fuori-sede.html#faq-note",
+    "title": "Missioni fuori sede",
+    "section": "FAQ / Note",
+    "text": "FAQ / Note\n\nFAQ 1: Dopo la missione, sarà necessario tornare sulla piattaforma per l’inserimento del consuntivo spese. Infine, tutte le ricevute cartacee e scontrini andranno consegnate a Giovanna Mezzetti (DPG)"
+  },
+  {
+    "objectID": "procedures/missioni-fuori-sede.html#tutti-i-campi-disponibili",
+    "href": "procedures/missioni-fuori-sede.html#tutti-i-campi-disponibili",
+    "title": "Missioni fuori sede",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nMissioni fuori sede\n\n\ndescrizione\nSvolgimento missioni fuori sede per qualsiasi finalità\n\n\nStrutturaReferente1\nGiovanna Mezzetti\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://www.unipd.it/richieste/\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nDopo la missione, sarà necessario tornare sulla piattaforma per l’inserimento del consuntivo spese. Infine, tutte le ricevute cartacee e scontrini andranno consegnate a Giovanna Mezzetti (DPG)\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nmissioni-fuori-sede\n\n\nslug\nmissioni-fuori-sede"
+  },
+  {
+    "objectID": "procedures/credenziali-unipd.html",
+    "href": "procedures/credenziali-unipd.html",
+    "title": "Credenziali Unipd",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/credenziali-unipd.html#descrizione",
+    "href": "procedures/credenziali-unipd.html#descrizione",
+    "title": "Credenziali Unipd",
+    "section": "Descrizione",
+    "text": "Descrizione\nLe credenziali @unipd.it vengono generate a partire dalla mezzanotte del giorno in cui è prevista la presa di servizio. Per l’attribuzione della username e della password il Ricercatore deve contattare il Servizio di Help Desk informatico dell’Ateneo per l’area Servizi Informatici e Telematici al numero 049 8273722 dal lunedì al venerdì dalle ore 8.30 alle ore 17.30 e seguire le istruzioni (la password viene comunicata telefonicamente) per effettuare la procedura di attivazione. SOltanto a seguito dell’attivazione delle credenziali @unipd.it sarà possibile accedere all’Help Desk tramite SSO."
+  },
+  {
+    "objectID": "procedures/credenziali-unipd.html#categorie",
+    "href": "procedures/credenziali-unipd.html#categorie",
+    "title": "Credenziali Unipd",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/credenziali-unipd.html#referenti-e-contatti",
+    "href": "procedures/credenziali-unipd.html#referenti-e-contatti",
+    "title": "Credenziali Unipd",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Help Desk Informatico di Ateneo\nContatto struttura 1: 049 8273722"
+  },
+  {
+    "objectID": "procedures/credenziali-unipd.html#tutti-i-campi-disponibili",
+    "href": "procedures/credenziali-unipd.html#tutti-i-campi-disponibili",
+    "title": "Credenziali Unipd",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nCredenziali Unipd\n\n\ndescrizione\nLe credenziali @unipd.it vengono generate a partire dalla mezzanotte del giorno in cui è prevista la presa di servizio. Per l’attribuzione della username e della password il Ricercatore deve contattare il Servizio di Help Desk informatico dell’Ateneo per l’area Servizi Informatici e Telematici al numero 049 8273722 dal lunedì al venerdì dalle ore 8.30 alle ore 17.30 e seguire le istruzioni (la password viene comunicata telefonicamente) per effettuare la procedura di attivazione. SOltanto a seguito dell’attivazione delle credenziali @unipd.it sarà possibile accedere all’Help Desk tramite SSO.\n\n\nStrutturaReferente1\nHelp Desk Informatico di Ateneo\n\n\nContattoStruttura1\n049 8273722\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\ncredenziali-unipd\n\n\nslug\ncredenziali-unipd"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-didattica.html",
+    "href": "procedures/corsi-obbligatori-didattica.html",
+    "title": "Corsi Obbligatori Didattica",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-didattica.html#descrizione",
+    "href": "procedures/corsi-obbligatori-didattica.html#descrizione",
+    "title": "Corsi Obbligatori Didattica",
+    "section": "Descrizione",
+    "text": "Descrizione\nI nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18 mesi dalla presa di servizio devono inoltre seguire un corso di didattica (T4L) della durata di 24 ore ripartito in più giornate, online e in presenza."
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-didattica.html#link-operativo",
+    "href": "procedures/corsi-obbligatori-didattica.html#link-operativo",
+    "title": "Corsi Obbligatori Didattica",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://www.unipd.it/teaching4learning"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-didattica.html#link-utili",
+    "href": "procedures/corsi-obbligatori-didattica.html#link-utili",
+    "title": "Corsi Obbligatori Didattica",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://www.unipd.it/teaching4learning"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-didattica.html#categorie",
+    "href": "procedures/corsi-obbligatori-didattica.html#categorie",
+    "title": "Corsi Obbligatori Didattica",
+    "section": "Categorie",
+    "text": "Categorie\n\ndidattica\nwelcome"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-didattica.html#tutti-i-campi-disponibili",
+    "href": "procedures/corsi-obbligatori-didattica.html#tutti-i-campi-disponibili",
+    "title": "Corsi Obbligatori Didattica",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nCorsi Obbligatori Didattica\n\n\ndescrizione\nI nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18 mesi dalla presa di servizio devono inoltre seguire un corso di didattica (T4L) della durata di 24 ore ripartito in più giornate, online e in presenza.\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://www.unipd.it/teaching4learning\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\ncorsi-obbligatori-didattica\n\n\nslug\ncorsi-obbligatori-didattica"
+  },
+  {
+    "objectID": "procedures/compilazione-registro-didattico.html",
+    "href": "procedures/compilazione-registro-didattico.html",
+    "title": "Compilazione registro didattico",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/compilazione-registro-didattico.html#descrizione",
+    "href": "procedures/compilazione-registro-didattico.html#descrizione",
+    "title": "Compilazione registro didattico",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/compilazione-registro-didattico.html#link-operativo",
+    "href": "procedures/compilazione-registro-didattico.html#link-operativo",
+    "title": "Compilazione registro didattico",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://unipd.u-web.cineca.it/appts/registro/"
+  },
+  {
+    "objectID": "procedures/compilazione-registro-didattico.html#link-utili",
+    "href": "procedures/compilazione-registro-didattico.html#link-utili",
+    "title": "Compilazione registro didattico",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://unipd.u-web.cineca.it/appts/registro/"
+  },
+  {
+    "objectID": "procedures/compilazione-registro-didattico.html#categorie",
+    "href": "procedures/compilazione-registro-didattico.html#categorie",
+    "title": "Compilazione registro didattico",
+    "section": "Categorie",
+    "text": "Categorie\n\ndidattica"
+  },
+  {
+    "objectID": "procedures/compilazione-registro-didattico.html#tutti-i-campi-disponibili",
+    "href": "procedures/compilazione-registro-didattico.html#tutti-i-campi-disponibili",
+    "title": "Compilazione registro didattico",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nCompilazione registro didattico\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://unipd.u-web.cineca.it/appts/registro/\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\ncompilazione-registro-didattico\n\n\nslug\ncompilazione-registro-didattico"
+  },
+  {
+    "objectID": "procedures/certificazione-lingua-inglese.html",
+    "href": "procedures/certificazione-lingua-inglese.html",
+    "title": "Certificazione lingua inglese",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/certificazione-lingua-inglese.html#descrizione",
+    "href": "procedures/certificazione-lingua-inglese.html#descrizione",
+    "title": "Certificazione lingua inglese",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/certificazione-lingua-inglese.html#categorie",
+    "href": "procedures/certificazione-lingua-inglese.html#categorie",
+    "title": "Certificazione lingua inglese",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome\ndidattica"
+  },
+  {
+    "objectID": "procedures/certificazione-lingua-inglese.html#tutti-i-campi-disponibili",
+    "href": "procedures/certificazione-lingua-inglese.html#tutti-i-campi-disponibili",
+    "title": "Certificazione lingua inglese",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\ndidattica\n\n\ntitoloSezione\nCertificazione lingua inglese\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\ncertificazione-lingua-inglese\n\n\nslug\ncertificazione-lingua-inglese"
+  },
+  {
+    "objectID": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html",
+    "href": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html",
+    "title": "Attivazione parcheggio e accessi al polo di psicologia",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#descrizione",
+    "href": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#descrizione",
+    "title": "Attivazione parcheggio e accessi al polo di psicologia",
+    "section": "Descrizione",
+    "text": "Descrizione\nPer attivare il parcheggio e gli accessi al dipartimento bisogna compilare un modulo disponibile presso la segreteria di Direzione che verrà quindi inoltrato al polo di psicologia al quali ci si può rivolgere per ulteriori informazioni"
+  },
+  {
+    "objectID": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#categorie",
+    "href": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#categorie",
+    "title": "Attivazione parcheggio e accessi al polo di psicologia",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#referenti-e-contatti",
+    "href": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#referenti-e-contatti",
+    "title": "Attivazione parcheggio e accessi al polo di psicologia",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Segreteria di Direzione\nContatto struttura 1: direzione.dpg@unipd.it\nStruttura referente 2: Polo di Psicologia\nContatto struttura 2: accessi.polopsicologia@unipd.it"
+  },
+  {
+    "objectID": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#tutti-i-campi-disponibili",
+    "href": "procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html#tutti-i-campi-disponibili",
+    "title": "Attivazione parcheggio e accessi al polo di psicologia",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nAttivazione parcheggio e accessi al polo di psicologia\n\n\ndescrizione\nPer attivare il parcheggio e gli accessi al dipartimento bisogna compilare un modulo disponibile presso la segreteria di Direzione che verrà quindi inoltrato al polo di psicologia al quali ci si può rivolgere per ulteriori informazioni\n\n\nStrutturaReferente1\nSegreteria di Direzione\n\n\nContattoStruttura1\ndirezione.dpg@unipd.it\n\n\nStrutturaReferente2\nPolo di Psicologia\n\n\nContattoStruttura2\naccessi.polopsicologia@unipd.it\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nattivazione-parcheggio-e-accessi-al-polo-di-psicologia\n\n\nslug\nattivazione-parcheggio-e-accessi-al-polo-di-psicologia"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html",
+    "href": "procedures/accesso-laboratori-per-ricerca.html",
+    "title": "Accesso laboratori per ricerca",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#descrizione",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#descrizione",
+    "title": "Accesso laboratori per ricerca",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#link-operativo",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#link-operativo",
+    "title": "Accesso laboratori per ricerca",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://richieste.dpg.psy.unipd.it/accesso-ricerca/insert"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#documentazione",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#documentazione",
+    "title": "Accesso laboratori per ricerca",
+    "section": "Documentazione",
+    "text": "Documentazione\nhttps://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#link-utili",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#link-utili",
+    "title": "Accesso laboratori per ricerca",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://richieste.dpg.psy.unipd.it/accesso-ricerca/insert\nLink documentazione: https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#categorie",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#categorie",
+    "title": "Accesso laboratori per ricerca",
+    "section": "Categorie",
+    "text": "Categorie\n\ntecnico"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#referenti-e-contatti",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#referenti-e-contatti",
+    "title": "Accesso laboratori per ricerca",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Jacopo Torre"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#faq-note",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#faq-note",
+    "title": "Accesso laboratori per ricerca",
+    "section": "FAQ / Note",
+    "text": "FAQ / Note\n\nFAQ 1: Dopo l’inserimento, è necessario firmare la propria stessa richiesta su https://richieste.dpg.psy.unipd.it/sign . Infine, dopo l’approvazione della richiesta, è necessario chiedere l’abilitazione del badge e della prenotazione spazi via mail a accessi.dpg@unipd.it"
+  },
+  {
+    "objectID": "procedures/accesso-laboratori-per-ricerca.html#tutti-i-campi-disponibili",
+    "href": "procedures/accesso-laboratori-per-ricerca.html#tutti-i-campi-disponibili",
+    "title": "Accesso laboratori per ricerca",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ntecnico\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nAccesso laboratori per ricerca\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nJacopo Torre\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://richieste.dpg.psy.unipd.it/accesso-ricerca/insert\n\n\nlinkDocumentazione\nhttps://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori\n\n\nFAQ1\nDopo l’inserimento, è necessario firmare la propria stessa richiesta su https://richieste.dpg.psy.unipd.it/sign . Infine, dopo l’approvazione della richiesta, è necessario chiedere l’abilitazione del badge e della prenotazione spazi via mail a accessi.dpg@unipd.it\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\naccesso-laboratori-per-ricerca\n\n\nslug\naccesso-laboratori-per-ricerca"
+  },
+  {
+    "objectID": "procedures/abilitazione-accessi-aule-riunioni.html",
+    "href": "procedures/abilitazione-accessi-aule-riunioni.html",
+    "title": "Abilitazione accessi aule riunioni",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/abilitazione-accessi-aule-riunioni.html#descrizione",
+    "href": "procedures/abilitazione-accessi-aule-riunioni.html#descrizione",
+    "title": "Abilitazione accessi aule riunioni",
+    "section": "Descrizione",
+    "text": "Descrizione\nI dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. Richieste di attivazione badge per prelievo chiavi o accesso tramite lettore (dove disponibile), o richieste di informazioni, vanno rivolte a accessi.dpg@unipd.it , avendo cura di specificare il proprio numero di badge"
+  },
+  {
+    "objectID": "procedures/abilitazione-accessi-aule-riunioni.html#categorie",
+    "href": "procedures/abilitazione-accessi-aule-riunioni.html#categorie",
+    "title": "Abilitazione accessi aule riunioni",
+    "section": "Categorie",
+    "text": "Categorie\n\ntecnico"
+  },
+  {
+    "objectID": "procedures/abilitazione-accessi-aule-riunioni.html#referenti-e-contatti",
+    "href": "procedures/abilitazione-accessi-aule-riunioni.html#referenti-e-contatti",
+    "title": "Abilitazione accessi aule riunioni",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Jacopo Torre"
+  },
+  {
+    "objectID": "procedures/abilitazione-accessi-aule-riunioni.html#tutti-i-campi-disponibili",
+    "href": "procedures/abilitazione-accessi-aule-riunioni.html#tutti-i-campi-disponibili",
+    "title": "Abilitazione accessi aule riunioni",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ntecnico\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nAbilitazione accessi aule riunioni\n\n\ndescrizione\nI dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. Richieste di attivazione badge per prelievo chiavi o accesso tramite lettore (dove disponibile), o richieste di informazioni, vanno rivolte a accessi.dpg@unipd.it , avendo cura di specificare il proprio numero di badge\n\n\nStrutturaReferente1\nJacopo Torre\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nabilitazione-accessi-aule-riunioni\n\n\nslug\nabilitazione-accessi-aule-riunioni"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Teachings & Workshops",
+    "title": "Trova il link",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Description\n      \n      \n        Categories\n      \n      \n      \n      \n        lang\n      \n    \n  \n    \n      \n      \n    \n\n\n  \n     \n      \n      \n        \n      \n      \n      \n        \n          An introduction to Item Response Theory Models with R\n        \n        \n        The aim of the course is to give an overview on IRT models, with a focus on IRT models for dichotomous responses \n        \n        \n        \n          \n            \n              IRT\n            \n          \n            \n              psychometrics\n            \n          \n        \n        \n        \n          \n            OTTAVIA EPIFANIA\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Basics of Python for Data Science\n        \n        \n        Introductory Python for data science, hands-on basics, tools setup, core syntax, key libraries \n        \n        \n        \n          \n            \n              Python\n            \n          \n            \n              programming\n            \n          \n        \n        \n        \n          \n            ENRICO TOFFALINI\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Generalized Linear Models\n        \n        \n        PhD-level Generalized Linear Models course, R-package materials, labs, slides for applied statistical modeling \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              GLM\n            \n          \n            \n              modeling\n            \n          \n            \n              statistics\n            \n          \n        \n        \n        \n          \n            FILIPPO GAMBAROTA\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Structural Equation Modeling\n        \n        \n        PhD-level Structural Equation Modeling, theory, estimation, and applied modeling with observed and latent variables \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              SEM\n            \n          \n            \n              psychometrics\n            \n          \n            \n              modeling\n            \n          \n        \n        \n        \n          \n            TOMMASO FERACO\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Basics of R for Data Science\n        \n        \n        Foundational R programming for PhD students, data structures, control flow, and core statistical tools \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              programming\n            \n          \n        \n        \n        \n          \n            ENRICO TOFFALINI\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Introduzione a R\n        \n        \n        Basi di R, logica della programmazione, strutture di dati, e come scrivere codice. Ideale per studenti universitari \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              programming\n            \n          \n        \n        \n        \n          \n            MARGHERITA CALDERAN\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          A practical introduction to Evidence Accumulation Models\n        \n        \n        Evidence-accumulation models, modeling perceptual judgments with both response times and choice data \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              modeling\n            \n          \n        \n        \n        \n          \n            MARGHERITA CALDERAN\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Reporting Using Quarto\n        \n        \n        An introduction to Quarto and its basic features, along with a presentation on how to exploit it functionalities to create polished, professional outputs with embedded code chunks \n        \n        \n        \n          \n            \n              Quarto\n            \n          \n            \n              markdown\n            \n          \n        \n        \n        \n          \n            OTTAVIA EPIFANIA\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Evaluation of outliers and influential cases in a multivariate perspective\n        \n        \n        Practical R-based methods to define, detect, and manage univariate and multivariate outliers and influential cases \n        \n        \n        \n          \n            \n              statistics\n            \n          \n            \n              outliers\n            \n          \n            \n              influential cases\n            \n          \n            \n              R\n            \n          \n        \n        \n        \n          \n            GIANMARCO ALTOÈ\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Current issues in statistical inference for Psychology\n        \n        \n        Key challenges in psychological research statistics, statistical significance issues, replicability and reproducibility crises, and new strategies to enhance research quality \n        \n        \n        \n          \n            \n              statistics\n            \n          \n            \n              replicability crisis\n            \n          \n        \n        \n        \n          \n            MASSIMILIANO PASTORE\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Bayesian Data Analysis in Psychological Research\n        \n        \n        Introduces the Bayesian approach, covering probability basics, binomial and normal models. Includes practical training in STAN with R applications. \n        \n        \n        \n          \n            \n              statistics\n            \n          \n            \n              bayesian\n            \n          \n            \n              R\n            \n          \n            \n              Stan\n            \n          \n        \n        \n        \n          \n            MASSIMILIANO PASTORE\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Data Simulation in Psychological Studies\n        \n        \n        Data simulation for understanding and evaluating data analysis models. Extends Power and Design Analysis concepts, with simulations for linear, logistic, and reaction time models in R \n        \n        \n        \n          \n            \n              statistics\n            \n          \n            \n              R\n            \n          \n            \n              Monte Carlo\n            \n          \n            \n              simulation\n            \n          \n        \n        \n        \n          \n            MASSIMILIANO PASTORE\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Shine bright like an open-source app: Piccola introduzione a Shiny\n        \n        \n        Corso introduttivo a shiny \n        \n        \n        \n          \n            \n              shiny\n            \n          \n        \n        \n        \n          \n            OTTAVIA EPIFANIA\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          RcouRse - Introduction to R and shiny\n        \n        \n        This is a basic course on R and Shiny for the Qhelp seminar \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              shiny\n            \n          \n        \n        \n        \n          \n            OTTAVIA EPIFANIA\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          RMarkdown. Analisi riproducibili, presentazioni, report\n        \n        \n        Competenze base di RMarkdown (e Quarto), creare documenti PDF, HTML e presentazioni dal codice \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              markdown\n            \n          \n        \n        \n        \n          \n            AMBRA PERUGINI\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Basics of Power and Design Analysis\n        \n        \n        Power and design analysis with R to plan sample sizes and enhance research replicability \n        \n        \n        \n          \n            \n              power analysis\n            \n          \n            \n              design analysis\n            \n          \n            \n              R\n            \n          \n        \n        \n        \n          \n            GIANMARCO ALTOÈ\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Multiverse approches in multilab contexts\n        \n        \n        An introductory workshop on applying multiverse analysis to multilab research and its implementation in the MB2P project \n        \n        \n        \n          \n            \n              data processing\n            \n          \n            \n              phylosophy of science\n            \n          \n            \n              R\n            \n          \n            \n              statistics\n            \n          \n        \n        \n        \n          \n            GIULIA CALIGNANO\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Cognitive Pupillometry with OpenSesame and R\n        \n        \n        A course on using cognitive pupillometry to design experiments and analyze pupil data across the lifespan, with OpenSesame and R \n        \n        \n        \n          \n            \n              experiment design\n            \n          \n            \n              measurment\n            \n          \n            \n              data processing\n            \n          \n            \n              data analysis\n            \n          \n        \n        \n        \n          \n            GIULIA CALIGNANO\n          \n        \n      \n    \n  \n     \n      \n      \n        \n      \n      \n      \n        \n          Introduction to GLM (workshop)\n        \n        \n        Introductory workshop about Generalized Linear Models (logistic regression) \n        \n        \n        \n          \n            \n              R\n            \n          \n            \n              GLM\n            \n          \n            \n              modeling\n            \n          \n            \n              statistics\n            \n          \n        \n        \n        \n          \n            MARGHERITA CALDERAN, FILIPPO GAMBAROTA\n          \n        \n      \n    \n  \n\nNo matching items"
+    "text": "Questa pagina è generata automaticamente a partire da “foglioWIKI.xlsx”, per ora da locale, ma potrà essere generata anche direttamente dal file condiviso su Google Drive a cui tutti possono contribuire / commentare.\nQuesta pagina raccoglie le principali procedure di cui potresti aver bisogno per trovare il link a un documento o a una pagina web. Se non vedi subito quello che stai cercando, prova a utilizzare il filtro di ricerca qui sotto o a consultare le categorie elencate.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nAbilitazione accessi aule riunioni\n\n\n\ntecnico\n\n\n\nI dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. Richieste di attivazione badge per prelievo chiavi o…\n\n\n\n\n\n\n\n\n\nAccesso fotocopiatrici e stampanti\n\n\n\namministrativo\n\nwelcome\n\n\n\nIl badge multifunzione viene utilizzato anche come tessera per le fotocopie e le stampe. La guarda tecnica di dipartimento si occupa di attivare l’account. Una volta…\n\n\n\n\n\n\n\n\n\nAccesso laboratori per ricerca\n\n\n\ntecnico\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nAffidamenti d’incarico e borse\n\n\n\namministrativo\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nAttivazione parcheggio e accessi al polo di psicologia\n\n\n\namministrativo\n\nwelcome\n\n\n\nPer attivare il parcheggio e gli accessi al dipartimento bisogna compilare un modulo disponibile presso la segreteria di Direzione che verrà quindi inoltrato al polo di…\n\n\n\n\n\n\n\n\n\nBadge Multifunzione\n\n\n\namministrativo\n\nwelcome\n\n\n\nIl servizio dell’amministrazione centrale incaricato all’emissione del badge multifunzione cambia a seconda della categoria (Studenti – Servizio Segreterie studenti;…\n\n\n\n\n\n\n\n\n\nCertificazione lingua inglese\n\n\n\namministrativo\n\nwelcome\n\ndidattica\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nChiavi ufficio\n\n\n\namministrativo\n\nwelcome\n\n\n\nLe chiavi dell’ufficio sono fornite dalla segreteria di Direzione\n\n\n\n\n\n\n\n\n\nCompilazione registro didattico\n\n\n\ndidattica\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nComputer per l’ufficio\n\n\n\namministrativo\n\nwelcome\n\n\n\nPer l’attivazione del computer ci si può rivolgere alla guardia tecnica di dipartimento\n\n\n\n\n\n\n\n\n\nCorsi Obbligatori Didattica\n\n\n\ndidattica\n\nwelcome\n\n\n\nI nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18 mesi dalla presa di servizio devono inoltre seguire un corso di didattica (T4L) della durata…\n\n\n\n\n\n\n\n\n\nCorsi Obbligatori Sicurezza\n\n\n\namministrativo\n\nwelcome\n\n\n\nColoro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi di formazione sulla sicurezza, il primo della durata di 4 ore (corso base) e il secondo della…\n\n\n\n\n\n\n\n\n\nCredenziali Unipd\n\n\n\namministrativo\n\nwelcome\n\n\n\nLe credenziali @unipd.it vengono generate a partire dalla mezzanotte del giorno in cui è prevista la presa di servizio. Per l’attribuzione della username e della password il…\n\n\n\n\n\n\n\n\n\nFirma Digitale\n\n\n\namministrativo\n\nwelcome\n\ndidattica\n\n\n\nMolte procedure di Ateneo sono informatizzate e richiedono firma digitale. L’attivazione della firma digitale tramite piattaforma GO-SIGN va richiesta presso la segreteria…\n\n\n\n\n\n\n\n\n\nMissioni fuori sede\n\n\n\namministrativo\n\n\n\nSvolgimento missioni fuori sede per qualsiasi finalità\n\n\n\n\n\n\n\n\n\nMoodle\n\n\n\ndidattica\n\n\n\nMoodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi\n\n\n\n\n\n\n\n\n\nPiattaforma online per firma digitale\n\n\n\namministrativo\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nPortali Servizi\n\n\n\namministrativo\n\nwelcome\n\n\n\nI seguenti portali (UNIWEB, MYGEBES, SIT, U-WEB…)\n\n\n\n\n\n\n\n\n\nPrenotazione aule didattiche\n\n\n\ndidattica\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nPrenotazione aule riunioni\n\n\n\namministrativo\n\n\n\nI dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. La pagina al link indicato mostra le disponibilità e…\n\n\n\n\n\n\n\n\n\nRegistro didattico\n\n\n\ndidattica\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nRichiesta Incarico Esterno Docenti\n\n\n\namministrativo\n\n\n\nGli incarichi esterni dei docenti sono regolamentati ai sensi dell’art. 4 del Regolamento di Ateneo. In particolare gli incarichi di internazionalizzaione dell’insegnamento…\n\n\n\n\n\n\n\n\n\nRichiesta ordine materiali\n\n\n\namministrativo\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nRichiesta patrocinio Terza Missione\n\n\n\nterzaMissione\n\n\n\nRichiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Missione\n\n\n\n\n\n\n\n\n\nServizi agli studenti - inclusione\n\n\n\ndidattica\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\n\n\n\n\nSyllabus\n\n\n\ndidattica\n\n\n\nIl Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali…\n\n\n\n\n\n\n\n\n\nVerifica fondi disponibili\n\n\n\namministrativo\n\n\n\nDescrizione non ancora disponibile.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "procedures/accesso-fotocopiatrici-e-stampanti.html",
+    "href": "procedures/accesso-fotocopiatrici-e-stampanti.html",
+    "title": "Accesso fotocopiatrici e stampanti",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/accesso-fotocopiatrici-e-stampanti.html#descrizione",
+    "href": "procedures/accesso-fotocopiatrici-e-stampanti.html#descrizione",
+    "title": "Accesso fotocopiatrici e stampanti",
+    "section": "Descrizione",
+    "text": "Descrizione\nIl badge multifunzione viene utilizzato anche come tessera per le fotocopie e le stampe. La guarda tecnica di dipartimento si occupa di attivare l’account. Una volta ricevute le credenziali la tessera va attivata presso una delle stampanti. Il credito per usare la tessera va caricato presso la segreteria di direzione."
+  },
+  {
+    "objectID": "procedures/accesso-fotocopiatrici-e-stampanti.html#categorie",
+    "href": "procedures/accesso-fotocopiatrici-e-stampanti.html#categorie",
+    "title": "Accesso fotocopiatrici e stampanti",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/accesso-fotocopiatrici-e-stampanti.html#referenti-e-contatti",
+    "href": "procedures/accesso-fotocopiatrici-e-stampanti.html#referenti-e-contatti",
+    "title": "Accesso fotocopiatrici e stampanti",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Guardia Tecnica di Dipartimento\nContatto struttura 1: guardiatecnica.dpg@unipd.it\nStruttura referente 2: Segreteria di Direzione\nContatto struttura 2: direzione.dpg@unipd.it"
+  },
+  {
+    "objectID": "procedures/accesso-fotocopiatrici-e-stampanti.html#tutti-i-campi-disponibili",
+    "href": "procedures/accesso-fotocopiatrici-e-stampanti.html#tutti-i-campi-disponibili",
+    "title": "Accesso fotocopiatrici e stampanti",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nAccesso fotocopiatrici e stampanti\n\n\ndescrizione\nIl badge multifunzione viene utilizzato anche come tessera per le fotocopie e le stampe. La guarda tecnica di dipartimento si occupa di attivare l’account. Una volta ricevute le credenziali la tessera va attivata presso una delle stampanti. Il credito per usare la tessera va caricato presso la segreteria di direzione.\n\n\nStrutturaReferente1\nGuardia Tecnica di Dipartimento\n\n\nContattoStruttura1\nguardiatecnica.dpg@unipd.it\n\n\nStrutturaReferente2\nSegreteria di Direzione\n\n\nContattoStruttura2\ndirezione.dpg@unipd.it\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\naccesso-fotocopiatrici-e-stampanti\n\n\nslug\naccesso-fotocopiatrici-e-stampanti"
+  },
+  {
+    "objectID": "procedures/affidamenti-d-incarico-e-borse.html",
+    "href": "procedures/affidamenti-d-incarico-e-borse.html",
+    "title": "Affidamenti d’incarico e borse",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/affidamenti-d-incarico-e-borse.html#descrizione",
+    "href": "procedures/affidamenti-d-incarico-e-borse.html#descrizione",
+    "title": "Affidamenti d’incarico e borse",
+    "section": "Descrizione",
+    "text": "Descrizione\nDescrizione non ancora disponibile."
+  },
+  {
+    "objectID": "procedures/affidamenti-d-incarico-e-borse.html#categorie",
+    "href": "procedures/affidamenti-d-incarico-e-borse.html#categorie",
+    "title": "Affidamenti d’incarico e borse",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo"
+  },
+  {
+    "objectID": "procedures/affidamenti-d-incarico-e-borse.html#referenti-e-contatti",
+    "href": "procedures/affidamenti-d-incarico-e-borse.html#referenti-e-contatti",
+    "title": "Affidamenti d’incarico e borse",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Monica Cavicchi"
+  },
+  {
+    "objectID": "procedures/affidamenti-d-incarico-e-borse.html#faq-note",
+    "href": "procedures/affidamenti-d-incarico-e-borse.html#faq-note",
+    "title": "Affidamenti d’incarico e borse",
+    "section": "FAQ / Note",
+    "text": "FAQ / Note\n\nFAQ 1: Si suggerisce di rivolgersi alla referente per richiedere la modulistica"
+  },
+  {
+    "objectID": "procedures/affidamenti-d-incarico-e-borse.html#tutti-i-campi-disponibili",
+    "href": "procedures/affidamenti-d-incarico-e-borse.html#tutti-i-campi-disponibili",
+    "title": "Affidamenti d’incarico e borse",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nAffidamenti d’incarico e borse\n\n\ndescrizione\nvuoto\n\n\nStrutturaReferente1\nMonica Cavicchi\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nSi suggerisce di rivolgersi alla referente per richiedere la modulistica\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\naffidamenti-d-incarico-e-borse\n\n\nslug\naffidamenti-d-incarico-e-borse"
+  },
+  {
+    "objectID": "procedures/badge-multifunzione.html",
+    "href": "procedures/badge-multifunzione.html",
+    "title": "Badge Multifunzione",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/badge-multifunzione.html#descrizione",
+    "href": "procedures/badge-multifunzione.html#descrizione",
+    "title": "Badge Multifunzione",
+    "section": "Descrizione",
+    "text": "Descrizione\nIl servizio dell’amministrazione centrale incaricato all’emissione del badge multifunzione cambia a seconda della categoria (Studenti – Servizio Segreterie studenti; Dottorandi - Servizio Formazione alla Ricerca; Specializzandi - Formazione Post-Lauream; Docenti Strutturati – Servizio concorsi e carriere docenti; Personale Tecnico Amministrativo – Servizio Amministrazione del Personale). A titolo di esempio: per il rilascio del badge multifunzione, un Ricercatore è invitato a inviare, all’indirizzo di posta elettronica: carriere.docenti@unipd.it, una foto formato .jpeg del peso di non oltre 50 KB e con una risoluzione impostata all’atto della scansione non superiore i 300/600 dpi. Si riceverà comunicazione quando il badge è pronto. Il badge può essere ritirato al piano terra della segreteria di Palazzo Storione o si può richiederne l’invio tramite posta interna. La prima opzione è molto più veloce e quindi consigliata dato che permette di attivare tutte le opzioni del badge il più rapidamente possibile."
+  },
+  {
+    "objectID": "procedures/badge-multifunzione.html#categorie",
+    "href": "procedures/badge-multifunzione.html#categorie",
+    "title": "Badge Multifunzione",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/badge-multifunzione.html#tutti-i-campi-disponibili",
+    "href": "procedures/badge-multifunzione.html#tutti-i-campi-disponibili",
+    "title": "Badge Multifunzione",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nBadge Multifunzione\n\n\ndescrizione\nIl servizio dell’amministrazione centrale incaricato all’emissione del badge multifunzione cambia a seconda della categoria (Studenti – Servizio Segreterie studenti; Dottorandi - Servizio Formazione alla Ricerca; Specializzandi - Formazione Post-Lauream; Docenti Strutturati – Servizio concorsi e carriere docenti; Personale Tecnico Amministrativo – Servizio Amministrazione del Personale). A titolo di esempio: per il rilascio del badge multifunzione, un Ricercatore è invitato a inviare, all’indirizzo di posta elettronica: carriere.docenti@unipd.it, una foto formato .jpeg del peso di non oltre 50 KB e con una risoluzione impostata all’atto della scansione non superiore i 300/600 dpi. Si riceverà comunicazione quando il badge è pronto. Il badge può essere ritirato al piano terra della segreteria di Palazzo Storione o si può richiederne l’invio tramite posta interna. La prima opzione è molto più veloce e quindi consigliata dato che permette di attivare tutte le opzioni del badge il più rapidamente possibile.\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nbadge-multifunzione\n\n\nslug\nbadge-multifunzione"
+  },
+  {
+    "objectID": "procedures/chiavi-ufficio.html",
+    "href": "procedures/chiavi-ufficio.html",
+    "title": "Chiavi ufficio",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/chiavi-ufficio.html#descrizione",
+    "href": "procedures/chiavi-ufficio.html#descrizione",
+    "title": "Chiavi ufficio",
+    "section": "Descrizione",
+    "text": "Descrizione\nLe chiavi dell’ufficio sono fornite dalla segreteria di Direzione"
+  },
+  {
+    "objectID": "procedures/chiavi-ufficio.html#categorie",
+    "href": "procedures/chiavi-ufficio.html#categorie",
+    "title": "Chiavi ufficio",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/chiavi-ufficio.html#referenti-e-contatti",
+    "href": "procedures/chiavi-ufficio.html#referenti-e-contatti",
+    "title": "Chiavi ufficio",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Segreteria di Direzione\nContatto struttura 1: direzione.dpg@unipd.it"
+  },
+  {
+    "objectID": "procedures/chiavi-ufficio.html#tutti-i-campi-disponibili",
+    "href": "procedures/chiavi-ufficio.html#tutti-i-campi-disponibili",
+    "title": "Chiavi ufficio",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nChiavi ufficio\n\n\ndescrizione\nLe chiavi dell’ufficio sono fornite dalla segreteria di Direzione\n\n\nStrutturaReferente1\nSegreteria di Direzione\n\n\nContattoStruttura1\ndirezione.dpg@unipd.it\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nchiavi-ufficio\n\n\nslug\nchiavi-ufficio"
+  },
+  {
+    "objectID": "procedures/computer-per-l-ufficio.html",
+    "href": "procedures/computer-per-l-ufficio.html",
+    "title": "Computer per l’ufficio",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/computer-per-l-ufficio.html#descrizione",
+    "href": "procedures/computer-per-l-ufficio.html#descrizione",
+    "title": "Computer per l’ufficio",
+    "section": "Descrizione",
+    "text": "Descrizione\nPer l’attivazione del computer ci si può rivolgere alla guardia tecnica di dipartimento"
+  },
+  {
+    "objectID": "procedures/computer-per-l-ufficio.html#categorie",
+    "href": "procedures/computer-per-l-ufficio.html#categorie",
+    "title": "Computer per l’ufficio",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/computer-per-l-ufficio.html#referenti-e-contatti",
+    "href": "procedures/computer-per-l-ufficio.html#referenti-e-contatti",
+    "title": "Computer per l’ufficio",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Guardia Tecnica di Dipartimento\nContatto struttura 1: guardiatecnica.dpg@unipd.it"
+  },
+  {
+    "objectID": "procedures/computer-per-l-ufficio.html#tutti-i-campi-disponibili",
+    "href": "procedures/computer-per-l-ufficio.html#tutti-i-campi-disponibili",
+    "title": "Computer per l’ufficio",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nComputer per l’ufficio\n\n\ndescrizione\nPer l’attivazione del computer ci si può rivolgere alla guardia tecnica di dipartimento\n\n\nStrutturaReferente1\nGuardia Tecnica di Dipartimento\n\n\nContattoStruttura1\nguardiatecnica.dpg@unipd.it\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\ncomputer-per-l-ufficio\n\n\nslug\ncomputer-per-l-ufficio"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-sicurezza.html",
+    "href": "procedures/corsi-obbligatori-sicurezza.html",
+    "title": "Corsi Obbligatori Sicurezza",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-sicurezza.html#descrizione",
+    "href": "procedures/corsi-obbligatori-sicurezza.html#descrizione",
+    "title": "Corsi Obbligatori Sicurezza",
+    "section": "Descrizione",
+    "text": "Descrizione\nColoro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi di formazione sulla sicurezza, il primo della durata di 4 ore (corso base) e il secondo della durata di 12 ore (corso ad alto rischio). I corsi hanno una validità di cinque anni."
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-sicurezza.html#documentazione",
+    "href": "procedures/corsi-obbligatori-sicurezza.html#documentazione",
+    "title": "Corsi Obbligatori Sicurezza",
+    "section": "Documentazione",
+    "text": "Documentazione\nhttps://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-sicurezza.html#link-utili",
+    "href": "procedures/corsi-obbligatori-sicurezza.html#link-utili",
+    "title": "Corsi Obbligatori Sicurezza",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink documentazione: https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-sicurezza.html#categorie",
+    "href": "procedures/corsi-obbligatori-sicurezza.html#categorie",
+    "title": "Corsi Obbligatori Sicurezza",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-sicurezza.html#referenti-e-contatti",
+    "href": "procedures/corsi-obbligatori-sicurezza.html#referenti-e-contatti",
+    "title": "Corsi Obbligatori Sicurezza",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Commissione Laboratori\nContatto struttura 1: commissionelaboratoriespazi.dpg@unipd.it\nStruttura referente 2: Accesso laboratori\nContatto struttura 2: accessi.dpg@unipd.it"
+  },
+  {
+    "objectID": "procedures/corsi-obbligatori-sicurezza.html#tutti-i-campi-disponibili",
+    "href": "procedures/corsi-obbligatori-sicurezza.html#tutti-i-campi-disponibili",
+    "title": "Corsi Obbligatori Sicurezza",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nCorsi Obbligatori Sicurezza\n\n\ndescrizione\nColoro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi di formazione sulla sicurezza, il primo della durata di 4 ore (corso base) e il secondo della durata di 12 ore (corso ad alto rischio). I corsi hanno una validità di cinque anni.\n\n\nStrutturaReferente1\nCommissione Laboratori\n\n\nContattoStruttura1\ncommissionelaboratoriespazi.dpg@unipd.it\n\n\nStrutturaReferente2\nAccesso laboratori\n\n\nContattoStruttura2\naccessi.dpg@unipd.it\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nhttps://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\ncorsi-obbligatori-sicurezza\n\n\nslug\ncorsi-obbligatori-sicurezza"
+  },
+  {
+    "objectID": "procedures/firma-digitale.html",
+    "href": "procedures/firma-digitale.html",
+    "title": "Firma Digitale",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/firma-digitale.html#descrizione",
+    "href": "procedures/firma-digitale.html#descrizione",
+    "title": "Firma Digitale",
+    "section": "Descrizione",
+    "text": "Descrizione\nMolte procedure di Ateneo sono informatizzate e richiedono firma digitale. L’attivazione della firma digitale tramite piattaforma GO-SIGN va richiesta presso la segreteria didattica della scuola di psicologia. Sarà necessario scaricare un app per il proprio smartphone in modo da ricevere il codice OTP per la firma. Una volta attivata la firma digitale, se utilizzata per firmare registri didattici e verbali dei voti, bisogna effettuare un test sulla piattaforma UNIWEB (Accedere con credenziali unipd -&gt; Offerta Formativa -&gt; Test Firma Digitale). In generale, per firmare documenti tramite firma digitale si può utilizzare la piattaforma U-SIGN di cineca."
+  },
+  {
+    "objectID": "procedures/firma-digitale.html#documentazione",
+    "href": "procedures/firma-digitale.html#documentazione",
+    "title": "Firma Digitale",
+    "section": "Documentazione",
+    "text": "Documentazione\nhttps://asit.unipd.it/servizi/firma-elettronica-spid/firma-elettronica-qualificata"
+  },
+  {
+    "objectID": "procedures/firma-digitale.html#link-utili",
+    "href": "procedures/firma-digitale.html#link-utili",
+    "title": "Firma Digitale",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink documentazione: https://asit.unipd.it/servizi/firma-elettronica-spid/firma-elettronica-qualificata"
+  },
+  {
+    "objectID": "procedures/firma-digitale.html#categorie",
+    "href": "procedures/firma-digitale.html#categorie",
+    "title": "Firma Digitale",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome\ndidattica"
+  },
+  {
+    "objectID": "procedures/firma-digitale.html#referenti-e-contatti",
+    "href": "procedures/firma-digitale.html#referenti-e-contatti",
+    "title": "Firma Digitale",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Scuola di Psicologia\nContatto struttura 1: didattica.psicologia@unipd.it"
+  },
+  {
+    "objectID": "procedures/firma-digitale.html#tutti-i-campi-disponibili",
+    "href": "procedures/firma-digitale.html#tutti-i-campi-disponibili",
+    "title": "Firma Digitale",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\ndidattica\n\n\ntitoloSezione\nFirma Digitale\n\n\ndescrizione\nMolte procedure di Ateneo sono informatizzate e richiedono firma digitale. L’attivazione della firma digitale tramite piattaforma GO-SIGN va richiesta presso la segreteria didattica della scuola di psicologia. Sarà necessario scaricare un app per il proprio smartphone in modo da ricevere il codice OTP per la firma. Una volta attivata la firma digitale, se utilizzata per firmare registri didattici e verbali dei voti, bisogna effettuare un test sulla piattaforma UNIWEB (Accedere con credenziali unipd -&gt; Offerta Formativa -&gt; Test Firma Digitale). In generale, per firmare documenti tramite firma digitale si può utilizzare la piattaforma U-SIGN di cineca.\n\n\nStrutturaReferente1\nScuola di Psicologia\n\n\nContattoStruttura1\ndidattica.psicologia@unipd.it\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nhttps://uniweb.unipd.it\n\n\nServizioCollegato2\nhttps://unipd.webfirma.cineca.it\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nhttps://asit.unipd.it/servizi/firma-elettronica-spid/firma-elettronica-qualificata\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nfirma-digitale\n\n\nslug\nfirma-digitale"
+  },
+  {
+    "objectID": "procedures/moodle.html",
+    "href": "procedures/moodle.html",
+    "title": "Moodle",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/moodle.html#descrizione",
+    "href": "procedures/moodle.html#descrizione",
+    "title": "Moodle",
+    "section": "Descrizione",
+    "text": "Descrizione\nMoodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi"
+  },
+  {
+    "objectID": "procedures/moodle.html#categorie",
+    "href": "procedures/moodle.html#categorie",
+    "title": "Moodle",
+    "section": "Categorie",
+    "text": "Categorie\n\ndidattica"
+  },
+  {
+    "objectID": "procedures/moodle.html#referenti-e-contatti",
+    "href": "procedures/moodle.html#referenti-e-contatti",
+    "title": "Moodle",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nContatto struttura 1: supporto.elearning@unipd.it"
+  },
+  {
+    "objectID": "procedures/moodle.html#tutti-i-campi-disponibili",
+    "href": "procedures/moodle.html#tutti-i-campi-disponibili",
+    "title": "Moodle",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nMoodle\n\n\ndescrizione\nMoodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nsupporto.elearning@unipd.it\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nmoodle\n\n\nslug\nmoodle"
+  },
+  {
+    "objectID": "procedures/portali-servizi.html",
+    "href": "procedures/portali-servizi.html",
+    "title": "Portali Servizi",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/portali-servizi.html#descrizione",
+    "href": "procedures/portali-servizi.html#descrizione",
+    "title": "Portali Servizi",
+    "section": "Descrizione",
+    "text": "Descrizione\nI seguenti portali (UNIWEB, MYGEBES, SIT, U-WEB…)"
+  },
+  {
+    "objectID": "procedures/portali-servizi.html#categorie",
+    "href": "procedures/portali-servizi.html#categorie",
+    "title": "Portali Servizi",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo\nwelcome"
+  },
+  {
+    "objectID": "procedures/portali-servizi.html#tutti-i-campi-disponibili",
+    "href": "procedures/portali-servizi.html#tutti-i-campi-disponibili",
+    "title": "Portali Servizi",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nwelcome\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nPortali Servizi\n\n\ndescrizione\nI seguenti portali (UNIWEB, MYGEBES, SIT, U-WEB…)\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nportali-servizi\n\n\nslug\nportali-servizi"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-riunioni.html",
+    "href": "procedures/prenotazione-aule-riunioni.html",
+    "title": "Prenotazione aule riunioni",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-riunioni.html#descrizione",
+    "href": "procedures/prenotazione-aule-riunioni.html#descrizione",
+    "title": "Prenotazione aule riunioni",
+    "section": "Descrizione",
+    "text": "Descrizione\nI dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. La pagina al link indicato mostra le disponibilità e riportante un pulsante per procedere alla prenotazione"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-riunioni.html#link-operativo",
+    "href": "procedures/prenotazione-aule-riunioni.html#link-operativo",
+    "title": "Prenotazione aule riunioni",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://apex.cca.unipd.it/pls/apex/f?p=1300:104::::104:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3382"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-riunioni.html#link-utili",
+    "href": "procedures/prenotazione-aule-riunioni.html#link-utili",
+    "title": "Prenotazione aule riunioni",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://apex.cca.unipd.it/pls/apex/f?p=1300:104::::104:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3382"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-riunioni.html#categorie",
+    "href": "procedures/prenotazione-aule-riunioni.html#categorie",
+    "title": "Prenotazione aule riunioni",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-riunioni.html#faq-note",
+    "href": "procedures/prenotazione-aule-riunioni.html#faq-note",
+    "title": "Prenotazione aule riunioni",
+    "section": "FAQ / Note",
+    "text": "FAQ / Note\n\nFAQ 1: Si fa notare che per prenotare un’aula riunioni bisogna essere preventivamente abilitati (vedi relativo punto)"
+  },
+  {
+    "objectID": "procedures/prenotazione-aule-riunioni.html#tutti-i-campi-disponibili",
+    "href": "procedures/prenotazione-aule-riunioni.html#tutti-i-campi-disponibili",
+    "title": "Prenotazione aule riunioni",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nPrenotazione aule riunioni\n\n\ndescrizione\nI dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. La pagina al link indicato mostra le disponibilità e riportante un pulsante per procedere alla prenotazione\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://apex.cca.unipd.it/pls/apex/f?p=1300:104::::104:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3382\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nSi fa notare che per prenotare un’aula riunioni bisogna essere preventivamente abilitati (vedi relativo punto)\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nprenotazione-aule-riunioni\n\n\nslug\nprenotazione-aule-riunioni"
+  },
+  {
+    "objectID": "procedures/richiesta-incarico-esterno-docenti.html",
+    "href": "procedures/richiesta-incarico-esterno-docenti.html",
+    "title": "Richiesta Incarico Esterno Docenti",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/richiesta-incarico-esterno-docenti.html#descrizione",
+    "href": "procedures/richiesta-incarico-esterno-docenti.html#descrizione",
+    "title": "Richiesta Incarico Esterno Docenti",
+    "section": "Descrizione",
+    "text": "Descrizione\nGli incarichi esterni dei docenti sono regolamentati ai sensi dell’art. 4 del Regolamento di Ateneo. In particolare gli incarichi di internazionalizzaione dell’insegnamento e della ricerca per i docenti a tempo pieno non possono superare la durata di 4 mesi l’anno, anche non continuativi. L’attività è svolgibile previa autorizzazione della Rettrice, sulla richiesta alla quale il Dipartimento di afferenza del docente è chiamato ad esprimere un parere previa valutazione della compatibilità dell’incarico esterno con i compiti istituzionali del richiedente. Al momento della richiesta è necessario allegare una lettrera di incarico rilasciata dall’ente assegnatario dell’incarico. Si suggerisce di contattare preventivamente il Servizio Personale Docenti per avere conferma della documentazione e del tipo i incaric richiesto. La richiesta vera e propria va inserita in SIT seguendo il percorso “Servizi personali”, “Link utili alla persona”, “Incarichi esterni docenti”, “Nuova richiesta” almeno 30 giorni prima dell’inizio dell’incarico."
+  },
+  {
+    "objectID": "procedures/richiesta-incarico-esterno-docenti.html#categorie",
+    "href": "procedures/richiesta-incarico-esterno-docenti.html#categorie",
+    "title": "Richiesta Incarico Esterno Docenti",
+    "section": "Categorie",
+    "text": "Categorie\n\namministrativo"
+  },
+  {
+    "objectID": "procedures/richiesta-incarico-esterno-docenti.html#referenti-e-contatti",
+    "href": "procedures/richiesta-incarico-esterno-docenti.html#referenti-e-contatti",
+    "title": "Richiesta Incarico Esterno Docenti",
+    "section": "Referenti e contatti",
+    "text": "Referenti e contatti\n\nStruttura referente 1: Ufficio Personale Docente\nContatto struttura 1: incarichi.docenti@unipd.it"
+  },
+  {
+    "objectID": "procedures/richiesta-incarico-esterno-docenti.html#tutti-i-campi-disponibili",
+    "href": "procedures/richiesta-incarico-esterno-docenti.html#tutti-i-campi-disponibili",
+    "title": "Richiesta Incarico Esterno Docenti",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\namministrativo\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nRichiesta Incarico Esterno Docenti\n\n\ndescrizione\nGli incarichi esterni dei docenti sono regolamentati ai sensi dell’art. 4 del Regolamento di Ateneo. In particolare gli incarichi di internazionalizzaione dell’insegnamento e della ricerca per i docenti a tempo pieno non possono superare la durata di 4 mesi l’anno, anche non continuativi. L’attività è svolgibile previa autorizzazione della Rettrice, sulla richiesta alla quale il Dipartimento di afferenza del docente è chiamato ad esprimere un parere previa valutazione della compatibilità dell’incarico esterno con i compiti istituzionali del richiedente. Al momento della richiesta è necessario allegare una lettrera di incarico rilasciata dall’ente assegnatario dell’incarico. Si suggerisce di contattare preventivamente il Servizio Personale Docenti per avere conferma della documentazione e del tipo i incaric richiesto. La richiesta vera e propria va inserita in SIT seguendo il percorso “Servizi personali”, “Link utili alla persona”, “Incarichi esterni docenti”, “Nuova richiesta” almeno 30 giorni prima dell’inizio dell’incarico.\n\n\nStrutturaReferente1\nUfficio Personale Docente\n\n\nContattoStruttura1\nincarichi.docenti@unipd.it\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nvuoto\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nrichiesta-incarico-esterno-docenti\n\n\nslug\nrichiesta-incarico-esterno-docenti"
+  },
+  {
+    "objectID": "procedures/richiesta-patrocinio-terza-missione.html",
+    "href": "procedures/richiesta-patrocinio-terza-missione.html",
+    "title": "Richiesta patrocinio Terza Missione",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/richiesta-patrocinio-terza-missione.html#descrizione",
+    "href": "procedures/richiesta-patrocinio-terza-missione.html#descrizione",
+    "title": "Richiesta patrocinio Terza Missione",
+    "section": "Descrizione",
+    "text": "Descrizione\nRichiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Missione"
+  },
+  {
+    "objectID": "procedures/richiesta-patrocinio-terza-missione.html#link-operativo",
+    "href": "procedures/richiesta-patrocinio-terza-missione.html#link-operativo",
+    "title": "Richiesta patrocinio Terza Missione",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nhttps://richieste.dpg.psy.unipd.it/patrocinio/insert"
+  },
+  {
+    "objectID": "procedures/richiesta-patrocinio-terza-missione.html#link-utili",
+    "href": "procedures/richiesta-patrocinio-terza-missione.html#link-utili",
+    "title": "Richiesta patrocinio Terza Missione",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: https://richieste.dpg.psy.unipd.it/patrocinio/insert"
+  },
+  {
+    "objectID": "procedures/richiesta-patrocinio-terza-missione.html#categorie",
+    "href": "procedures/richiesta-patrocinio-terza-missione.html#categorie",
+    "title": "Richiesta patrocinio Terza Missione",
+    "section": "Categorie",
+    "text": "Categorie\n\nterzaMissione"
+  },
+  {
+    "objectID": "procedures/richiesta-patrocinio-terza-missione.html#tutti-i-campi-disponibili",
+    "href": "procedures/richiesta-patrocinio-terza-missione.html#tutti-i-campi-disponibili",
+    "title": "Richiesta patrocinio Terza Missione",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\nterzaMissione\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nRichiesta patrocinio Terza Missione\n\n\ndescrizione\nRichiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Missione\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nhttps://richieste.dpg.psy.unipd.it/patrocinio/insert\n\n\nlinkDocumentazione\nvuoto\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nrichiesta-patrocinio-terza-missione\n\n\nslug\nrichiesta-patrocinio-terza-missione"
+  },
+  {
+    "objectID": "procedures/syllabus.html",
+    "href": "procedures/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "← Torna alle procedure"
+  },
+  {
+    "objectID": "procedures/syllabus.html#descrizione",
+    "href": "procedures/syllabus.html#descrizione",
+    "title": "Syllabus",
+    "section": "Descrizione",
+    "text": "Descrizione\nIl Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali didattici, e ne descrive le modalità di verifica. Il syllabus, inoltre, può riportare altre indicazioni ritenute utili per agevolare la frequenza (in presenza o a distanza) dell’insegnamento e le attività di studio individuale di studenti e studentesse, favorendone l’apprendimento consapevole e attivo."
+  },
+  {
+    "objectID": "procedures/syllabus.html#link-operativo",
+    "href": "procedures/syllabus.html#link-operativo",
+    "title": "Syllabus",
+    "section": "Link operativo",
+    "text": "Link operativo\n\n\n\n\n\n\nImportant\n\n\n\nwww.spgi.unipd.it"
+  },
+  {
+    "objectID": "procedures/syllabus.html#documentazione",
+    "href": "procedures/syllabus.html#documentazione",
+    "title": "Syllabus",
+    "section": "Documentazione",
+    "text": "Documentazione\nSI - link"
+  },
+  {
+    "objectID": "procedures/syllabus.html#link-utili",
+    "href": "procedures/syllabus.html#link-utili",
+    "title": "Syllabus",
+    "section": "Link utili",
+    "text": "Link utili\n\nLink operativo: www.spgi.unipd.it\nLink documentazione: SI - link"
+  },
+  {
+    "objectID": "procedures/syllabus.html#categorie",
+    "href": "procedures/syllabus.html#categorie",
+    "title": "Syllabus",
+    "section": "Categorie",
+    "text": "Categorie\n\ndidattica"
+  },
+  {
+    "objectID": "procedures/syllabus.html#tutti-i-campi-disponibili",
+    "href": "procedures/syllabus.html#tutti-i-campi-disponibili",
+    "title": "Syllabus",
+    "section": "Tutti i campi disponibili",
+    "text": "Tutti i campi disponibili\n\n\n\n\n\n\n\nCampo\nValore\n\n\n\n\nMacroCAT1\ndidattica\n\n\nMacroCAT2\nvuoto\n\n\nMacroCAT3\nvuoto\n\n\ntitoloSezione\nSyllabus\n\n\ndescrizione\nIl Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali didattici, e ne descrive le modalità di verifica. Il syllabus, inoltre, può riportare altre indicazioni ritenute utili per agevolare la frequenza (in presenza o a distanza) dell’insegnamento e le attività di studio individuale di studenti e studentesse, favorendone l’apprendimento consapevole e attivo.\n\n\nStrutturaReferente1\nvuoto\n\n\nContattoStruttura1\nvuoto\n\n\nStrutturaReferente2\nvuoto\n\n\nContattoStruttura2\nvuoto\n\n\nServizioCollegato1\nvuoto\n\n\nServizioCollegato2\nvuoto\n\n\nlinkOperativo\nwww.spgi.unipd.it\n\n\nlinkDocumentazione\nSI - link\n\n\nFAQ1\nvuoto\n\n\nFAQ2\nvuoto\n\n\nFAQ3\nvuoto\n\n\nslug_base\nsyllabus\n\n\nslug\nsyllabus"
   }
 ]

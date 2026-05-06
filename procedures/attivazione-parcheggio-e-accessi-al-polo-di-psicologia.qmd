@@ -1,0 +1,65 @@
+---
+title: Attivazione parcheggio e accessi al polo di psicologia
+description: Per attivare il parcheggio e gli accessi al dipartimento bisogna compilare
+  un modulo disponibile presso la segreteria di Direzione che verrà quindi inoltrato
+  al polo di psicologia al quali ci si può rivolgere per ulteriori informazioni
+categories:
+- amministrativo
+- welcome
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Per attivare il parcheggio e gli accessi al dipartimento bisogna compilare un modulo disponibile presso la segreteria di Direzione che verrà quindi inoltrato al polo di psicologia al quali ci si può rivolgere per ulteriori informazioni
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- amministrativo
+- welcome
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Segreteria di Direzione
+- **Contatto struttura 1**: direzione.dpg@unipd.it
+- **Struttura referente 2**: Polo di Psicologia
+- **Contatto struttura 2**: accessi.polopsicologia@unipd.it
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | amministrativo |
+| MacroCAT2 | welcome |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Attivazione parcheggio e accessi al polo di psicologia |
+| descrizione | Per attivare il parcheggio e gli accessi al dipartimento bisogna compilare un modulo disponibile presso la segreteria di Direzione che verrà quindi inoltrato al polo di psicologia al quali ci si può rivolgere per ulteriori informazioni |
+| StrutturaReferente1 | Segreteria di Direzione |
+| ContattoStruttura1 | direzione.dpg@unipd.it |
+| StrutturaReferente2 | Polo di Psicologia |
+| ContattoStruttura2 | accessi.polopsicologia@unipd.it |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | _vuoto_ |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | attivazione-parcheggio-e-accessi-al-polo-di-psicologia |
+| slug | attivazione-parcheggio-e-accessi-al-polo-di-psicologia |

@@ -1,19 +1,15 @@
 project:
   type: website
   output-dir: docs
-  pre-render: 
-    - quarto-scripts/create-teaching-yml.r
+  pre-render:
+    - Rscript R/generate-pages.R
 
 website:
-  title: "PSICOSTAT"
-  favicon: assets/faviconpsicostat.png
-  navbar:
-    logo: assets/simplelogopsicostat.png
-    logo-href: https://psicostat.dpss.psy.unipd.it/
+  title: "'Trova il link' o analogo titolo"
+  search: true
 
 format:
-   html:
-      css: custom.css
-
-execute: 
-  freeze: true
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

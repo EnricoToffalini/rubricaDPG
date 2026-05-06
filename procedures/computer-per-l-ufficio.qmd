@@ -1,0 +1,62 @@
+---
+title: Computer per l'ufficio
+description: Per l’attivazione del computer ci si può rivolgere alla guardia tecnica
+  di dipartimento
+categories:
+- amministrativo
+- welcome
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Per l’attivazione del computer ci si può rivolgere alla guardia tecnica di dipartimento
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- amministrativo
+- welcome
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Guardia Tecnica di Dipartimento
+- **Contatto struttura 1**: guardiatecnica.dpg@unipd.it
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | amministrativo |
+| MacroCAT2 | welcome |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Computer per l'ufficio |
+| descrizione | Per l’attivazione del computer ci si può rivolgere alla guardia tecnica di dipartimento |
+| StrutturaReferente1 | Guardia Tecnica di Dipartimento |
+| ContattoStruttura1 | guardiatecnica.dpg@unipd.it |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | _vuoto_ |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | computer-per-l-ufficio |
+| slug | computer-per-l-ufficio |

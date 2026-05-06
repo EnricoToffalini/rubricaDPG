@@ -1,6 +1,34 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/procedures/abilitazione-accessi-aule-riunioni.html",
+      "/procedures/accesso-fotocopiatrici-e-stampanti.html",
+      "/procedures/accesso-laboratori-per-ricerca.html",
+      "/procedures/affidamenti-d-incarico-e-borse.html",
+      "/procedures/attivazione-parcheggio-e-accessi-al-polo-di-psicologia.html",
+      "/procedures/badge-multifunzione.html",
+      "/procedures/certificazione-lingua-inglese.html",
+      "/procedures/chiavi-ufficio.html",
+      "/procedures/compilazione-registro-didattico.html",
+      "/procedures/computer-per-l-ufficio.html",
+      "/procedures/corsi-obbligatori-didattica.html",
+      "/procedures/corsi-obbligatori-sicurezza.html",
+      "/procedures/credenziali-unipd.html",
+      "/procedures/firma-digitale.html",
+      "/procedures/missioni-fuori-sede.html",
+      "/procedures/moodle.html",
+      "/procedures/piattaforma-online-per-firma-digitale.html",
+      "/procedures/portali-servizi.html",
+      "/procedures/prenotazione-aule-didattiche.html",
+      "/procedures/prenotazione-aule-riunioni.html",
+      "/procedures/registro-didattico.html",
+      "/procedures/richiesta-incarico-esterno-docenti.html",
+      "/procedures/richiesta-ordine-materiali.html",
+      "/procedures/richiesta-patrocinio-terza-missione.html",
+      "/procedures/servizi-agli-studenti-inclusione.html",
+      "/procedures/syllabus.html",
+      "/procedures/verifica-fondi-disponibili.html"
+    ]
   }
 ]

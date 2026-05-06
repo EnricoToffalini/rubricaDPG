@@ -1,0 +1,59 @@
+---
+title: Moodle
+description: Moodle è la piattaforma online di supporto alla didattica della Scuola
+  di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei
+  corsi
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Moodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+## Referenti e contatti
+
+- **Contatto struttura 1**: supporto.elearning@unipd.it
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | _vuoto_ |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Moodle |
+| descrizione | Moodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi |
+| StrutturaReferente1 | _vuoto_ |
+| ContattoStruttura1 | supporto.elearning@unipd.it |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | _vuoto_ |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | moodle |
+| slug | moodle |

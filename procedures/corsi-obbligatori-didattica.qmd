@@ -1,0 +1,67 @@
+---
+title: Corsi Obbligatori Didattica
+description: 'I nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e
+  RTT entro 18 mesi dalla presa di servizio devono inoltre seguire un corso di didattica
+  (T4L) della durata di 24 ore ripartito in più giornate, online e in presenza.'
+categories:
+- didattica
+- welcome
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+I nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18 mesi dalla presa di servizio devono inoltre seguire un corso di didattica (T4L) della durata di 24 ore ripartito in più giornate, online e in presenza.
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://www.unipd.it/teaching4learning](https://www.unipd.it/teaching4learning)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://www.unipd.it/teaching4learning](https://www.unipd.it/teaching4learning)
+
+
+
+
+## Categorie
+
+- didattica
+- welcome
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | welcome |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Corsi Obbligatori Didattica |
+| descrizione | I nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18 mesi dalla presa di servizio devono inoltre seguire un corso di didattica (T4L) della durata di 24 ore ripartito in più giornate, online e in presenza. |
+| StrutturaReferente1 | _vuoto_ |
+| ContattoStruttura1 | _vuoto_ |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | https://www.unipd.it/teaching4learning |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | corsi-obbligatori-didattica |
+| slug | corsi-obbligatori-didattica |

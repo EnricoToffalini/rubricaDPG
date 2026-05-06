@@ -1,0 +1,63 @@
+---
+title: Richiesta patrocinio Terza Missione
+description: Richiesta di patrocinio DPG oneroso e non oneroso per attività di Terza
+  Missione
+categories: terzaMissione
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Richiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Missione
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://richieste.dpg.psy.unipd.it/patrocinio/insert](https://richieste.dpg.psy.unipd.it/patrocinio/insert)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://richieste.dpg.psy.unipd.it/patrocinio/insert](https://richieste.dpg.psy.unipd.it/patrocinio/insert)
+
+
+
+
+## Categorie
+
+- terzaMissione
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | terzaMissione |
+| MacroCAT2 | _vuoto_ |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Richiesta patrocinio Terza Missione |
+| descrizione | Richiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Missione |
+| StrutturaReferente1 | _vuoto_ |
+| ContattoStruttura1 | _vuoto_ |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | https://richieste.dpg.psy.unipd.it/patrocinio/insert |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | richiesta-patrocinio-terza-missione |
+| slug | richiesta-patrocinio-terza-missione |

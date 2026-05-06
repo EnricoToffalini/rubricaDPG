@@ -1,0 +1,57 @@
+---
+title: Badge Multifunzione
+description: Il servizio dell’amministrazione centrale incaricato all’emissione del
+  badge multifunzione cambia a seconda della categoria (Studenti – Servizio Segreterie
+  studenti; Dottorandi - Servizio Formazione alla Ricerca; Specializzandi - Formazi...
+categories:
+- amministrativo
+- welcome
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Il servizio dell’amministrazione centrale incaricato all’emissione del badge multifunzione cambia a seconda della categoria (Studenti – Servizio Segreterie studenti; Dottorandi - Servizio Formazione alla Ricerca; Specializzandi - Formazione Post-Lauream; Docenti Strutturati – Servizio concorsi e carriere docenti; Personale Tecnico Amministrativo – Servizio Amministrazione del Personale). A titolo di esempio: per il rilascio del badge multifunzione, un Ricercatore è invitato a inviare, all’indirizzo di posta elettronica: carriere.docenti@unipd.it, una foto formato .jpeg del peso di non oltre 50 KB e con una risoluzione impostata all’atto della scansione non superiore i 300/600 dpi. Si riceverà comunicazione quando il badge è pronto. Il badge può essere ritirato al piano terra della segreteria di Palazzo Storione o si può richiederne l’invio tramite posta interna. La prima opzione è molto più veloce e quindi consigliata dato che permette di attivare tutte le opzioni del badge il più rapidamente possibile.
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- amministrativo
+- welcome
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | amministrativo |
+| MacroCAT2 | welcome |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Badge Multifunzione |
+| descrizione | Il servizio dell’amministrazione centrale incaricato all’emissione del badge multifunzione cambia a seconda della categoria (Studenti – Servizio Segreterie studenti; Dottorandi - Servizio Formazione alla Ricerca; Specializzandi - Formazione Post-Lauream; Docenti Strutturati – Servizio concorsi e carriere docenti; Personale Tecnico Amministrativo – Servizio Amministrazione del Personale). A titolo di esempio: per il rilascio del badge multifunzione, un Ricercatore è invitato a inviare, all’indirizzo di posta elettronica: carriere.docenti@unipd.it, una foto formato .jpeg del peso di non oltre 50 KB e con una risoluzione impostata all’atto della scansione non superiore i 300/600 dpi. Si riceverà comunicazione quando il badge è pronto. Il badge può essere ritirato al piano terra della segreteria di Palazzo Storione o si può richiederne l’invio tramite posta interna. La prima opzione è molto più veloce e quindi consigliata dato che permette di attivare tutte le opzioni del badge il più rapidamente possibile. |
+| StrutturaReferente1 | _vuoto_ |
+| ContattoStruttura1 | _vuoto_ |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | _vuoto_ |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | badge-multifunzione |
+| slug | badge-multifunzione |

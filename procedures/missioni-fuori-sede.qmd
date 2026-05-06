@@ -1,0 +1,72 @@
+---
+title: Missioni fuori sede
+description: Svolgimento missioni fuori sede per qualsiasi finalità
+categories: amministrativo
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Svolgimento missioni fuori sede per qualsiasi finalità
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://www.unipd.it/richieste/](https://www.unipd.it/richieste/)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://www.unipd.it/richieste/](https://www.unipd.it/richieste/)
+
+
+
+
+## Categorie
+
+- amministrativo
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Giovanna Mezzetti
+
+
+
+
+## FAQ / Note
+
+- **FAQ 1**: Dopo la missione, sarà necessario tornare sulla piattaforma per l'inserimento del consuntivo spese. Infine, tutte le ricevute cartacee e scontrini andranno consegnate a Giovanna Mezzetti (DPG)
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | amministrativo |
+| MacroCAT2 | _vuoto_ |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Missioni fuori sede |
+| descrizione | Svolgimento missioni fuori sede per qualsiasi finalità |
+| StrutturaReferente1 | Giovanna Mezzetti |
+| ContattoStruttura1 | _vuoto_ |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | https://www.unipd.it/richieste/ |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | Dopo la missione, sarà necessario tornare sulla piattaforma per l'inserimento del consuntivo spese. Infine, tutte le ricevute cartacee e scontrini andranno consegnate a Giovanna Mezzetti (DPG) |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | missioni-fuori-sede |
+| slug | missioni-fuori-sede |

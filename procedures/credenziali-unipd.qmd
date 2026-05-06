@@ -1,0 +1,63 @@
+---
+title: Credenziali Unipd
+description: Le credenziali @unipd.it vengono generate a partire dalla mezzanotte
+  del giorno in cui è prevista la presa di servizio. Per l’attribuzione della username
+  e della password il Ricercatore deve contattare il Servizio di Help Desk informatic...
+categories:
+- amministrativo
+- welcome
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Le credenziali @unipd.it vengono generate a partire dalla mezzanotte del giorno in cui è prevista la presa di servizio. Per l’attribuzione della username e della password il Ricercatore deve contattare il Servizio di Help Desk informatico dell’Ateneo per l'area Servizi Informatici e Telematici al numero 049 8273722 dal lunedì al venerdì dalle ore 8.30 alle ore 17.30 e seguire le istruzioni (la password viene comunicata telefonicamente) per effettuare la procedura di attivazione. SOltanto a seguito dell'attivazione delle credenziali @unipd.it sarà possibile accedere all'Help Desk tramite SSO.
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- amministrativo
+- welcome
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Help Desk Informatico di Ateneo
+- **Contatto struttura 1**: 049 8273722
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | amministrativo |
+| MacroCAT2 | welcome |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Credenziali Unipd |
+| descrizione | Le credenziali @unipd.it vengono generate a partire dalla mezzanotte del giorno in cui è prevista la presa di servizio. Per l’attribuzione della username e della password il Ricercatore deve contattare il Servizio di Help Desk informatico dell’Ateneo per l'area Servizi Informatici e Telematici al numero 049 8273722 dal lunedì al venerdì dalle ore 8.30 alle ore 17.30 e seguire le istruzioni (la password viene comunicata telefonicamente) per effettuare la procedura di attivazione. SOltanto a seguito dell'attivazione delle credenziali @unipd.it sarà possibile accedere all'Help Desk tramite SSO. |
+| StrutturaReferente1 | Help Desk Informatico di Ateneo |
+| ContattoStruttura1 | 049 8273722 |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | _vuoto_ |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | credenziali-unipd |
+| slug | credenziali-unipd |

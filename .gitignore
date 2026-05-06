@@ -4,4 +4,4 @@
 **/*.quarto_ipynb
 .Rproj.user
 .Rproj.user/
-psicostat-teaching-list.xlsx
+data/foglioWIKI.xlsx

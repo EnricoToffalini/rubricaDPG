@@ -1,0 +1,55 @@
+---
+title: Portali Servizi
+description: I seguenti portali (UNIWEB, MYGEBES, SIT, U-WEB...)
+categories:
+- amministrativo
+- welcome
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+I seguenti portali (UNIWEB, MYGEBES, SIT, U-WEB...)
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- amministrativo
+- welcome
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | amministrativo |
+| MacroCAT2 | welcome |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Portali Servizi |
+| descrizione | I seguenti portali (UNIWEB, MYGEBES, SIT, U-WEB...) |
+| StrutturaReferente1 | _vuoto_ |
+| ContattoStruttura1 | _vuoto_ |
+| StrutturaReferente2 | _vuoto_ |
+| ContattoStruttura2 | _vuoto_ |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | _vuoto_ |
+| linkDocumentazione | _vuoto_ |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | portali-servizi |
+| slug | portali-servizi |

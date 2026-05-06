@@ -1,0 +1,73 @@
+---
+title: Corsi Obbligatori Sicurezza
+description: Coloro che hanno bisogno dell’accesso ai laboratori devono seguire due
+  corsi di formazione sulla sicurezza, il primo della durata di 4 ore (corso base)
+  e il secondo della durata di 12 ore (corso ad alto rischio). I corsi hanno una validi...
+categories:
+- amministrativo
+- welcome
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Coloro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi di formazione sulla sicurezza, il primo della durata di 4 ore (corso base) e il secondo della durata di 12 ore (corso ad alto rischio). I corsi hanno una validità di cinque anni.
+
+
+
+
+## Documentazione
+
+[https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori](https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori)
+
+
+
+## Link utili
+
+- **Link documentazione**: [https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori](https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori)
+
+
+
+
+## Categorie
+
+- amministrativo
+- welcome
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Commissione Laboratori
+- **Contatto struttura 1**: commissionelaboratoriespazi.dpg@unipd.it
+- **Struttura referente 2**: Accesso laboratori
+- **Contatto struttura 2**: accessi.dpg@unipd.it
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | amministrativo |
+| MacroCAT2 | welcome |
+| MacroCAT3 | _vuoto_ |
+| titoloSezione | Corsi Obbligatori Sicurezza |
+| descrizione | Coloro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi di formazione sulla sicurezza, il primo della durata di 4 ore (corso base) e il secondo della durata di 12 ore (corso ad alto rischio). I corsi hanno una validità di cinque anni. |
+| StrutturaReferente1 | Commissione Laboratori |
+| ContattoStruttura1 | commissionelaboratoriespazi.dpg@unipd.it |
+| StrutturaReferente2 | Accesso laboratori |
+| ContattoStruttura2 | accessi.dpg@unipd.it |
+| ServizioCollegato1 | _vuoto_ |
+| ServizioCollegato2 | _vuoto_ |
+| linkOperativo | _vuoto_ |
+| linkDocumentazione | https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori |
+| FAQ1 | _vuoto_ |
+| FAQ2 | _vuoto_ |
+| FAQ3 | _vuoto_ |
+| slug_base | corsi-obbligatori-sicurezza |
+| slug | corsi-obbligatori-sicurezza |

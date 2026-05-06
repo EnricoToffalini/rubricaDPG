@@ -1,22 +1,16 @@
 ---
-title: "<a href='https://psicostat.github.io/psicostat-teaching/'>Teachings & Workshops</a>"
+title: "Trova il link"
 listing:
-  contents: teaching/teachings.yml
+  contents: procedures
   type: grid
-  sort: "date desc"
-  fields: [title, author, image, categories, description, lang]
-  template: templates/teaching.ejs
-  sort-ui: true
+  fields: [title, description, categories]
+  sort: "title"
   filter-ui: true
-  page-size: 24
+  sort-ui: true
+  page-size: 12
   categories: true
-engine: knitr
 ---
 
-```{=html}
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css"
-/>
-```
+*Questa pagina è generata automaticamente a partire da "foglioWIKI.xlsx", per ora da locale, ma potrà essere generata anche direttamente dal file condiviso su Google Drive a cui tutti possono contribuire / commentare.*
 
+Questa pagina raccoglie le principali procedure di cui potresti aver bisogno per trovare il link a un documento o a una pagina web. Se non vedi subito quello che stai cercando, prova a utilizzare il filtro di ricerca qui sotto o a consultare le categorie elencate.
