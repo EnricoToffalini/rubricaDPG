@@ -29,14 +29,48 @@ read_all_sheets <- function(x) {
 }
 
 drive_dowload_read <- function(x) {
-  file <- googledrive::drive_download(
-    x$online,
-    xfun::with_ext(x$local, "xlsx"),
-    overwrite = TRUE
+  local_xlsx <- xfun::with_ext(x$local, "xlsx")
+
+  if (!interactive() && Sys.getenv("GDRIVE_AUTH", "0") != "1") {
+    googledrive::drive_deauth()
+  }
+
+  out <- tryCatch(
+    {
+      file <- googledrive::drive_download(
+        x$online,
+        local_xlsx,
+        overwrite = TRUE
+      )
+      xlsx <- read_all_sheets(file$local_path)
+      saveRDS(xlsx, x$local)
+      readRDS(x$local)
+    },
+    error = function(e) {
+      if (file.exists(x$local)) {
+        message("Google Drive download failed, using cached local RDS: ", x$local)
+        return(readRDS(x$local))
+      }
+
+      if (file.exists(local_xlsx)) {
+        message("Google Drive download failed, using local XLSX: ", local_xlsx)
+        xlsx <- read_all_sheets(local_xlsx)
+        saveRDS(xlsx, x$local)
+        return(readRDS(x$local))
+      }
+
+      stop(
+        paste0(
+          "Cannot download data from Google Drive and no local cache is available.\n",
+          "Original error: ",
+          conditionMessage(e)
+        ),
+        call. = FALSE
+      )
+    }
   )
-  xlsx <- read_all_sheets(file$local_path)
-  saveRDS(xlsx, x$local)
-  readRDS(x$local)
+
+  out
 }
 
 flag <- function(x){
