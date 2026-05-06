@@ -57,20 +57,20 @@ Descrizione non ancora disponibile.
 | Campo | Valore |
 |---|---|
 | MacroCAT1 | tecnico |
-| MacroCAT2 | _vuoto_ |
-| MacroCAT3 | _vuoto_ |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
 | titoloSezione | Accesso laboratori per ricerca |
-| descrizione | _vuoto_ |
+| descrizione | - |
 | StrutturaReferente1 | Jacopo Torre |
-| ContattoStruttura1 | _vuoto_ |
-| StrutturaReferente2 | _vuoto_ |
-| ContattoStruttura2 | _vuoto_ |
-| ServizioCollegato1 | _vuoto_ |
-| ServizioCollegato2 | _vuoto_ |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
 | linkOperativo | https://richieste.dpg.psy.unipd.it/accesso-ricerca/insert |
 | linkDocumentazione | https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori |
 | FAQ1 | Dopo l'inserimento, è necessario firmare la propria stessa richiesta su https://richieste.dpg.psy.unipd.it/sign . Infine, dopo l'approvazione della richiesta, è necessario chiedere l'abilitazione del badge e della prenotazione spazi via mail a accessi.dpg@unipd.it |
-| FAQ2 | _vuoto_ |
-| FAQ3 | _vuoto_ |
+| FAQ2 | - |
+| FAQ3 | - |
 | slug_base | accesso-laboratori-per-ricerca |
 | slug | accesso-laboratori-per-ricerca |

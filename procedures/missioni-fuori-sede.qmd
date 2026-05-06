@@ -53,20 +53,20 @@ Svolgimento missioni fuori sede per qualsiasi finalità
 | Campo | Valore |
 |---|---|
 | MacroCAT1 | amministrativo |
-| MacroCAT2 | _vuoto_ |
-| MacroCAT3 | _vuoto_ |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
 | titoloSezione | Missioni fuori sede |
 | descrizione | Svolgimento missioni fuori sede per qualsiasi finalità |
 | StrutturaReferente1 | Giovanna Mezzetti |
-| ContattoStruttura1 | _vuoto_ |
-| StrutturaReferente2 | _vuoto_ |
-| ContattoStruttura2 | _vuoto_ |
-| ServizioCollegato1 | _vuoto_ |
-| ServizioCollegato2 | _vuoto_ |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
 | linkOperativo | https://www.unipd.it/richieste/ |
-| linkDocumentazione | _vuoto_ |
+| linkDocumentazione | - |
 | FAQ1 | Dopo la missione, sarà necessario tornare sulla piattaforma per l'inserimento del consuntivo spese. Infine, tutte le ricevute cartacee e scontrini andranno consegnate a Giovanna Mezzetti (DPG) |
-| FAQ2 | _vuoto_ |
-| FAQ3 | _vuoto_ |
+| FAQ2 | - |
+| FAQ3 | - |
 | slug_base | missioni-fuori-sede |
 | slug | missioni-fuori-sede |

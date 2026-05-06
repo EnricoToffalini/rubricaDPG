@@ -60,14 +60,14 @@ Molte procedure di Ateneo sono informatizzate e richiedono firma digitale. L’a
 | descrizione | Molte procedure di Ateneo sono informatizzate e richiedono firma digitale. L’attivazione della firma digitale tramite piattaforma GO-SIGN va richiesta presso la segreteria didattica della scuola di psicologia. Sarà necessario scaricare un app per il proprio smartphone in modo da ricevere il codice OTP per la firma. Una volta attivata la firma digitale, se utilizzata per firmare registri didattici e verbali dei voti, bisogna effettuare un test sulla piattaforma UNIWEB (Accedere con credenziali unipd -> Offerta Formativa -> Test Firma Digitale). In generale, per firmare documenti tramite firma digitale si può utilizzare la piattaforma U-SIGN di cineca. |
 | StrutturaReferente1 | Scuola di Psicologia |
 | ContattoStruttura1 | didattica.psicologia@unipd.it |
-| StrutturaReferente2 | _vuoto_ |
-| ContattoStruttura2 | _vuoto_ |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
 | ServizioCollegato1 | https://uniweb.unipd.it |
 | ServizioCollegato2 | https://unipd.webfirma.cineca.it |
-| linkOperativo | _vuoto_ |
+| linkOperativo | - |
 | linkDocumentazione | https://asit.unipd.it/servizi/firma-elettronica-spid/firma-elettronica-qualificata |
-| FAQ1 | _vuoto_ |
-| FAQ2 | _vuoto_ |
-| FAQ3 | _vuoto_ |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
 | slug_base | firma-digitale |
 | slug | firma-digitale |

@@ -74,7 +74,7 @@ make_all_fields_table <- function(row) {
     value <- clean_text(values[[field_name]])
     
     if (value == "") {
-      value <- "_vuoto_"
+      value <- "-"
     }
     
     value <- str_replace_all(value, "\\|", "\\\\|")

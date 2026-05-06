@@ -49,20 +49,20 @@ Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i 
 | Campo | Valore |
 |---|---|
 | MacroCAT1 | didattica |
-| MacroCAT2 | _vuoto_ |
-| MacroCAT3 | _vuoto_ |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
 | titoloSezione | Syllabus |
 | descrizione | Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali didattici, e ne descrive le modalità di verifica. Il syllabus, inoltre, può riportare altre indicazioni ritenute utili per agevolare la frequenza (in presenza o a distanza) dell’insegnamento e le attività di studio individuale di studenti e studentesse, favorendone l’apprendimento consapevole e attivo. |
-| StrutturaReferente1 | _vuoto_ |
-| ContattoStruttura1 | _vuoto_ |
-| StrutturaReferente2 | _vuoto_ |
-| ContattoStruttura2 | _vuoto_ |
-| ServizioCollegato1 | _vuoto_ |
-| ServizioCollegato2 | _vuoto_ |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
 | linkOperativo | www.spgi.unipd.it |
 | linkDocumentazione | SI - link |
-| FAQ1 | _vuoto_ |
-| FAQ2 | _vuoto_ |
-| FAQ3 | _vuoto_ |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
 | slug_base | syllabus |
 | slug | syllabus |

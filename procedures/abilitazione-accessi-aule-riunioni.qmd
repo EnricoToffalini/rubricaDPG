@@ -40,20 +40,20 @@ I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui 
 | Campo | Valore |
 |---|---|
 | MacroCAT1 | tecnico |
-| MacroCAT2 | _vuoto_ |
-| MacroCAT3 | _vuoto_ |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
 | titoloSezione | Abilitazione accessi aule riunioni |
 | descrizione | I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. Richieste di attivazione badge per prelievo chiavi o accesso tramite lettore (dove disponibile), o richieste di informazioni, vanno rivolte a accessi.dpg@unipd.it , avendo cura di specificare il proprio numero di badge |
 | StrutturaReferente1 | Jacopo Torre |
-| ContattoStruttura1 | _vuoto_ |
-| StrutturaReferente2 | _vuoto_ |
-| ContattoStruttura2 | _vuoto_ |
-| ServizioCollegato1 | _vuoto_ |
-| ServizioCollegato2 | _vuoto_ |
-| linkOperativo | _vuoto_ |
-| linkDocumentazione | _vuoto_ |
-| FAQ1 | _vuoto_ |
-| FAQ2 | _vuoto_ |
-| FAQ3 | _vuoto_ |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
 | slug_base | abilitazione-accessi-aule-riunioni |
 | slug | abilitazione-accessi-aule-riunioni |
