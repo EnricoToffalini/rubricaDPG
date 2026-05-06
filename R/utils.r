@@ -30,6 +30,12 @@ read_all_sheets <- function(x) {
 
 drive_dowload_read <- function(x) {
   local_xlsx <- xfun::with_ext(x$local, "xlsx")
+  force_download <- Sys.getenv("FORCE_TEACHING_DOWNLOAD", "0") == "1"
+
+  if (!force_download && file.exists(x$local)) {
+    message("Using cached local RDS: ", x$local)
+    return(readRDS(x$local))
+  }
 
   if (!interactive() && Sys.getenv("GDRIVE_AUTH", "0") != "1") {
     googledrive::drive_deauth()
