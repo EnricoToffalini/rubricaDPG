@@ -39,6 +39,15 @@
   margin-bottom: 0.5rem;
 }
 
+a {
+  color: #9b0014;
+  text-decoration: none;
+}
+a:hover {
+  color: #444444;
+  text-decoration: none;
+}
+
 ::selection {
   background: #9b0014;
   color: white;
