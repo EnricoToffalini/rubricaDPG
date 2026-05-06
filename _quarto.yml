@@ -5,7 +5,8 @@ project:
     - Rscript R/generate-pages.R
 
 website:
-  title: "'Trova il link' o analogo titolo"
+  favicon: favicon.ico
+  title: "Trova il link"
   search: true
 
 format:

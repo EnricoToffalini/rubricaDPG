@@ -1,12 +1,12 @@
 ---
-title: "Trova il link"
+title: "'Trova il link' o analogo titolo"
 listing:
   contents: procedures
   type: grid
   fields: [title, description, categories]
   sort: "title"
   filter-ui: true
-  sort-ui: true
+  sort-ui: false
   page-size: 12
   categories: true
 ---
