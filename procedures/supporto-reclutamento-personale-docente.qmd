@@ -1,0 +1,59 @@
+---
+title: Supporto reclutamento personale docente
+description: Gestione della Direzione del Dipartimento, delle carriere dei docenti
+  e il supporto agli organi collegiali della struttura
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Gestione della Direzione del Dipartimento, delle carriere dei docenti e il supporto agli organi collegiali della struttura
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Claudia dal Buono
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Supporto reclutamento personale docente |
+| descrizione | Gestione della Direzione del Dipartimento, delle carriere dei docenti e il supporto agli organi collegiali della struttura |
+| StrutturaReferente1 | Claudia dal Buono |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | supporto-reclutamento-personale-docente |
+| slug | supporto-reclutamento-personale-docente |

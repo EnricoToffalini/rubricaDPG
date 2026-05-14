@@ -1,0 +1,58 @@
+---
+title: Supporto alla ricerca nazionale
+description: Organizzazione eventi scientifici
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Organizzazione eventi scientifici
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Roberta Caldiero, Marika Zago
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Supporto alla ricerca nazionale |
+| descrizione | Organizzazione eventi scientifici |
+| StrutturaReferente1 | Roberta Caldiero, Marika Zago |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | supporto-alla-ricerca-nazionale |
+| slug | supporto-alla-ricerca-nazionale-7 |

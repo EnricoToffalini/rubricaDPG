@@ -1,0 +1,72 @@
+---
+title: Premio per le pratiche didattiche innovative Arqus UNIPD
+description: Il Premio per le pratiche didattiche innovative Arqus Unipd è un riconoscimento
+  volto a premiare l'impegno che la comunità accademica dedica allo sviluppo e alla
+  promozione di pratiche e strategie innovative al fine di incentivare il mig...
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Il Premio per le pratiche didattiche innovative Arqus Unipd è un riconoscimento volto a premiare l'impegno che la comunità accademica dedica allo sviluppo e alla promozione di pratiche e strategie innovative al fine di incentivare il miglioramento della didattica in Ateneo. Si inserisce nell'ambito delle iniziative promosse dall'Alleanza ARQUS per la promozione della didattica innovativa (Teaching Excellence Award).
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://www.unipd.it/t4l-premio-pratiche-didattiche-innovative-arqus](https://www.unipd.it/t4l-premio-pratiche-didattiche-innovative-arqus)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://www.unipd.it/t4l-premio-pratiche-didattiche-innovative-arqus](https://www.unipd.it/t4l-premio-pratiche-didattiche-innovative-arqus)
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+## Referenti e contatti
+
+- **Contatto struttura 1**: teaching4learning@unipd.it
+- **Struttura referente 2**: Change Agent di ateneo
+- **Contatto struttura 2**: https://www.unipd.it/t4l-change-agent
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Premio per le pratiche didattiche innovative Arqus UNIPD |
+| descrizione | Il Premio per le pratiche didattiche innovative Arqus Unipd è un riconoscimento volto a premiare l'impegno che la comunità accademica dedica allo sviluppo e alla promozione di pratiche e strategie innovative al fine di incentivare il miglioramento della didattica in Ateneo. Si inserisce nell'ambito delle iniziative promosse dall'Alleanza ARQUS per la promozione della didattica innovativa (Teaching Excellence Award). |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | teaching4learning@unipd.it |
+| StrutturaReferente2 | Change Agent di ateneo |
+| ContattoStruttura2 | https://www.unipd.it/t4l-change-agent |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://www.unipd.it/t4l-premio-pratiche-didattiche-innovative-arqus |
+| linkDocumentazione 1 | https://adiss.unipd.it/ufficio-offerta-formativa/didattica-innovativa-progetti/premio-pratiche-didattiche-innovative-arqus |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | premio-per-le-pratiche-didattiche-innovative-arqus-unipd |
+| slug | premio-per-le-pratiche-didattiche-innovative-arqus-unipd |

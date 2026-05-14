@@ -1,7 +1,7 @@
 ---
 title: Missioni fuori sede
 description: Svolgimento missioni fuori sede per qualsiasi finalità
-categories: amministrativo
+categories: contabilità
 ---
 
 [← Torna alle procedure](../index.qmd)
@@ -30,7 +30,7 @@ Svolgimento missioni fuori sede per qualsiasi finalità
 
 ## Categorie
 
-- amministrativo
+- contabilità
 
 
 
@@ -52,7 +52,7 @@ Svolgimento missioni fuori sede per qualsiasi finalità
 
 | Campo | Valore |
 |---|---|
-| MacroCAT1 | amministrativo |
+| MacroCAT1 | contabilità |
 | MacroCAT2 | - |
 | MacroCAT3 | - |
 | titoloSezione | Missioni fuori sede |
@@ -64,7 +64,8 @@ Svolgimento missioni fuori sede per qualsiasi finalità
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | https://www.unipd.it/richieste/ |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | Dopo la missione, sarà necessario tornare sulla piattaforma per l'inserimento del consuntivo spese. Infine, tutte le ricevute cartacee e scontrini andranno consegnate a Giovanna Mezzetti (DPG) |
 | FAQ2 | - |
 | FAQ3 | - |

@@ -1,0 +1,70 @@
+---
+title: Richiesta prenotazione laboratori
+description: I dipartimenti psicologici DPG e DPSS dispongono di diversi laboratori
+  a cui il personale docente può accedere. La pagina al link indicato mostra le disponibilità
+  e riportante un pulsante per procedere alla prenotazione
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+I dipartimenti psicologici DPG e DPSS dispongono di diversi laboratori a cui il personale docente può accedere. La pagina al link indicato mostra le disponibilità e riportante un pulsante per procedere alla prenotazione
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://apex.cca.unipd.it/pls/apex/f?p=1300:209:8572384546042:::209:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3342](https://apex.cca.unipd.it/pls/apex/f?p=1300:209:8572384546042:::209:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3342)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://apex.cca.unipd.it/pls/apex/f?p=1300:209:8572384546042:::209:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3342](https://apex.cca.unipd.it/pls/apex/f?p=1300:209:8572384546042:::209:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3342)
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Jacopo Torre
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Richiesta prenotazione laboratori |
+| descrizione | I dipartimenti psicologici DPG e DPSS dispongono di diversi laboratori a cui il personale docente può accedere. La pagina al link indicato mostra le disponibilità e riportante un pulsante per procedere alla prenotazione |
+| StrutturaReferente1 | Jacopo Torre |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://apex.cca.unipd.it/pls/apex/f?p=1300:209:8572384546042:::209:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3342 |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | richiesta-prenotazione-laboratori |
+| slug | richiesta-prenotazione-laboratori |

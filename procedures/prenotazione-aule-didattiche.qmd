@@ -1,6 +1,9 @@
 ---
 title: Prenotazione aule didattiche
-description: Descrizione non ancora disponibile.
+description: 'Le attività della Scuola di Psicologia si svolgono prevalentemente nelle
+  aule presenti all''interno di 4 sedi: l''edificio Psico 2 (via Venezia, 12), il
+  piano terra del Centro Linguistico di Ateneo (via Venezia, 16), l''edificio Psico
+  3 (Vi...'
 categories: didattica
 ---
 
@@ -8,12 +11,22 @@ categories: didattica
 
 ## Descrizione
 
-Descrizione non ancora disponibile.
+Le attività della Scuola di Psicologia si svolgono prevalentemente nelle aule presenti all'interno di 4 sedi: l'edificio Psico 2 (via Venezia, 12), il piano terra del Centro Linguistico di Ateneo (via Venezia, 16), l'edificio Psico 3 (Via Venezia, 14) e il padiglione 14 della Fiera di Padova. Il Polo multifunzionale di Psicologia coordina la gestione dei servizi e degli spazi comuni.
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://apex.cca.unipd.it/pls/apex/f?p=1300:150:10600870084904:::150:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE,P150_NUM_CARICAMENTI_PAGINA:526,16768,](https://apex.cca.unipd.it/pls/apex/f?p=1300:150:10600870084904:::150:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE,P150_NUM_CARICAMENTI_PAGINA:526,16768,)
+:::
 
 
 
 
 
+## Link utili
+
+- **Link operativo**: [https://apex.cca.unipd.it/pls/apex/f?p=1300:150:10600870084904:::150:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE,P150_NUM_CARICAMENTI_PAGINA:526,16768,](https://apex.cca.unipd.it/pls/apex/f?p=1300:150:10600870084904:::150:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE,P150_NUM_CARICAMENTI_PAGINA:526,16768,)
 
 
 
@@ -36,15 +49,16 @@ Descrizione non ancora disponibile.
 | MacroCAT2 | - |
 | MacroCAT3 | - |
 | titoloSezione | Prenotazione aule didattiche |
-| descrizione | - |
+| descrizione | Le attività della Scuola di Psicologia si svolgono prevalentemente nelle aule presenti all'interno di 4 sedi: l'edificio Psico 2 (via Venezia, 12), il piano terra del Centro Linguistico di Ateneo (via Venezia, 16), l'edificio Psico 3 (Via Venezia, 14) e il padiglione 14 della Fiera di Padova. Il Polo multifunzionale di Psicologia coordina la gestione dei servizi e degli spazi comuni. |
 | StrutturaReferente1 | - |
 | ContattoStruttura1 | - |
 | StrutturaReferente2 | - |
 | ContattoStruttura2 | - |
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
-| linkOperativo | - |
-| linkDocumentazione | - |
+| linkOperativo | https://apex.cca.unipd.it/pls/apex/f?p=1300:150:10600870084904:::150:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE,P150_NUM_CARICAMENTI_PAGINA:526,16768, |
+| linkDocumentazione 1 | https://psicologia.unipd.it/i-docenti/aule-richiesta-concessione-spazi |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

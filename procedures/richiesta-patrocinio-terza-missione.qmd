@@ -55,7 +55,8 @@ Richiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Mission
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | https://richieste.dpg.psy.unipd.it/patrocinio/insert |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

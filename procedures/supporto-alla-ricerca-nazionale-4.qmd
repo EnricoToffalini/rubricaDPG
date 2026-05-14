@@ -1,0 +1,58 @@
+---
+title: Supporto alla ricerca nazionale
+description: Bandi per borse di ricerca
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Bandi per borse di ricerca
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Monica Cavicchi
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Supporto alla ricerca nazionale |
+| descrizione | Bandi per borse di ricerca |
+| StrutturaReferente1 | Monica Cavicchi |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | supporto-alla-ricerca-nazionale |
+| slug | supporto-alla-ricerca-nazionale-4 |

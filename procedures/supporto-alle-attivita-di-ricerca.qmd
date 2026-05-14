@@ -1,0 +1,58 @@
+---
+title: Supporto alle attività di ricerca
+description: Servizio tecnico di supporto per attività di laboratorio
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Servizio tecnico di supporto per attività di laboratorio
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Jacopo Torre
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Supporto alle attività di ricerca |
+| descrizione | Servizio tecnico di supporto per attività di laboratorio |
+| StrutturaReferente1 | Jacopo Torre |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | supporto-alle-attivita-di-ricerca |
+| slug | supporto-alle-attivita-di-ricerca |

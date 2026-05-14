@@ -1,0 +1,58 @@
+---
+title: Gestione contratti leagti alle attività di ricerca
+description: Supporto alle gestione dei rapporti con collaboratori del Dipartimento
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Supporto alle gestione dei rapporti con collaboratori del Dipartimento
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Monica Cavicchi, Giulia Giacon, Carla Romagnolo
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Gestione contratti leagti alle attività di ricerca |
+| descrizione | Supporto alle gestione dei rapporti con collaboratori del Dipartimento |
+| StrutturaReferente1 | Monica Cavicchi, Giulia Giacon, Carla Romagnolo |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | gestione-contratti-leagti-alle-attivita-di-ricerca |
+| slug | gestione-contratti-leagti-alle-attivita-di-ricerca |

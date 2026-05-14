@@ -1,0 +1,72 @@
+---
+title: Didattica blended - online
+description: 'Linee guida per la didattica online: integrazione nei corsi di studio
+  convenzionali e nuove disposizioni per i corsi di studio misti, prevalentemente
+  e integralmente a distanza'
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Linee guida per la didattica online: integrazione nei corsi di studio convenzionali e nuove disposizioni per i corsi di studio misti, prevalentemente e integralmente a distanza
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://www.unipd.it/t4l-didattica-blended](https://www.unipd.it/t4l-didattica-blended)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://www.unipd.it/t4l-didattica-blended](https://www.unipd.it/t4l-didattica-blended)
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+## Referenti e contatti
+
+- **Contatto struttura 1**: teaching4learning@unipd.it
+- **Struttura referente 2**: Change Agent di ateneo
+- **Contatto struttura 2**: https://www.unipd.it/t4l-change-agent
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Didattica blended - online |
+| descrizione | Linee guida per la didattica online: integrazione nei corsi di studio convenzionali e nuove disposizioni per i corsi di studio misti, prevalentemente e integralmente a distanza |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | teaching4learning@unipd.it |
+| StrutturaReferente2 | Change Agent di ateneo |
+| ContattoStruttura2 | https://www.unipd.it/t4l-change-agent |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://www.unipd.it/t4l-didattica-blended |
+| linkDocumentazione 1 | https://adiss.unipd.it/offerta-formativa/didattica-innovativa-progetti/didattica-blended-online |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | didattica-blended-online |
+| slug | didattica-blended-online |

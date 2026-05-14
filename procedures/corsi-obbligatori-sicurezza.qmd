@@ -17,15 +17,7 @@ Coloro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi d
 
 
 
-## Documentazione
 
-[https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori](https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori)
-
-
-
-## Link utili
-
-- **Link documentazione**: [https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori](https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori)
 
 
 
@@ -65,7 +57,8 @@ Coloro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi d
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | - |
-| linkDocumentazione | https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori |
+| linkDocumentazione 1 | https://www.dpg.unipd.it/ricerca/laboratori/richiesta-daccesso-ai-laboratori |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

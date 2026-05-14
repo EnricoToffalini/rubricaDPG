@@ -1,0 +1,58 @@
+---
+title: App Orari Unipd
+description: App OrariUnipd è l'applicazione dell'Università di Padova che permette
+  agli studenti e alle studentesse di visualizzare e gestire l'orario delle lezioni
+  e degli appelli d'esame. È possibile creare in maniera veloce e intuitiva un profilo...
+categories:
+- didattica
+- student*
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+App OrariUnipd è l'applicazione dell'Università di Padova che permette agli studenti e alle studentesse di visualizzare e gestire l'orario delle lezioni e degli appelli d'esame. È possibile creare in maniera veloce e intuitiva un profilo personalizzato che include solo gli orari degli insegnamenti di interesse. Tramite l'app è inoltre possibile registrare la propria presenza in aula durante le lezioni e in aula studio e visualizzare in ogni momento lo stato di occupazione di aule e spazi studio di Ateneo.
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- didattica
+- student*
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | student* |
+| MacroCAT3 | - |
+| titoloSezione | App Orari Unipd |
+| descrizione | App OrariUnipd è l'applicazione dell'Università di Padova che permette agli studenti e alle studentesse di visualizzare e gestire l'orario delle lezioni e degli appelli d'esame. È possibile creare in maniera veloce e intuitiva un profilo personalizzato che include solo gli orari degli insegnamenti di interesse. Tramite l'app è inoltre possibile registrare la propria presenza in aula durante le lezioni e in aula studio e visualizzare in ogni momento lo stato di occupazione di aule e spazi studio di Ateneo. |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | https://www.unipd.it/orariunipd |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | app-orari-unipd |
+| slug | app-orari-unipd |

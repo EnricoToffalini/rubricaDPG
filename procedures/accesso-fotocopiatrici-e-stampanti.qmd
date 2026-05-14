@@ -4,7 +4,7 @@ description: Il badge multifunzione viene utilizzato anche come tessera per le f
   e le stampe. La guarda tecnica di dipartimento si occupa di attivare l’account.
   Una volta ricevute le credenziali la tessera va attivata presso una delle stampan...
 categories:
-- amministrativo
+- tecnico
 - welcome
 ---
 
@@ -24,7 +24,7 @@ Il badge multifunzione viene utilizzato anche come tessera per le fotocopie e le
 
 ## Categorie
 
-- amministrativo
+- tecnico
 - welcome
 
 
@@ -45,7 +45,7 @@ Il badge multifunzione viene utilizzato anche come tessera per le fotocopie e le
 
 | Campo | Valore |
 |---|---|
-| MacroCAT1 | amministrativo |
+| MacroCAT1 | tecnico |
 | MacroCAT2 | welcome |
 | MacroCAT3 | - |
 | titoloSezione | Accesso fotocopiatrici e stampanti |
@@ -57,7 +57,8 @@ Il badge multifunzione viene utilizzato anche come tessera per le fotocopie e le
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | - |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

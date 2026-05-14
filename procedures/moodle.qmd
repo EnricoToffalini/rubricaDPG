@@ -13,9 +13,19 @@ categories: didattica
 Moodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi
 
 
+## Link operativo
+
+:::{.callout-important}
+[https://psico.elearning.unipd.it/](https://psico.elearning.unipd.it/)
+:::
 
 
 
+
+
+## Link utili
+
+- **Link operativo**: [https://psico.elearning.unipd.it/](https://psico.elearning.unipd.it/)
 
 
 
@@ -28,7 +38,8 @@ Moodle è la piattaforma online di supporto alla didattica della Scuola di Psico
 
 ## Referenti e contatti
 
-- **Contatto struttura 1**: supporto.elearning@unipd.it
+- **Contatto struttura 1**: moodle.dpg@unipd.it
+- **Contatto struttura 2**: supporto.elearning@unipd.it
 
 
 
@@ -45,13 +56,14 @@ Moodle è la piattaforma online di supporto alla didattica della Scuola di Psico
 | titoloSezione | Moodle |
 | descrizione | Moodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi |
 | StrutturaReferente1 | - |
-| ContattoStruttura1 | supporto.elearning@unipd.it |
+| ContattoStruttura1 | moodle.dpg@unipd.it |
 | StrutturaReferente2 | - |
-| ContattoStruttura2 | - |
+| ContattoStruttura2 | supporto.elearning@unipd.it |
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
-| linkOperativo | - |
-| linkDocumentazione | - |
+| linkOperativo | https://psico.elearning.unipd.it/ |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

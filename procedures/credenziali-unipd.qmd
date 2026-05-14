@@ -55,7 +55,8 @@ Le credenziali @unipd.it vengono generate a partire dalla mezzanotte del giorno 
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | - |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

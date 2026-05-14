@@ -1,0 +1,58 @@
+---
+title: Supporto alla gestione delle attività di ricerca
+description: Supporto alle gestione dei rapporti con Enti esterni
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Supporto alle gestione dei rapporti con Enti esterni
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Marika Zago, Simona Fiore
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Supporto alla gestione delle attività di ricerca |
+| descrizione | Supporto alle gestione dei rapporti con Enti esterni |
+| StrutturaReferente1 | Marika Zago, Simona Fiore |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | supporto-alla-gestione-delle-attivita-di-ricerca |
+| slug | supporto-alla-gestione-delle-attivita-di-ricerca |

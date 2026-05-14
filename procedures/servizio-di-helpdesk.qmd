@@ -1,0 +1,63 @@
+---
+title: Servizio di HelpDesk
+description: Per aprire un ticket
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Per aprire un ticket
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://helpdesk.ammcentr.unipd.it/otrs/customer.pl?OTRSCustomerInterface=Eve1YyTNegMDd6RkRwL8Ja3m0Xpa7cmM](https://helpdesk.ammcentr.unipd.it/otrs/customer.pl?OTRSCustomerInterface=Eve1YyTNegMDd6RkRwL8Ja3m0Xpa7cmM)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://helpdesk.ammcentr.unipd.it/otrs/customer.pl?OTRSCustomerInterface=Eve1YyTNegMDd6RkRwL8Ja3m0Xpa7cmM](https://helpdesk.ammcentr.unipd.it/otrs/customer.pl?OTRSCustomerInterface=Eve1YyTNegMDd6RkRwL8Ja3m0Xpa7cmM)
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Servizio di HelpDesk |
+| descrizione | Per aprire un ticket |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://helpdesk.ammcentr.unipd.it/otrs/customer.pl?OTRSCustomerInterface=Eve1YyTNegMDd6RkRwL8Ja3m0Xpa7cmM |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | servizio-di-helpdesk |
+| slug | servizio-di-helpdesk |

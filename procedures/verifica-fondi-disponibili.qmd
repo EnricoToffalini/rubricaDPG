@@ -54,7 +54,8 @@ Descrizione non ancora disponibile.
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | https://apex.cca.unipd.it/pls/apex/f?p=376:4:13680169487078::::: |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

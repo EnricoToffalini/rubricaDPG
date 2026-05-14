@@ -1,0 +1,63 @@
+---
+title: DOR
+description: Criteri per il calcolo del punteggio per la ripartizione DOR
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Criteri per il calcolo del punteggio per la ripartizione DOR
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://www.dpg.unipd.it/sites/dpg.unipd.it/files/Criteri_DOR_2026.pdf](https://www.dpg.unipd.it/sites/dpg.unipd.it/files/Criteri_DOR_2026.pdf)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://www.dpg.unipd.it/sites/dpg.unipd.it/files/Criteri_DOR_2026.pdf](https://www.dpg.unipd.it/sites/dpg.unipd.it/files/Criteri_DOR_2026.pdf)
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | DOR |
+| descrizione | Criteri per il calcolo del punteggio per la ripartizione DOR |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://www.dpg.unipd.it/sites/dpg.unipd.it/files/Criteri_DOR_2026.pdf |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | dor |
+| slug | dor |

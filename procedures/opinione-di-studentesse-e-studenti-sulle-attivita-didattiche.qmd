@@ -1,0 +1,69 @@
+---
+title: Opinione di studentesse e studenti sulle attività didattiche
+description: La valutazione finalizzata al miglioramento della didattica è lo strumento
+  principale attraverso cui lo studente può esprimere la sua opinione riguardo la
+  didattica universitaria. Al termine delle lezioni di ogni insegnamento, prima di
+  i...
+categories:
+- didattica
+- student*
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+La valutazione finalizzata al miglioramento della didattica è lo strumento principale attraverso cui lo studente può esprimere la sua opinione riguardo la didattica universitaria. Al termine delle lezioni di ogni insegnamento, prima di iscriversi agli esami, gli studenti sono invitati a compilare su Uniweb un questionario per mezzo del quale esprimere il proprio giudizio sull'attività del docente responsabile.
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://opinionistudenti.didattica.unipd.it/](https://opinionistudenti.didattica.unipd.it/)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://opinionistudenti.didattica.unipd.it/](https://opinionistudenti.didattica.unipd.it/)
+
+
+
+
+## Categorie
+
+- didattica
+- student*
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | student* |
+| MacroCAT3 | - |
+| titoloSezione | Opinione di studentesse e studenti sulle attività didattiche |
+| descrizione | La valutazione finalizzata al miglioramento della didattica è lo strumento principale attraverso cui lo studente può esprimere la sua opinione riguardo la didattica universitaria. Al termine delle lezioni di ogni insegnamento, prima di iscriversi agli esami, gli studenti sono invitati a compilare su Uniweb un questionario per mezzo del quale esprimere il proprio giudizio sull'attività del docente responsabile. |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://opinionistudenti.didattica.unipd.it/ |
+| linkDocumentazione 1 | https://www.unipd.it/opinione-studenti-sulle-attivita-didattiche |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | opinione-di-studentesse-e-studenti-sulle-attivita-didattiche |
+| slug | opinione-di-studentesse-e-studenti-sulle-attivita-didattiche |

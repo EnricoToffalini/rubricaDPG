@@ -54,7 +54,8 @@ Descrizione non ancora disponibile.
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | https://unipd.webfirma.cineca.it/ |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

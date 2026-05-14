@@ -1,0 +1,62 @@
+---
+title: Bando progetti per il miglioramento della didattica
+description: L'Ateneo dal 2018 annualmente finanzia la realizzazione di progetti di
+  didattica innovativa orientati a favorire il miglioramento della didattica nei corsi
+  di laurea, laurea magistrale e laurea magistrale a ciclo unico.
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+L'Ateneo dal 2018 annualmente finanzia la realizzazione di progetti di didattica innovativa orientati a favorire il miglioramento della didattica nei corsi di laurea, laurea magistrale e laurea magistrale a ciclo unico.
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+## Referenti e contatti
+
+- **Contatto struttura 1**: teaching4learning@unipd.it
+- **Struttura referente 2**: Change Agent di ateneo
+- **Contatto struttura 2**: https://www.unipd.it/t4l-change-agent
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Bando progetti per il miglioramento della didattica |
+| descrizione | L'Ateneo dal 2018 annualmente finanzia la realizzazione di progetti di didattica innovativa orientati a favorire il miglioramento della didattica nei corsi di laurea, laurea magistrale e laurea magistrale a ciclo unico. |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | teaching4learning@unipd.it |
+| StrutturaReferente2 | Change Agent di ateneo |
+| ContattoStruttura2 | https://www.unipd.it/t4l-change-agent |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | https://adiss.unipd.it/ufficio-offerta-formativa/didattica-innovativa-progetti/bando-miglioramento-didattica |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | bando-progetti-per-il-miglioramento-della-didattica |
+| slug | bando-progetti-per-il-miglioramento-della-didattica |

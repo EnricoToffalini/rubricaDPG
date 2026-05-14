@@ -3,7 +3,7 @@ title: Computer per l'ufficio
 description: Per l’attivazione del computer ci si può rivolgere alla guardia tecnica
   di dipartimento
 categories:
-- amministrativo
+- tecnico
 - welcome
 ---
 
@@ -23,7 +23,7 @@ Per l’attivazione del computer ci si può rivolgere alla guardia tecnica di di
 
 ## Categorie
 
-- amministrativo
+- tecnico
 - welcome
 
 
@@ -42,7 +42,7 @@ Per l’attivazione del computer ci si può rivolgere alla guardia tecnica di di
 
 | Campo | Valore |
 |---|---|
-| MacroCAT1 | amministrativo |
+| MacroCAT1 | tecnico |
 | MacroCAT2 | welcome |
 | MacroCAT3 | - |
 | titoloSezione | Computer per l'ufficio |
@@ -54,7 +54,8 @@ Per l’attivazione del computer ci si può rivolgere alla guardia tecnica di di
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | - |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

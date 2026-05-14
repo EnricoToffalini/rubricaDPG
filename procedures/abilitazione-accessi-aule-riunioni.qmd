@@ -51,7 +51,8 @@ I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui 
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | - |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

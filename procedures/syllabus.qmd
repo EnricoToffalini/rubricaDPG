@@ -13,23 +13,9 @@ categories: didattica
 Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali didattici, e ne descrive le modalità di verifica. Il syllabus, inoltre, può riportare altre indicazioni ritenute utili per agevolare la frequenza (in presenza o a distanza) dell’insegnamento e le attività di studio individuale di studenti e studentesse, favorendone l’apprendimento consapevole e attivo.
 
 
-## Link operativo
-
-:::{.callout-important}
-[https://www.spgi.unipd.it](https://www.spgi.unipd.it)
-:::
-
-
-## Documentazione
-
-[SI - link](SI - link)
 
 
 
-## Link utili
-
-- **Link operativo**: [https://www.spgi.unipd.it](https://www.spgi.unipd.it)
-- **Link documentazione**: [SI - link](SI - link)
 
 
 
@@ -59,8 +45,9 @@ Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i 
 | ContattoStruttura2 | - |
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
-| linkOperativo | https://www.spgi.unipd.it |
-| linkDocumentazione | SI - link |
+| linkOperativo | - |
+| linkDocumentazione 1 | https://www.spgi.unipd.it/sites/spgi.unipd.it/files/Linee%20Guida%20Syllabus_ITA_2025_DEF_07052025.docx_.pdf |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

@@ -61,7 +61,8 @@ I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui 
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | https://apex.cca.unipd.it/pls/apex/f?p=1300:104::::104:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3382 |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | Si fa notare che per prenotare un'aula riunioni bisogna essere preventivamente abilitati (vedi relativo punto) |
 | FAQ2 | - |
 | FAQ3 | - |

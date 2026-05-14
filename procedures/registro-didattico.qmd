@@ -11,9 +11,19 @@ categories: didattica
 Descrizione non ancora disponibile.
 
 
+## Link operativo
+
+:::{.callout-important}
+[https://unipd.u-web.cineca.it/appts/registro/](https://unipd.u-web.cineca.it/appts/registro/)
+:::
 
 
 
+
+
+## Link utili
+
+- **Link operativo**: [https://unipd.u-web.cineca.it/appts/registro/](https://unipd.u-web.cineca.it/appts/registro/)
 
 
 
@@ -34,11 +44,6 @@ Descrizione non ancora disponibile.
 
 
 
-## FAQ / Note
-
-- **FAQ 1**: Come si compila il registro didattico e quando?
-
-
 
 
 ## Tutti i campi disponibili
@@ -56,9 +61,10 @@ Descrizione non ancora disponibile.
 | ContattoStruttura2 | chiaraandrea.cravotto@unipd.it |
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
-| linkOperativo | - |
-| linkDocumentazione | - |
-| FAQ1 | Come si compila il registro didattico e quando? |
+| linkOperativo | https://unipd.u-web.cineca.it/appts/registro/ |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |
 | slug_base | registro-didattico |

@@ -1,5 +1,5 @@
 ---
-title: Compilazione registro didattico
+title: Regolamenti didattici dei corsi di studio
 description: Descrizione non ancora disponibile.
 categories: didattica
 ---
@@ -11,19 +11,9 @@ categories: didattica
 Descrizione non ancora disponibile.
 
 
-## Link operativo
-
-:::{.callout-important}
-[https://unipd.u-web.cineca.it/appts/registro/](https://unipd.u-web.cineca.it/appts/registro/)
-:::
 
 
 
-
-
-## Link utili
-
-- **Link operativo**: [https://unipd.u-web.cineca.it/appts/registro/](https://unipd.u-web.cineca.it/appts/registro/)
 
 
 
@@ -45,7 +35,7 @@ Descrizione non ancora disponibile.
 | MacroCAT1 | didattica |
 | MacroCAT2 | - |
 | MacroCAT3 | - |
-| titoloSezione | Compilazione registro didattico |
+| titoloSezione | Regolamenti didattici dei corsi di studio |
 | descrizione | - |
 | StrutturaReferente1 | - |
 | ContattoStruttura1 | - |
@@ -53,10 +43,11 @@ Descrizione non ancora disponibile.
 | ContattoStruttura2 | - |
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
-| linkOperativo | https://unipd.u-web.cineca.it/appts/registro/ |
-| linkDocumentazione | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | https://adiss.unipd.it/offerta-formativa/regolamenti-linee-guida-indicazioni/regolamenti-didattici-corsi-studio |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |
-| slug_base | compilazione-registro-didattico |
-| slug | compilazione-registro-didattico |
+| slug_base | regolamenti-didattici-dei-corsi-di-studio |
+| slug | regolamenti-didattici-dei-corsi-di-studio |

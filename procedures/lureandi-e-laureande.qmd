@@ -1,0 +1,54 @@
+---
+title: Lureandi e laureande
+description: Numero massimo di laureandi che possono essere presi in carico da RTDa,
+  RTDb, PA, PO
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Numero massimo di laureandi che possono essere presi in carico da RTDa, RTDb, PA, PO
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Lureandi e laureande |
+| descrizione | Numero massimo di laureandi che possono essere presi in carico da RTDa, RTDb, PA, PO |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | lureandi-e-laureande |
+| slug | lureandi-e-laureande |

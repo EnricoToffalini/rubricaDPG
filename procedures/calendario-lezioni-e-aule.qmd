@@ -1,0 +1,60 @@
+---
+title: Calendario lezioni e aule
+description: Le strutture e l'amministrazione centrale collaborano alla corretta pubblicazione
+  dell'orario delle lezioni secondo uno schema standard scadenzato nell'anno accademico.
+  La suite per la creazione del calendario delle lezioni è EasyAcademy.
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Le strutture e l'amministrazione centrale collaborano alla corretta pubblicazione dell'orario delle lezioni secondo uno schema standard scadenzato nell'anno accademico. La suite per la creazione del calendario delle lezioni è EasyAcademy.
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+## Referenti e contatti
+
+- **Contatto struttura 1**: orari@unipd.it
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Calendario lezioni e aule |
+| descrizione | Le strutture e l'amministrazione centrale collaborano alla corretta pubblicazione dell'orario delle lezioni secondo uno schema standard scadenzato nell'anno accademico. La suite per la creazione del calendario delle lezioni è EasyAcademy. |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | orari@unipd.it |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | calendario-lezioni-e-aule |
+| slug | calendario-lezioni-e-aule |

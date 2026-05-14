@@ -1,0 +1,59 @@
+---
+title: Supporto alla ricerca nazionale
+description: Supporto alle varie fasi di realizzazione di un progetto di ricerca -
+  PNRR
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Supporto alle varie fasi di realizzazione di un progetto di ricerca - PNRR
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Sara Lavopa e Simona Fiore
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Supporto alla ricerca nazionale |
+| descrizione | Supporto alle varie fasi di realizzazione di un progetto di ricerca - PNRR |
+| StrutturaReferente1 | Sara Lavopa e Simona Fiore |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | supporto-alla-ricerca-nazionale |
+| slug | supporto-alla-ricerca-nazionale |

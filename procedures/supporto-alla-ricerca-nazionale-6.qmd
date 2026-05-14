@@ -1,0 +1,58 @@
+---
+title: Supporto alla ricerca nazionale
+description: Modalità di reclutamento partecipanti
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Modalità di reclutamento partecipanti
+
+
+
+
+
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Carla Romagnolo
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Supporto alla ricerca nazionale |
+| descrizione | Modalità di reclutamento partecipanti |
+| StrutturaReferente1 | Carla Romagnolo |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | supporto-alla-ricerca-nazionale |
+| slug | supporto-alla-ricerca-nazionale-6 |

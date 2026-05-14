@@ -59,7 +59,8 @@ I nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18
 | ServizioCollegato1 | - |
 | ServizioCollegato2 | - |
 | linkOperativo | https://www.unipd.it/teaching4learning |
-| linkDocumentazione | - |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
 | FAQ1 | - |
 | FAQ2 | - |
 | FAQ3 | - |

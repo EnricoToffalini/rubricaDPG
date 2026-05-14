@@ -1,0 +1,69 @@
+---
+title: Reclutamento partecipanti
+description: Coordinare in modo centralizzato le iscrizioni, la programmazione e la
+  comunicazione tra ricercatori e partecipanti
+categories: ricerca
+---
+
+[← Torna alle procedure](../index.qmd)
+
+## Descrizione
+
+Coordinare in modo centralizzato le iscrizioni, la programmazione e la comunicazione tra ricercatori e partecipanti
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://unipd-psy.sona-systems.com/Default.aspx?ReturnUrl=%2f](https://unipd-psy.sona-systems.com/Default.aspx?ReturnUrl=%2f)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://unipd-psy.sona-systems.com/Default.aspx?ReturnUrl=%2f](https://unipd-psy.sona-systems.com/Default.aspx?ReturnUrl=%2f)
+
+
+
+
+## Categorie
+
+- ricerca
+
+
+
+## Referenti e contatti
+
+- **Struttura referente 1**: Giovanna Mioni e Elisa Gambaretto
+
+
+
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | ricerca |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Reclutamento partecipanti |
+| descrizione | Coordinare in modo centralizzato le iscrizioni, la programmazione e la comunicazione tra ricercatori e partecipanti |
+| StrutturaReferente1 | Giovanna Mioni e Elisa Gambaretto |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://unipd-psy.sona-systems.com/Default.aspx?ReturnUrl=%2f |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | reclutamento-partecipanti |
+| slug | reclutamento-partecipanti |
