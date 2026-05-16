@@ -8,6 +8,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 L'Ateneo dal 2018 annualmente finanzia la realizzazione di progetti di didattica innovativa orientati a favorire il miglioramento della didattica nei corsi di laurea, laurea magistrale e laurea magistrale a ciclo unico.
@@ -34,6 +36,10 @@ L'Ateneo dal 2018 annualmente finanzia la realizzazione di progetti di didattica
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Bando progetti per il miglioramento della didattica"*. Poi magari questa tabella si toglie 👇
 
 
 

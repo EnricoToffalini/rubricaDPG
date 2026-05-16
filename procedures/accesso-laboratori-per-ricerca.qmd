@@ -6,6 +6,8 @@ categories: tecnico
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Descrizione non ancora disponibile.
@@ -45,6 +47,10 @@ Descrizione non ancora disponibile.
 
 - **FAQ 1**: Dopo l'inserimento, è necessario firmare la propria stessa richiesta su https://richieste.dpg.psy.unipd.it/sign . Infine, dopo l'approvazione della richiesta, è necessario chiedere l'abilitazione del badge e della prenotazione spazi via mail a accessi.dpg@unipd.it
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Accesso laboratori per ricerca"*. Poi magari questa tabella si toglie 👇
 
 
 

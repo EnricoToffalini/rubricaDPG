@@ -10,6 +10,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Il servizio dell’amministrazione centrale incaricato all’emissione del badge multifunzione cambia a seconda della categoria (Studenti – Servizio Segreterie studenti; Dottorandi - Servizio Formazione alla Ricerca; Specializzandi - Formazione Post-Lauream; Docenti Strutturati – Servizio concorsi e carriere docenti; Personale Tecnico Amministrativo – Servizio Amministrazione del Personale). A titolo di esempio: per il rilascio del badge multifunzione, un Ricercatore è invitato a inviare, all’indirizzo di posta elettronica: carriere.docenti@unipd.it, una foto formato .jpeg del peso di non oltre 50 KB e con una risoluzione impostata all’atto della scansione non superiore i 300/600 dpi. Si riceverà comunicazione quando il badge è pronto. Il badge può essere ritirato al piano terra della segreteria di Palazzo Storione o si può richiederne l’invio tramite posta interna. La prima opzione è molto più veloce e quindi consigliata dato che permette di attivare tutte le opzioni del badge il più rapidamente possibile.
@@ -30,6 +32,10 @@ Il servizio dell’amministrazione centrale incaricato all’emissione del badge
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Badge Multifunzione"*. Poi magari questa tabella si toglie 👇
 
 
 

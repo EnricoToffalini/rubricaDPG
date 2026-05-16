@@ -10,6 +10,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 App OrariUnipd è l'applicazione dell'Università di Padova che permette agli studenti e alle studentesse di visualizzare e gestire l'orario delle lezioni e degli appelli d'esame. È possibile creare in maniera veloce e intuitiva un profilo personalizzato che include solo gli orari degli insegnamenti di interesse. Tramite l'app è inoltre possibile registrare la propria presenza in aula durante le lezioni e in aula studio e visualizzare in ogni momento lo stato di occupazione di aule e spazi studio di Ateneo.
@@ -30,6 +32,10 @@ App OrariUnipd è l'applicazione dell'Università di Padova che permette agli st
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"App Orari Unipd"*. Poi magari questa tabella si toglie 👇
 
 
 

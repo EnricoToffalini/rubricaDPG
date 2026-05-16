@@ -8,6 +8,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i contenuti dell’insegnamento, specificando dettagliatamente gli argomenti e i materiali didattici, e ne descrive le modalità di verifica. Il syllabus, inoltre, può riportare altre indicazioni ritenute utili per agevolare la frequenza (in presenza o a distanza) dell’insegnamento e le attività di studio individuale di studenti e studentesse, favorendone l’apprendimento consapevole e attivo.
@@ -27,6 +29,10 @@ Il Syllabus è un documento nel quale il/la docente esplicita gli obiettivi e i 
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Syllabus"*. Poi magari questa tabella si toglie 👇
 
 
 

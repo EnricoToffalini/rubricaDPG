@@ -10,6 +10,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 I nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18 mesi dalla presa di servizio devono inoltre seguire un corso di didattica (T4L) della durata di 24 ore ripartito in più giornate, online e in presenza.
@@ -40,6 +42,10 @@ I nuovi arrivati devono seguire dei corsi obbligatori: RTDA, RTDB e RTT entro 18
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Corsi Obbligatori Didattica"*. Poi magari questa tabella si toglie 👇
 
 
 

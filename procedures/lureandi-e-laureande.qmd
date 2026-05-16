@@ -7,6 +7,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Numero massimo di laureandi che possono essere presi in carico da RTDa, RTDb, PA, PO
@@ -26,6 +28,10 @@ Numero massimo di laureandi che possono essere presi in carico da RTDa, RTDb, PA
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Lureandi e laureande"*. Poi magari questa tabella si toglie 👇
 
 
 

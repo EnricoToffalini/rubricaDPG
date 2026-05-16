@@ -6,6 +6,8 @@ categories: ricerca
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Supporto alle varie fasi di realizzazione di un progetto di ricerca internazionale
@@ -30,6 +32,10 @@ Supporto alle varie fasi di realizzazione di un progetto di ricerca internaziona
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Supporto alla ricerca internazionale"*. Poi magari questa tabella si toglie 👇
 
 
 

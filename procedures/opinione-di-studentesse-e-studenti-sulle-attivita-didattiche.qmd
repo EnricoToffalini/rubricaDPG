@@ -11,6 +11,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 La valutazione finalizzata al miglioramento della didattica è lo strumento principale attraverso cui lo studente può esprimere la sua opinione riguardo la didattica universitaria. Al termine delle lezioni di ogni insegnamento, prima di iscriversi agli esami, gli studenti sono invitati a compilare su Uniweb un questionario per mezzo del quale esprimere il proprio giudizio sull'attività del docente responsabile.
@@ -41,6 +43,10 @@ La valutazione finalizzata al miglioramento della didattica è lo strumento prin
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Opinione di studentesse e studenti sulle attività didattiche"*. Poi magari questa tabella si toglie 👇
 
 
 

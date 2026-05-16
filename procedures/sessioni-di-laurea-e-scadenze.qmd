@@ -8,6 +8,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Info utili lauree triennali e magistrali
@@ -28,6 +30,10 @@ Info utili lauree triennali e magistrali
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Sessioni di laurea e scadenze"*. Poi magari questa tabella si toglie 👇
 
 
 

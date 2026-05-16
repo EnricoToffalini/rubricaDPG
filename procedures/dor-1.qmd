@@ -6,6 +6,8 @@ categories: ricerca
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Compilazione DOR
@@ -35,6 +37,10 @@ Compilazione DOR
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"DOR"*. Poi magari questa tabella si toglie 👇
 
 
 

@@ -6,6 +6,8 @@ categories: ricerca
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Bandi per collaboratori di ricerca
@@ -30,6 +32,10 @@ Bandi per collaboratori di ricerca
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Supporto alla ricerca nazionale"*. Poi magari questa tabella si toglie 👇
 
 
 

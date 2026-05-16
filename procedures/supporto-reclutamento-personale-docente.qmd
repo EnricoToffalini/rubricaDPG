@@ -7,6 +7,8 @@ categories: ricerca
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Gestione della Direzione del Dipartimento, delle carriere dei docenti e il supporto agli organi collegiali della struttura
@@ -31,6 +33,10 @@ Gestione della Direzione del Dipartimento, delle carriere dei docenti e il suppo
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Supporto reclutamento personale docente"*. Poi magari questa tabella si toglie 👇
 
 
 

@@ -8,6 +8,8 @@ categories: amministrativo
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. La pagina al link indicato mostra le disponibilità e riportante un pulsante per procedere alla prenotazione
@@ -42,6 +44,10 @@ I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui 
 
 - **FAQ 1**: Si fa notare che per prenotare un'aula riunioni bisogna essere preventivamente abilitati (vedi relativo punto)
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Prenotazione aule riunioni"*. Poi magari questa tabella si toglie 👇
 
 
 

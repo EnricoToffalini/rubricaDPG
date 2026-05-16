@@ -8,6 +8,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Il Premio per le pratiche didattiche innovative Arqus Unipd è un riconoscimento volto a premiare l'impegno che la comunità accademica dedica allo sviluppo e alla promozione di pratiche e strategie innovative al fine di incentivare il miglioramento della didattica in Ateneo. Si inserisce nell'ambito delle iniziative promosse dall'Alleanza ARQUS per la promozione della didattica innovativa (Teaching Excellence Award).
@@ -44,6 +46,10 @@ Il Premio per le pratiche didattiche innovative Arqus Unipd è un riconoscimento
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Premio per le pratiche didattiche innovative Arqus UNIPD"*. Poi magari questa tabella si toglie 👇
 
 
 

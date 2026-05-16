@@ -8,6 +8,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Moodle è la piattaforma online di supporto alla didattica della Scuola di Psicologia dell’Università di Padova, dove si trovano materiali e attività dei corsi
@@ -43,6 +45,10 @@ Moodle è la piattaforma online di supporto alla didattica della Scuola di Psico
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Moodle"*. Poi magari questa tabella si toglie 👇
 
 
 

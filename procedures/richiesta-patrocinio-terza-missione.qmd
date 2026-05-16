@@ -7,6 +7,8 @@ categories: terzaMissione
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Richiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Missione
@@ -36,6 +38,10 @@ Richiesta di patrocinio DPG oneroso e non oneroso per attività di Terza Mission
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Richiesta patrocinio Terza Missione"*. Poi magari questa tabella si toglie 👇
 
 
 

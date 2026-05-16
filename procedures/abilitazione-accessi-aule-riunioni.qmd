@@ -8,6 +8,8 @@ categories: tecnico
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui il personale docente può accedere. Richieste di attivazione badge per prelievo chiavi o accesso tramite lettore (dove disponibile), o richieste di informazioni, vanno rivolte a accessi.dpg@unipd.it , avendo cura di specificare il proprio numero di badge
@@ -32,6 +34,10 @@ I dipartimenti psicologici DPG e DPSS dispongono di diverse aule riunioni a cui 
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Abilitazione accessi aule riunioni"*. Poi magari questa tabella si toglie 👇
 
 
 

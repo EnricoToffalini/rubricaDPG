@@ -10,6 +10,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Per attivare il parcheggio e gli accessi al dipartimento bisogna compilare un modulo disponibile presso la segreteria di Direzione che verrà quindi inoltrato al polo di psicologia al quali ci si può rivolgere per ulteriori informazioni
@@ -38,6 +40,10 @@ Per attivare il parcheggio e gli accessi al dipartimento bisogna compilare un mo
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Attivazione parcheggio e accessi al polo di psicologia"*. Poi magari questa tabella si toglie 👇
 
 
 

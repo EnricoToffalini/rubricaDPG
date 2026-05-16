@@ -6,6 +6,8 @@ categories: ricerca
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Servizio tecnico di supporto per attività di laboratorio
@@ -30,6 +32,10 @@ Servizio tecnico di supporto per attività di laboratorio
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Supporto alle attività di ricerca"*. Poi magari questa tabella si toglie 👇
 
 
 

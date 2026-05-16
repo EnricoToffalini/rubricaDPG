@@ -11,6 +11,15 @@ listing:
   categories: true
 ---
 
-*Questa pagina è generata automaticamente a partire da "foglioWIKI.xlsx", per ora da locale, ma potrà essere generata anche direttamente dal file condiviso su Google Drive a cui tutti possono contribuire / commentare.*
+Questa pagina raccoglie le principali procedure di cui potresti aver bisogno per trovare informazioni o link a un documento, a una pagina web, o il riferimento a un ufficio. 
 
-Questa pagina raccoglie le principali procedure di cui potresti aver bisogno per trovare il link a un documento o a una pagina web. Se non vedi subito quello che stai cercando, prova a utilizzare il filtro di ricerca qui sotto o a consultare le categorie elencate.
+️💻 Il sito è generato con Quarto markdown e può essere gestito come un qualsiasi sito internet. 
+
+➕ Principale vantaggio: tutta la rubrica qui sotto si genera automaticamente da un foglio Excel.
+
+➖ Svantaggio: per modificare il sito in modo più strutturale bisogna conoscere Quarto markdown e Github.
+
+🤖 Il nome *"chatDPG"* rimanda alla speranza di inserire nel sito un AI chatbot. 
+
+<a href="https://docs.google.com/spreadsheets/d/12qy-fnp6ZtXgQDtF1kgHFdlyJtsWK1e4OO5my9U9JrM/" target="_blank">📊 <em>foglioWIKI.xlsx</em></a> *per ora è gestito da locale ma potrà diventare un foglio condiviso su Google Drive, a cui tutte/i possono contribuire / commentare, o aggiungere righe via Google Form. Si può dividere in sotto-rubriche o sezioni per temi consultabili da pagine diverse, ma non mi sembra una grande idea.*
+

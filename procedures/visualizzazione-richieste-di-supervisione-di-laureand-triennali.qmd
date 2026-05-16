@@ -6,6 +6,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Piattaforma per accettare / rifiutare laureandi o laureande triennali
@@ -35,6 +37,10 @@ Piattaforma per accettare / rifiutare laureandi o laureande triennali
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Visualizzazione richieste di supervisione di laureand* triennali"*. Poi magari questa tabella si toglie 👇
 
 
 

@@ -9,6 +9,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Le attività della Scuola di Psicologia si svolgono prevalentemente nelle aule presenti all'interno di 4 sedi: l'edificio Psico 2 (via Venezia, 12), il piano terra del Centro Linguistico di Ateneo (via Venezia, 16), l'edificio Psico 3 (Via Venezia, 14) e il padiglione 14 della Fiera di Padova. Il Polo multifunzionale di Psicologia coordina la gestione dei servizi e degli spazi comuni.
@@ -38,6 +40,10 @@ Le attività della Scuola di Psicologia si svolgono prevalentemente nelle aule p
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Prenotazione aule didattiche"*. Poi magari questa tabella si toglie 👇
 
 
 

@@ -9,6 +9,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Per l’attivazione del computer ci si può rivolgere alla guardia tecnica di dipartimento
@@ -35,6 +37,10 @@ Per l’attivazione del computer ci si può rivolgere alla guardia tecnica di di
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Computer per l'ufficio"*. Poi magari questa tabella si toglie 👇
 
 
 

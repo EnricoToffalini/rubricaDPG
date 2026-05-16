@@ -10,6 +10,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Coloro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi di formazione sulla sicurezza, il primo della durata di 4 ore (corso base) e il secondo della durata di 12 ore (corso ad alto rischio). I corsi hanno una validità di cinque anni.
@@ -38,6 +40,10 @@ Coloro che hanno bisogno dell’accesso ai laboratori devono seguire due corsi d
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Corsi Obbligatori Sicurezza"*. Poi magari questa tabella si toglie 👇
 
 
 

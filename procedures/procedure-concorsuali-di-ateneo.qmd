@@ -6,6 +6,8 @@ categories: ricerca
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Visualizzazione dei bandi in corso e delle selezioni concluse nell'Ateneo
@@ -35,6 +37,10 @@ Visualizzazione dei bandi in corso e delle selezioni concluse nell'Ateneo
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Procedure concorsuali di Ateneo"*. Poi magari questa tabella si toglie 👇
 
 
 

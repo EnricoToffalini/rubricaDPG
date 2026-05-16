@@ -7,6 +7,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 E' necessario comunicare la propria disponibilità per le commissioni prove finali di laurea
@@ -36,6 +38,10 @@ E' necessario comunicare la propria disponibilità per le commissioni prove fina
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Commissioni prove finali"*. Poi magari questa tabella si toglie 👇
 
 
 

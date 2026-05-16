@@ -6,6 +6,8 @@ categories: amministrativo
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Descrizione non ancora disponibile.
@@ -35,6 +37,10 @@ Descrizione non ancora disponibile.
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Verifica fondi disponibili"*. Poi magari questa tabella si toglie 👇
 
 
 

@@ -197,6 +197,8 @@ for (i in seq_len(nrow(procedure))) {
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 {descrizione}
@@ -212,6 +214,10 @@ for (i in seq_len(nrow(procedure))) {
 {referenti_section}
 
 {faq_section}
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"{title}"*. Poi magari questa tabella si toglie 👇
 
 {all_fields_table}
 '

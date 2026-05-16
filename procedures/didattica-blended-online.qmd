@@ -8,6 +8,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Linee guida per la didattica online: integrazione nei corsi di studio convenzionali e nuove disposizioni per i corsi di studio misti, prevalentemente e integralmente a distanza
@@ -44,6 +46,10 @@ Linee guida per la didattica online: integrazione nei corsi di studio convenzion
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Didattica blended - online"*. Poi magari questa tabella si toglie 👇
 
 
 

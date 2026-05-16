@@ -10,6 +10,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Il badge multifunzione viene utilizzato anche come tessera per le fotocopie e le stampe. La guarda tecnica di dipartimento si occupa di attivare l’account. Una volta ricevute le credenziali la tessera va attivata presso una delle stampanti. Il credito per usare la tessera va caricato presso la segreteria di direzione.
@@ -38,6 +40,10 @@ Il badge multifunzione viene utilizzato anche come tessera per le fotocopie e le
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Accesso fotocopiatrici e stampanti"*. Poi magari questa tabella si toglie 👇
 
 
 

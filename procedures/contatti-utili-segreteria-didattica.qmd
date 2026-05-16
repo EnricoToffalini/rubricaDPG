@@ -1,0 +1,69 @@
+---
+title: Contatti utili segreteria didattica
+description: Contatti utili segreteria didattica scuola di Psicologia
+categories: didattica
+---
+
+[← Torna alle procedure](../index.qmd)
+
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
+## Descrizione
+
+Contatti utili segreteria didattica scuola di Psicologia
+
+
+## Link operativo
+
+:::{.callout-important}
+[https://www.psicologia.unipd.it/scuola/contatti/segreterie-della-scuola](https://www.psicologia.unipd.it/scuola/contatti/segreterie-della-scuola)
+:::
+
+
+
+
+
+## Link utili
+
+- **Link operativo**: [https://www.psicologia.unipd.it/scuola/contatti/segreterie-della-scuola](https://www.psicologia.unipd.it/scuola/contatti/segreterie-della-scuola)
+
+
+
+
+## Categorie
+
+- didattica
+
+
+
+
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Contatti utili segreteria didattica"*. Poi magari questa tabella si toglie 👇
+
+
+
+## Tutti i campi disponibili
+
+| Campo | Valore |
+|---|---|
+| MacroCAT1 | didattica |
+| MacroCAT2 | - |
+| MacroCAT3 | - |
+| titoloSezione | Contatti utili segreteria didattica |
+| descrizione | Contatti utili segreteria didattica scuola di Psicologia |
+| StrutturaReferente1 | - |
+| ContattoStruttura1 | - |
+| StrutturaReferente2 | - |
+| ContattoStruttura2 | - |
+| ServizioCollegato1 | - |
+| ServizioCollegato2 | - |
+| linkOperativo | https://www.psicologia.unipd.it/scuola/contatti/segreterie-della-scuola |
+| linkDocumentazione 1 | - |
+| linkDocumentazione2 | - |
+| FAQ1 | - |
+| FAQ2 | - |
+| FAQ3 | - |
+| slug_base | contatti-utili-segreteria-didattica |
+| slug | contatti-utili-segreteria-didattica |

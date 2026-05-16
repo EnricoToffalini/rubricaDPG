@@ -6,6 +6,8 @@ categories: contabilità
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Svolgimento missioni fuori sede per qualsiasi finalità
@@ -45,6 +47,10 @@ Svolgimento missioni fuori sede per qualsiasi finalità
 
 - **FAQ 1**: Dopo la missione, sarà necessario tornare sulla piattaforma per l'inserimento del consuntivo spese. Infine, tutte le ricevute cartacee e scontrini andranno consegnate a Giovanna Mezzetti (DPG)
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Missioni fuori sede"*. Poi magari questa tabella si toglie 👇
 
 
 

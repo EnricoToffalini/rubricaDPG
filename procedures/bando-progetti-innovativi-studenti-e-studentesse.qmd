@@ -8,6 +8,8 @@ categories: didattica
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Al fine di favorire e migliorare la qualità della didattica che valorizzi esperienze e progettualità, l’Ateneo promuove progetti proposti da studenti e studentesse caratterizzati da aspetti innovativi nel loro contenuto o nelle modalità di realizzazione e partecipazione. Il Bando si inserisce come occasione per promuovere la collaborazione Docenti/Studenti dando ai primi un ruolo di responsabilità e ai secondi la possibilità di essere referenti a tutti gli effetti del Progetto
@@ -42,6 +44,10 @@ Al fine di favorire e migliorare la qualità della didattica che valorizzi esper
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Bando progetti innovativi studenti e studentesse"*. Poi magari questa tabella si toglie 👇
 
 
 

@@ -8,6 +8,8 @@ categories:
 
 [← Torna alle procedure](../index.qmd)
 
+Questa pagina viene renderizzata automaticamente dalle celle di un foglio Excel 📊
+
 ## Descrizione
 
 Le chiavi dell’ufficio sono fornite dalla segreteria di Direzione
@@ -34,6 +36,10 @@ Le chiavi dell’ufficio sono fornite dalla segreteria di Direzione
 
 
 
+
+💻
+
+Quello sotto è solo un recap di tutti i campi disponibili nel foglio Excel per la entry *"Chiavi ufficio"*. Poi magari questa tabella si toglie 👇
 
 
 
