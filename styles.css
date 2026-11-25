@@ -552,8 +552,10 @@ body {
   overflow: hidden;
 }
 
-.promemoria code,
-.scheda-nota :not(pre) > code {
+/* :not(.sourceCode) serve a battere `p code:not(.sourceCode)` di Quarto,
+   che altrimenti impone uno sfondo chiaro anche nel tema scuro */
+.promemoria code:not(.sourceCode),
+.scheda-nota :not(pre) > code:not(.sourceCode) {
   padding: .04em .28em;
   color: var(--inchiostro);
   background: color-mix(in srgb, var(--cat) 10%, var(--carta));
