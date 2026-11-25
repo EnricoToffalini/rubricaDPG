@@ -24,7 +24,7 @@ findstr /c:"ATTENZIONE" "%LOG%" >nul && (
   echo ERRORE: il Google Sheet non era raggiungibile, docs/ e' stato generato dalla copia in dati/.
   set "ERRORI=1"
 )
-for %%F in (styles.css ricerca.js logo\scarabocchio.svg) do (
+for %%F in (styles.css ricerca.js logo\scarabocchio.svg logo\social-preview.png) do (
   fc /b "%%F" "docs\%%F" >nul 2>&1 || (
     echo ERRORE: docs\%%F manca o non coincide con %%F.
     set "ERRORI=1"
@@ -35,6 +35,10 @@ for %%F in (styles.css ricerca.js) do (
     echo ERRORE: in docs\index.html manca la versione ?v= per %%F, il browser potrebbe usare la copia in cache.
     set "ERRORI=1"
   )
+)
+findstr /c:"og:image" "docs\index.html" >nul || (
+  echo ERRORE: in docs\index.html mancano i meta per l'anteprima social.
+  set "ERRORI=1"
 )
 findstr /c:"class=\"voce\"" "docs\index.html" >nul || (
   echo ERRORE: docs\index.html non contiene voci.
