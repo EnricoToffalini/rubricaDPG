@@ -104,7 +104,48 @@
     list.classList.toggle("filtrata", terms.length > 0 || Boolean(category));
     status.textContent = found.length === 1 ? "1 voce" : `${found.length} voci`;
     empty.hidden = found.length > 0;
+    expandable();
   }
+
+  // Schede estese: si aprono se la nota è tagliata nell'anteprima o contiene formattazione e link
+  function expandable() {
+    for (const row of list.querySelectorAll(".voce:not([hidden])")) {
+      const button = row.querySelector(".apri-scheda");
+      if (!button) continue;
+      const preview = row.querySelector(".promemoria");
+      const open = row.hasAttribute("data-ricca") || preview.scrollHeight > preview.clientHeight + 1;
+      row.classList.toggle("estesa", open);
+      button.hidden = !open;
+    }
+  }
+
+  function openCard(id) {
+    const card = document.getElementById(id);
+    if (!card || card.open || !card.showModal || card.closest(".voce").hidden) return;
+    card.showModal();
+    history.replaceState(null, "", "#" + id);
+  }
+
+  list.addEventListener("click", event => {
+    const button = event.target.closest(".apri-scheda");
+    if (button) return openCard(button.dataset.scheda);
+    const row = event.target.closest(".voce.estesa");
+    // clic sulla scheda, ma non su link, pulsanti, indirizzi o testo selezionato
+    if (!row || event.target.closest("a, button, dialog, .azione-mail") || String(getSelection())) return;
+    openCard(row.querySelector(".apri-scheda").dataset.scheda);
+  });
+
+  document.querySelectorAll(".scheda").forEach(card => {
+    card.querySelector(".scheda-chiudi").addEventListener("click", () => card.close());
+    card.addEventListener("click", event => { if (event.target === card) card.close(); });
+    card.addEventListener("close", () => history.replaceState(null, "", location.pathname + location.search));
+  });
+
+  let resizing;
+  addEventListener("resize", () => {
+    clearTimeout(resizing);
+    resizing = setTimeout(expandable, 150);
+  });
 
   chips.forEach(chip => chip.addEventListener("click", () => {
     category = chip.dataset.categoria;
@@ -120,7 +161,8 @@
 
   // «/» porta alla ricerca, Esc la svuota, Invio apre il primo collegamento del primo risultato
   document.addEventListener("keydown", event => {
-    if (event.key === "/" && document.activeElement !== input && !event.ctrlKey && !event.metaKey) {
+    if (event.key === "/" && document.activeElement !== input && !event.ctrlKey && !event.metaKey
+      && !document.querySelector("dialog[open]")) {
       event.preventDefault();
       input.focus();
     }
@@ -163,4 +205,8 @@
   update();
   search.hidden = false;
   document.documentElement.classList.add("js");
+  // misura le anteprime solo a pagina impaginata (con i font caricati)
+  expandable();
+  document.fonts?.ready.then(expandable);
+  if (location.hash.startsWith("#scheda-")) openCard(decodeURIComponent(location.hash.slice(1)));
 })();

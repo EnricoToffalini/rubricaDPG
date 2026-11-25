@@ -1,0 +1,22 @@
+firma digitale 
+https://unipd.webfirma.cineca.it/my-web-firma/index#/processes/
+
+compilazione registro
+https://unipd.u-web.cineca.it/appts/registro/
+
+compilazione timesheet
+https://unipd.u-web.cineca.it/appts/timesheet/
+
+cedolini stipendio
+https://unipd.u-web.cineca.it/appced/lista-documenti
+
+vedi fondi residui 
+https://apex.cca.unipd.it/pls/apex/f?p=376:4:13680169487078:::::
+
+fotocopiatrici print via web
+https://print.dpg.psy.unipd.it/ 
+
+visualizza e prenota aule riunioni 
+https://apex.cca.unipd.it/pls/apex/f?p=1300:104:111995975319628::::F1300_FSVM_COD_ID:513
+
+

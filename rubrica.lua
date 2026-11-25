@@ -118,6 +118,30 @@ local function icon(name)
     .. 'stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' .. ICONS[name] .. '</svg>'
 end
 
+-- La nota accetta Markdown semplice: **grassetto**, elenchi, [testo](https://...), a capo e righe vuote.
+-- Restituisce l'HTML completo (scheda estesa), il testo semplice (anteprima) e se c'è formattazione da mostrare.
+local function note(text, id)
+  local doc = pandoc.read(text, "commonmark+hard_line_breaks-raw_html")
+  local rich = #doc.blocks > 1 or doc.blocks[1].t ~= "Para"
+  local function mark(el) rich = true; return el end
+  doc = doc:walk({
+    Header = function(header) header.level = 3; rich = true; return header end,
+    Strong = mark, Emph = mark, Code = mark, LineBreak = mark,
+    Link = function(link)
+      rich = true
+      -- le email restano testo, mai link mailto:
+      if link.target:match("^mailto:") then return link.content end
+      assert(link.target:match("^https://[^%s]+$"), "Link non valido nella nota: " .. id)
+      link.attributes.target = "_blank"
+      link.attributes.rel = "noopener"
+      return link
+    end
+  })
+  local plain = {}
+  for _, block in ipairs(doc.blocks) do plain[#plain + 1] = pandoc.utils.stringify(block) end
+  return pandoc.write(doc, "html"), table.concat(plain, " "), rich
+end
+
 local data
 
 local function get_data()
@@ -174,6 +198,88 @@ local function search_box()
   return table.concat(html, "\n")
 end
 
+-- Destinazioni dove si può svolgere la procedura o consultare direttamente il dato cercato.
+local DESTINAZIONI_DIRETTE = {
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:129:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1083,16418"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:129:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1083,17121"] = true,
+  ["https://uniweb.unipd.it/auth/docente/Graduation/LaureandiAssegnati.do"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:170:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1083,17130"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:170:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1083,17133"] = true,
+  ["https://unipd.u-web.cineca.it/appts/registro/"] = true,
+  ["https://comitati-etici-unipd.scientificnetwork.org/"] = true,
+  ["https://unipd.u-web.cineca.it/appts/timesheet/"] = true,
+  ["https://richieste.dpg.psy.unipd.it/"] = true,
+  ["https://unipd-psy.sona-systems.com/"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:104:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3367"] = true,
+  ["https://www.unipd.it/richieste/"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=376:4"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:104:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3382"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:104:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3347"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:104:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3359"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:104:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3408"] = true,
+  ["https://print.dpg.psy.unipd.it/"] = true,
+  ["https://unipd.u-web.cineca.it/appced/lista-documenti"] = true,
+  ["https://unipd.webfirma.cineca.it/my-web-firma/index#/processes/"] = true
+}
+local AREA_RISERVATA = "https://apex.cca.unipd.it/pls/apex/f?p=1300:100:::NO:100:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513"
+
+local function actions(entry)
+  local links = {}
+  for _, action in ipairs(entry.azioni) do
+    local url = action.url
+    -- le email sono testo da copiare, mai link mailto:
+    local email = url:gsub("^mailto:", ""):match("^[%w._+%-]+@[%w.%-]+%.%a+$")
+    assert(email or url:match("^https://[^%s]+$"), "Destinazione non valida: " .. entry.id)
+    assert(email or action.etichetta:match("%S"), "Etichetta mancante: " .. entry.id)
+    assert(not action.tipo or action.tipo == "istruzioni", "Tipo di azione sconosciuto: " .. entry.id)
+
+    if email then
+      local struttura = action.etichetta:match("%S") and
+        '<span class="struttura">' .. escape(action.etichetta) .. '</span>' or ""
+      links[#links + 1] = string.format(
+        '<span class="azione azione-mail">%s%s<span class="indirizzo">%s</span>'
+        .. '<button type="button" class="copia" data-copia="%s" aria-label="Copia %s" hidden>'
+        .. '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+        .. '<rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg></button></span>',
+        icon("mail"), struttura, escape(email):gsub("@", "<wbr>@"), escape(email), escape(email))
+    else
+      local label, sso = action.etichetta:gsub("%s*·%s*SSO$", "")
+      local kind = action.tipo == "istruzioni" and "doc" or "link"
+      local diretta = kind == "link" and (DESTINAZIONI_DIRETTE[url]
+        or (entry.id == "area-riservata" and url == AREA_RISERVATA))
+      links[#links + 1] = string.format(
+        '<a href="%s" target="_blank" rel="noopener" class="azione azione-%s%s">%s<span>%s</span>%s</a>',
+        escape(url), kind, diretta and " azione-diretta" or "", icon(kind), escape(label),
+        sso > 0 and ' <abbr class="sso" title="Accesso con credenziali UniPD (Single Sign-On)">SSO</abbr>' or "")
+    end
+  end
+  return '<p class="azioni">' .. table.concat(links, "\n") .. '</p>'
+end
+
+-- Scheda estesa (finestra modale) con la nota completa, le azioni e le fonti
+local function dialog(entry, full)
+  local id = "scheda-" .. entry.id
+  local sources = {}
+  for _, source in ipairs(entry.fonti) do
+    local url, rest = source:match("^(https://%S+)(.*)$")
+    sources[#sources + 1] = '<li>' .. (url and string.format('<a href="%s" target="_blank" rel="noopener">%s</a>%s',
+      escape(url), escape(url), escape(rest)) or escape(source)) .. '</li>'
+  end
+  return table.concat({
+    string.format('<dialog class="scheda" id="%s" aria-labelledby="%s-t">', id, id),
+    '<div class="scheda-testa"><p class="voce-categoria">' .. escape(entry.categoria) .. '</p>',
+    '<button type="button" class="scheda-chiudi" aria-label="Chiudi">&times;</button></div>',
+    '<div class="scheda-corpo">',
+    string.format('<h2 class="scheda-titolo" id="%s-t">%s</h2>', id, escape(entry.titolo)),
+    '<div class="scheda-nota">' .. full .. '</div>',
+    actions(entry),
+    string.format('<div class="scheda-fonti"><p>Fonti · verificata il %s</p><ul>%s</ul></div>',
+      entry.verificata_il:gsub("(%d+)%-(%d+)%-(%d+)", "%3/%2/%1"), table.concat(sources)),
+    '</div>',
+    '</dialog>'
+  }, "\n")
+end
+
 local function entries()
   local d = get_data()
   local html = {
@@ -187,43 +293,22 @@ local function entries()
   }
 
   for _, entry in ipairs(d.voci) do
+    local full, plain, rich
+    if entry.nota then full, plain, rich = note(entry.nota, entry.id) end
     html[#html + 1] = string.format(
-      '<article class="voce" id="%s" data-categoria="%s" data-parole-chiave="%s" style="--cat: var(--cat-%d)">',
-      entry.id, escape(entry.categoria), escape(table.concat(entry.parole_chiave, " ")), d.colore[entry.categoria])
+      '<article class="voce" id="%s" data-categoria="%s" data-parole-chiave="%s"%s style="--cat: var(--cat-%d)">',
+      entry.id, escape(entry.categoria), escape(table.concat(entry.parole_chiave, " ")),
+      rich and " data-ricca" or "", d.colore[entry.categoria])
     html[#html + 1] = '<p class="voce-categoria">' .. escape(entry.categoria) .. '</p>'
     html[#html + 1] = '<h2>' .. escape(entry.titolo) .. '</h2>'
     if entry.nota then
-      html[#html + 1] = '<p class="promemoria">' .. escape(entry.nota) .. '</p>'
+      -- anteprima di poche righe; se è tagliata o formattata, la scheda estesa si apre con un clic
+      html[#html + 1] = '<p class="promemoria">' .. escape(plain) .. '</p>'
+      html[#html + 1] = string.format('<button type="button" class="apri-scheda" data-scheda="scheda-%s" '
+        .. 'aria-haspopup="dialog" hidden>Leggi tutto</button>', entry.id)
     end
-
-    local links = {}
-    for n, action in ipairs(entry.azioni) do
-      local url = action.url
-      -- le email sono testo da copiare, mai link mailto:
-      local email = url:gsub("^mailto:", ""):match("^[%w._+%-]+@[%w.%-]+%.%a+$")
-      assert(email or url:match("^https://[^%s]+$"), "Destinazione non valida: " .. entry.id)
-      assert(email or action.etichetta:match("%S"), "Etichetta mancante: " .. entry.id)
-      assert(not action.tipo or action.tipo == "istruzioni", "Tipo di azione sconosciuto: " .. entry.id)
-
-      if email then
-        local struttura = action.etichetta:match("%S") and
-          '<span class="struttura">' .. escape(action.etichetta) .. '</span>' or ""
-        links[#links + 1] = string.format(
-          '<span class="azione azione-mail">%s%s<span class="indirizzo">%s</span>'
-          .. '<button type="button" class="copia" data-copia="%s" aria-label="Copia %s" hidden>'
-          .. '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
-          .. '<rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg></button></span>',
-          icon("mail"), struttura, escape(email):gsub("@", "<wbr>@"), escape(email), escape(email))
-      else
-        local label, sso = action.etichetta:gsub("%s*·%s*SSO$", "")
-        local kind = action.tipo == "istruzioni" and "doc" or "link"
-        links[#links + 1] = string.format(
-          '<a href="%s" class="azione azione-%s%s">%s<span>%s</span>%s</a>',
-          escape(url), kind, n == 1 and " principale" or "", icon(kind), escape(label),
-          sso > 0 and ' <abbr class="sso" title="Accesso con credenziali UniPD (Single Sign-On)">SSO</abbr>' or "")
-      end
-    end
-    html[#html + 1] = '<p class="azioni">' .. table.concat(links, "\n") .. '</p>'
+    html[#html + 1] = actions(entry)
+    if entry.nota then html[#html + 1] = dialog(entry, full) end
     html[#html + 1] = '</article>'
   end
   html[#html + 1] = '</div>'

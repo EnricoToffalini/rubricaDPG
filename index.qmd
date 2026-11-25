@@ -17,7 +17,7 @@ filters:
 <p class="occhiello"><span class="firma"><img src="logo/scarabocchio.svg" alt=""></span>
 <span>Iniziativa personale di <strong>Enrico Toffalini</strong><br><span class="non-ufficiale">Non è un servizio ufficiale del DPG o dell’Università di Padova</span></span></p>
 <h1 class="titolo">Rubrica <em>DPG</em></h1>
-<p class="sottotitolo">Il percorso più breve verso moduli, portali e contatti, per chi lavora al Dipartimento di Psicologia Generale.</p>
+<p class="sottotitolo">Il percorso più breve verso moduli, portali e contatti, per chi lavora al Dipartimento di Psicologia Generale. I pulsanti a colore pieno aprono direttamente il servizio.</p>
 ```
 
 ::: {#ricerca}
@@ -36,8 +36,8 @@ filters:
 <p class="segnala-oggetto">Proponi una voce o una correzione con il modulo, oppure commenta direttamente il foglio condiviso da cui nasce la rubrica. Puoi anche scrivere con oggetto «Rubrica DPG – Segnalazione».</p>
 </div>
 <div class="segnala-azioni">
-<a class="segnala-foglio principale" href="https://docs.google.com/forms/d/e/1FAIpQLSd8CiX7botJWyEVYDsOsdSb2o425Cn0JFfkF1aakLnLnmX8ww/viewform">Proponi con il modulo</a>
-<a class="segnala-foglio" href="https://docs.google.com/spreadsheets/d/18lKhyLEYYB2PoiSrWFU4NJZklvNQ81ohMt3GSircG1M/edit">Commenta il foglio</a>
+<a class="segnala-foglio principale" href="https://docs.google.com/forms/d/e/1FAIpQLSd8CiX7botJWyEVYDsOsdSb2o425Cn0JFfkF1aakLnLnmX8ww/viewform" target="_blank" rel="noopener">Proponi con il modulo</a>
+<a class="segnala-foglio" href="https://docs.google.com/spreadsheets/d/18lKhyLEYYB2PoiSrWFU4NJZklvNQ81ohMt3GSircG1M/edit" target="_blank" rel="noopener">Commenta il foglio</a>
 <span class="segnala-mail"><span class="indirizzo">enrico.toffalini@unipd.it</span><button type="button" class="copia" data-copia="enrico.toffalini@unipd.it" aria-label="Copia enrico.toffalini@unipd.it" hidden><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg></button></span>
 </div>
 </div>
