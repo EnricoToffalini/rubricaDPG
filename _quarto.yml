@@ -1,20 +1,20 @@
 project:
   type: website
   output-dir: docs
-  pre-render:
-    - Rscript R/generate-pages.R
+  render:
+    - index.qmd
+  resources:
+    - ricerca.js
+    - logo/scarabocchio.svg
 
 website:
-  favicon: favicon.ico
-  title: "Trova il link"
-  search: true
-  navbar:
-    background: "#9b0014"
-    foreground: "#ffffff"
-    logo: logo.png
+  favicon: logo/scarabocchio.svg
+  title: "Rubrica DPG"
+  search: false
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    anchor-sections: false

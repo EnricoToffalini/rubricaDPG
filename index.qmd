@@ -1,25 +1,53 @@
 ---
-title: "'Trova il link' o analogo titolo"
-listing:
-  contents: procedures
-  type: grid
-  fields: [title, description, categories]
-  sort: "title"
-  filter-ui: true
-  sort-ui: false
-  page-size: 12
-  categories: true
+title: Rubrica DPG
+pagetitle: Rubrica DPG
+description: Link operativi e contatti per chi lavora al Dipartimento di Psicologia Generale dell’Università di Padova.
+lang: it
+page-layout: custom
+title-block-style: none
+search: false
+anchor-sections: false
+filters:
+  - rubrica.lua
 ---
 
-Questa pagina raccoglie le principali procedure di cui potresti aver bisogno per trovare informazioni o link a un documento, a una pagina web, o il riferimento a un ufficio. 
+::: {.testata}
+::: {.testata-interno}
+```{=html}
+<p class="occhiello"><span class="firma"><img src="logo/scarabocchio.svg" alt=""></span>
+<span>Iniziativa personale di <strong>Enrico Toffalini</strong><br><span class="non-ufficiale">Non è un servizio ufficiale del DPG o dell’Università di Padova</span></span></p>
+<h1 class="titolo">Rubrica <em>DPG</em></h1>
+<p class="sottotitolo">Il percorso più breve verso moduli, portali e contatti, per chi lavora al Dipartimento di Psicologia Generale.</p>
+```
 
-️💻 Il sito è generato con Quarto markdown e può essere gestito come un qualsiasi sito internet. 
+::: {#ricerca}
+:::
+:::
+:::
 
-➕ Principale vantaggio: tutta la rubrica qui sotto si genera automaticamente da un foglio Excel.
+::: {.corpo}
+::: {#rubrica}
+:::
 
-➖ Svantaggio: per modificare il sito in modo più strutturale bisogna conoscere Quarto markdown e Github.
+```{=html}
+<div class="segnalazioni">
+<div>
+<p class="segnala-domanda">Manca qualcosa o un dato è da correggere?</p>
+<p class="segnala-oggetto">Proponi una voce o una correzione con il modulo, oppure commenta direttamente il foglio condiviso da cui nasce la rubrica. Puoi anche scrivere con oggetto «Rubrica DPG – Segnalazione».</p>
+</div>
+<div class="segnala-azioni">
+<a class="segnala-foglio principale" href="https://docs.google.com/forms/d/e/1FAIpQLSd8CiX7botJWyEVYDsOsdSb2o425Cn0JFfkF1aakLnLnmX8ww/viewform">Proponi con il modulo</a>
+<a class="segnala-foglio" href="https://docs.google.com/spreadsheets/d/18lKhyLEYYB2PoiSrWFU4NJZklvNQ81ohMt3GSircG1M/edit">Commenta il foglio</a>
+<span class="segnala-mail"><span class="indirizzo">enrico.toffalini@unipd.it</span><button type="button" class="copia" data-copia="enrico.toffalini@unipd.it" aria-label="Copia enrico.toffalini@unipd.it" hidden><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg></button></span>
+</div>
+</div>
+```
 
-🤖 Il nome *"chatDPG"* rimanda alla speranza di inserire nel sito un AI chatbot. 
+::: {.avvertenza}
+Iniziativa personale di Enrico Toffalini, non ufficiale del DPG o dell’Università di Padova.
+:::
+:::
 
-<a href="https://docs.google.com/spreadsheets/d/12qy-fnp6ZtXgQDtF1kgHFdlyJtsWK1e4OO5my9U9JrM/" target="_blank">📊 <em>foglioWIKI.xlsx</em></a> *per ora è gestito da locale ma potrà diventare un foglio condiviso su Google Drive, a cui tutte/i possono contribuire / commentare, o aggiungere righe via Google Form. Si può dividere in sotto-rubriche o sezioni per temi consultabili da pagine diverse, ma non mi sembra una grande idea.*
-
+```{=html}
+<script src="ricerca.js" defer></script>
+```
