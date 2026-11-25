@@ -118,15 +118,80 @@ local function icon(name)
     .. 'stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' .. ICONS[name] .. '</svg>'
 end
 
--- La nota accetta Markdown semplice: **grassetto**, elenchi, [testo](https://...), a capo e righe vuote.
--- Restituisce l'HTML completo (scheda estesa), il testo semplice (anteprima) e se c'è formattazione da mostrare.
+-- Compatibilità con le etichette che nel foglio precedono la convenzione dei backtick.
+-- Le sostituzioni sono limitate alle singole voci e si possono togliere dopo l'aggiornamento del foglio.
+local LABELS = {
+  ["richieste-tesi"] = {
+    {"**Richieste relatore (GeBeS della Scuola)**", "`Richieste relatore` (GeBeS della Scuola)"},
+    {"«Visualizza anche la sezione delle istanze valutate precedentemente» su **Sì**", "`Visualizza anche la sezione delle istanze valutate precedentemente` su `Sì`"},
+    {"**Laureandi assegnati (Uniweb)**", "`Laureandi assegnati` (Uniweb)"}
+  },
+  ["registro-lezioni"] = {{"«I miei impegni»", "`I miei impegni`"}},
+  ["timesheet"] = {{"«Il mio timesheet»", "`Il mio timesheet`"}},
+  ["relazione-annuale"] = {{"«Richiesta per Relazione Annuale – Ricercatori»", "`Richiesta per Relazione Annuale – Ricercatori`"}},
+  ["assegni-borse"] = {{
+    "menu «Documenti e richieste»: «Richiesta emanazione bando per borsa di ricerca» e «Richiesta attivazione procedura comparativa»",
+    "segui `Documenti e richieste` > `Richiesta emanazione bando per borsa di ricerca` oppure `Documenti e richieste` > `Richiesta attivazione procedura comparativa`"
+  }},
+  ["open-access-ford"] = {{"menu «Documenti e richieste» › «Richiesta contributo FORD per Open Access»", "segui `Documenti e richieste` > `Richiesta contributo FORD per Open Access`"}},
+  ["eventi-ospiti"] = {{
+    "menu «Documenti e richieste»: «Richiesta autorizzazione per seminari» e «Academic guest form»",
+    "trovi i moduli in `Documenti e richieste` > `Richiesta autorizzazione per seminari` e `Documenti e richieste` > `Academic guest form`"
+  }},
+  ["richiesta-missione"] = {{"«Domanda di missione e consuntivo spese» › «Avvia la procedura»", "`Domanda di missione e consuntivo spese` > `Avvia la procedura`"}},
+  ["rimborso-missione"] = {{"«Le mie richieste»", "`Le mie richieste`"}, {"«Autorizzata – inserimento consuntivo dopo data missione»", "`Autorizzata – inserimento consuntivo dopo data missione`"}},
+  ["acquisti"] = {{"«Richiesta Ordine»", "`Richiesta Ordine`"}},
+  ["sale-riunioni"] = {{"«Prenota»", "`Prenota`"}, {"**MyGeBeS**", "`MyGeBeS`"}},
+  ["prenotazione-laboratori"] = {{"sono in MyGeBeS", "sono in `MyGeBeS`"}},
+  ["aula-cars"] = {{"«CARS»", "`CARS`"}},
+  ["verbali-organi"] = {{"«Calendario attività DPG»", "`Calendario attività DPG`"}, {"«Documenti e richieste»", "`Documenti e richieste`"}},
+  ["modelli-documenti"] = {{"«Documenti e richieste»", "`Documenti e richieste`"}},
+  ["segreteria-direzione"] = {{"«Documenti e richieste»", "`Documenti e richieste`"}},
+  ["veicolo"] = {{"«Mezzi di servizio»", "`Mezzi di servizio`"}, {"«Veicolo Dipartimentale»", "`Veicolo Dipartimentale`"}},
+  ["licenze-software"] = {{"«Contratti Software e Licenze»", "`Contratti Software e Licenze`"}, {"«Power-User»", "`Power-User`"}},
+  ["sito-web"] = {{"«Hosting Web»", "`Hosting Web`"}},
+  ["sedute-laurea"] = {{"**Comunicaz. disponibilità**", "`Comunicaz. disponibilità`"}, {"**Inserimento valutazioni**", "`Inserimento valutazioni`"}}
+}
+
+-- Nell'anteprima restano le etichette; il resto della formattazione si vede nella scheda estesa.
+local function preview_inlines(inlines)
+  local html = {}
+  for _, inline in ipairs(inlines) do
+    if inline.t == "Code" then
+      html[#html + 1] = "<code>" .. escape(inline.text) .. "</code>"
+    elseif pandoc.utils.type(inline.content) == "Inlines" then
+      html[#html + 1] = preview_inlines(inline.content)
+    else
+      html[#html + 1] = escape(pandoc.utils.stringify(inline))
+    end
+  end
+  return table.concat(html)
+end
+
+local function preview_list(list)
+  local blocks = {}
+  for _, item in ipairs(list.content) do
+    blocks[#blocks + 1] = pandoc.Plain(pandoc.utils.blocks_to_inlines(item, {pandoc.Space()}))
+  end
+  return blocks
+end
+
+-- Markdown semplice, con backtick per le etichette di menu, voci e pulsanti.
 local function note(text, id)
+  for _, pair in ipairs(LABELS[id] or {}) do
+    local pattern = pair[1]:gsub("([%^%$%(%)%%%.%[%]%*%+%-%?])", "%%%1")
+    text = text:gsub(pattern, function() return pair[2] end)
+  end
   local doc = pandoc.read(text, "commonmark+hard_line_breaks-raw_html")
-  local rich = #doc.blocks > 1 or doc.blocks[1].t ~= "Para"
+  local rich = #doc.blocks ~= 1 or doc.blocks[1].t ~= "Para"
   local function mark(el) rich = true; return el end
   doc = doc:walk({
     Header = function(header) header.level = 3; rich = true; return header end,
-    Strong = mark, Emph = mark, Code = mark, LineBreak = mark,
+    Strong = mark, Emph = mark, LineBreak = mark,
+    Code = function(label)
+      if not label.text:match("^«.*»$") then label.text = "«" .. label.text .. "»" end
+      return label
+    end,
     Link = function(link)
       rich = true
       -- le email restano testo, mai link mailto:
@@ -137,9 +202,12 @@ local function note(text, id)
       return link
     end
   })
-  local plain = {}
-  for _, block in ipairs(doc.blocks) do plain[#plain + 1] = pandoc.utils.stringify(block) end
-  return pandoc.write(doc, "html"), table.concat(plain, " "), rich
+  local preview = {}
+  local preview_doc = doc:walk({BulletList = preview_list, OrderedList = preview_list})
+  for _, block in ipairs(preview_doc.blocks) do
+    preview[#preview + 1] = preview_inlines(pandoc.utils.blocks_to_inlines({block}))
+  end
+  return pandoc.write(doc, "html"), table.concat(preview, " "), rich
 end
 
 local data
@@ -318,8 +386,8 @@ local function entries()
   }
 
   for _, entry in ipairs(d.voci) do
-    local full, plain, rich
-    if entry.nota then full, plain, rich = note(entry.nota, entry.id) end
+    local full, preview, rich
+    if entry.nota then full, preview, rich = note(entry.nota, entry.id) end
     html[#html + 1] = string.format(
       '<article class="voce" id="%s" data-categoria="%s" data-parole-chiave="%s"%s style="--cat: var(--cat-%d)">',
       entry.id, escape(entry.categoria), escape(table.concat(entry.parole_chiave, " ")),
@@ -328,7 +396,7 @@ local function entries()
     html[#html + 1] = '<h2>' .. escape(entry.titolo) .. '</h2>'
     if entry.nota then
       -- anteprima di poche righe; se è tagliata o formattata, la scheda estesa si apre con un clic
-      html[#html + 1] = '<p class="promemoria">' .. escape(plain) .. '</p>'
+      html[#html + 1] = '<p class="promemoria">' .. preview .. '</p>'
       html[#html + 1] = string.format('<button type="button" class="apri-scheda" data-scheda="scheda-%s" '
         .. 'aria-haspopup="dialog" hidden>Leggi tutto</button>', entry.id)
     end

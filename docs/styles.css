@@ -451,6 +451,21 @@ body {
   overflow: hidden;
 }
 
+.promemoria code,
+.scheda-nota :not(pre) > code {
+  padding: .04em .28em;
+  color: var(--inchiostro);
+  background: color-mix(in srgb, var(--cat) 10%, var(--carta));
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--cat) 23%, transparent);
+  border-radius: .3em;
+  font-family: var(--bs-font-monospace, ui-monospace, Consolas, monospace);
+  font-size: .91em;
+  font-weight: 400;
+  overflow-wrap: anywhere;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
 /* ---------- Schede estese ---------- */
 .voce.estesa {
   cursor: pointer;
