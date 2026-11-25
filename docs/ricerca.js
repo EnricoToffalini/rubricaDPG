@@ -129,10 +129,10 @@
   list.addEventListener("click", event => {
     const button = event.target.closest(".apri-scheda");
     if (button) return openCard(button.dataset.scheda);
-    const row = event.target.closest(".voce.estesa");
-    // clic sulla scheda, ma non su link, pulsanti, indirizzi o testo selezionato
+    const row = event.target.closest(".voce");
+    // clic su qualsiasi scheda, ma non su link, pulsanti, indirizzi o testo selezionato
     if (!row || event.target.closest("a, button, dialog, .azione-mail") || String(getSelection())) return;
-    openCard(row.querySelector(".apri-scheda").dataset.scheda);
+    openCard("scheda-" + row.id);
   });
 
   document.querySelectorAll(".scheda").forEach(card => {

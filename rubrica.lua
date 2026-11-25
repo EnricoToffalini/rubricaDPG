@@ -349,7 +349,7 @@ local function actions(entry)
   return '<p class="azioni">' .. table.concat(links, "\n") .. '</p>'
 end
 
--- Scheda estesa (finestra modale) con la nota completa, le azioni e le fonti
+-- Scheda estesa (finestra modale) con la nota completa (se c'è), le azioni e le fonti
 local function dialog(entry, full)
   local id = "scheda-" .. entry.id
   local sources = {}
@@ -364,7 +364,7 @@ local function dialog(entry, full)
     '<button type="button" class="scheda-chiudi" aria-label="Chiudi">&times;</button></div>',
     '<div class="scheda-corpo">',
     string.format('<h2 class="scheda-titolo" id="%s-t">%s</h2>', id, escape(entry.titolo)),
-    '<div class="scheda-nota">' .. full .. '</div>',
+    full and '<div class="scheda-nota">' .. full .. '</div>' or '',
     actions(entry),
     string.format('<div class="scheda-fonti"><p>Fonti · verificata il %s</p><ul>%s</ul></div>',
       entry.verificata_il:gsub("(%d+)%-(%d+)%-(%d+)", "%3/%2/%1"), table.concat(sources)),
@@ -401,7 +401,8 @@ local function entries()
         .. 'aria-haspopup="dialog" hidden>Leggi tutto</button>', entry.id)
     end
     html[#html + 1] = actions(entry)
-    if entry.nota then html[#html + 1] = dialog(entry, full) end
+    -- ogni voce ha la sua scheda estesa, con link diretto #scheda-<id>
+    html[#html + 1] = dialog(entry, full)
     html[#html + 1] = '</article>'
   end
   html[#html + 1] = '</div>'
