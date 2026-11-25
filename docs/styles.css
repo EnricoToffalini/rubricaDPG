@@ -152,6 +152,12 @@ body {
   opacity: .78;
 }
 
+.link-home:any-link {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
+
 /* monogramma personale al posto di loghi istituzionali */
 .firma {
   display: grid;

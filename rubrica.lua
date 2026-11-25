@@ -336,13 +336,13 @@ local function actions(entry)
         .. '<rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg></button></span>',
         icon("mail"), struttura, escape(email):gsub("@", "<wbr>@"), escape(email), escape(email))
     else
-      local label, sso = action.etichetta:gsub("%s*·%s*SSO$", "")
+      local label, sso = action.etichetta:gsub("·[ \t\r\n]*SSO$", "")
       local kind = action.tipo == "istruzioni" and "doc" or "link"
       local diretta = kind == "link" and (DESTINAZIONI_DIRETTE[url]
         or (entry.id == "area-riservata" and url == AREA_RISERVATA))
       links[#links + 1] = string.format(
         '<a href="%s" target="_blank" rel="noopener" class="azione azione-%s%s">%s<span>%s</span>%s</a>',
-        escape(url), kind, diretta and " azione-diretta" or "", icon(kind), escape(label),
+        escape(url), kind, diretta and " azione-diretta" or "", icon(kind), escape(trim(label)),
         sso > 0 and ' <abbr class="sso" title="Accesso con credenziali UniPD (Single Sign-On)">SSO</abbr>' or "")
     end
   end

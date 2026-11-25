@@ -147,10 +147,21 @@
     resizing = setTimeout(expandable, 150);
   });
 
-  chips.forEach(chip => chip.addEventListener("click", () => {
-    category = chip.dataset.categoria;
-    chips.forEach(other => other.setAttribute("aria-pressed", String(other === chip)));
+  function selectCategory(value) {
+    category = value;
+    chips.forEach(chip => chip.setAttribute("aria-pressed", String(chip.dataset.categoria === category)));
     update();
+  }
+
+  chips.forEach(chip => chip.addEventListener("click", () => selectCategory(chip.dataset.categoria)));
+
+  document.querySelectorAll(".link-home").forEach(link => link.addEventListener("click", event => {
+    if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    input.value = "";
+    selectCategory("");
+    if (location.href !== link.href) history.replaceState(null, "", link.href);
+    window.scrollTo(0, 0);
   }));
 
   document.querySelectorAll("[data-prova]").forEach(button => button.addEventListener("click", () => {

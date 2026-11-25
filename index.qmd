@@ -14,9 +14,9 @@ filters:
 ::: {.testata}
 ::: {.testata-interno}
 ```{=html}
-<p class="occhiello"><span class="firma"><img src="logo/scarabocchio.svg" alt=""></span>
+<p class="occhiello"><a class="firma link-home" href="./" aria-label="Rubrica DPG, tutte le voci"><img src="logo/scarabocchio.svg" alt=""></a>
 <span>Iniziativa personale di <strong>Enrico Toffalini</strong><br><span class="non-ufficiale">Non è un servizio ufficiale del DPG o dell’Università di Padova</span></span></p>
-<h1 class="titolo">Rubrica <em>DPG</em></h1>
+<h1 class="titolo"><a class="link-home" href="./">Rubrica <em>DPG</em></a></h1>
 <p class="sottotitolo">Il percorso più breve verso moduli, portali e contatti, per chi lavora al Dipartimento di Psicologia Generale. I pulsanti a colore pieno aprono direttamente il servizio.</p>
 ```
 
