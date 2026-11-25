@@ -17,4 +17,4 @@ Il primo comando apre l’anteprima locale. Il secondo (su Windows; altrove `qua
 
 La vecchia wiki e il foglio Excel si possono recuperare dalla revisione `eadaf75` con `git show eadaf75:procedures/missioni-fuori-sede.qmd` o `git log -- foglioWIKI.xlsx`.
 
-L’anteprima per i social (`logo/social-preview.png`) si rigenera da `logo/social-card.html` con Chrome headless; le visite sono contate da GoatCounter (`rubricadpg.goatcounter.com`).
+L’anteprima per i social (`logo/social-preview.png`) si rigenera da `logo/social-card.html` con Chrome headless; le visite sono contate da GoatCounter (`enricotoffalini.goatcounter.com`, percorso `/rubricaDPG/`).
