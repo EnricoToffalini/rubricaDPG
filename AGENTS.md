@@ -17,7 +17,7 @@ Quando più fonti sembrano rispondere alla stessa esigenza ma mostrano cose dive
   - **«Rubrica DPG – Proposte dal modulo»** (<https://docs.google.com/spreadsheets/d/1-zzI3RBeIZosUxKT3D46IoUczpBqqrNO8m6EE2MLiq4/edit>), dove il modulo scrive le risposte. Il sito non lo legge. Cerca lì una voce affine prima di crearne una. Modifica la voce esistente se l’intento è lo stesso e conserva il suo ID, che è anche l’ancora del link. Per scrivere sul foglio usa il connettore Google Sheets. Le date vanno scritte come testo con l’apostrofo iniziale (`'2026-11-25`).
 - **`dati/voci.csv`** e **`dati/categorie.csv`** sono la copia del foglio scaricata all’ultimo render. Non modificarli a mano: `rubrica.lua` li riscrive a ogni `quarto render` e li usa solo se il foglio non è raggiungibile (in quel caso stampa «ATTENZIONE»). Servono anche a vedere nel diff cosa è cambiato.
 - **`index.qmd`**, **`rubrica.lua`**, **`ricerca.js`** e **`styles.css`** definiscono la pagina, il download e la generazione delle voci, la ricerca e l’aspetto. Per aggiornare i contenuti basta il foglio.
-- **`docs/`** ospita il sito generato da Quarto. Aggiornalo con `quarto render` dalla radice della repo.
+- **`docs/`** ospita il sito generato da Quarto. Aggiornalo con `render.bat` (o `quarto render`) dalla radice della repo: `render.bat` controlla anche che `docs/` sia pronto per il deploy. `versioni.lua`, eseguito dopo ogni render, aggiunge a `styles.css` e `ricerca.js` un parametro `?v=` che cambia col contenuto, così i browser non tengono in cache la versione vecchia.
 - Il vecchio `foglioWIKI.xlsx` e le pagine di `procedures/` sono nella revisione `eadaf75`; il vecchio Google Sheet «foglioWIKI» (<https://docs.google.com/spreadsheets/d/12qy-fnp6ZtXgQDtF1kgHFdlyJtsWK1e4OO5my9U9JrM/>) è di una collega e non alimenta più il sito. Puoi usarli per orientarti e poi verificare i riferimenti.
 
 I colleghi possono proporre aggiunte e correzioni in tre modi, tutti indicati in fondo a `index.qmd`:
@@ -66,6 +66,6 @@ Inserisci invece sinonimi veri, come «tesisti» e «studenti assegnati» accant
 
 ## Controlli prima di chiudere
 
-- Esegui `quarto render` e controlla nel diff di `dati/` e `docs/` che le modifiche al foglio siano arrivate e che non compaia «ATTENZIONE» nell’output. Per modifiche al comportamento della pagina, usa anche `quarto preview`.
+- Esegui `render.bat` (o `quarto render`) e controlla nel diff di `dati/` e `docs/` che le modifiche al foglio siano arrivate e che non compaia «ATTENZIONE» nell’output. Per modifiche al comportamento della pagina, usa anche `quarto preview`.
 - Cerca ogni voce toccata con formule naturali e sinonimi. Per esempio «quali sono i miei laureandi», «posti liberi per la tesi», «parere etico», «rimborsi missioni» o «spostare una prenotazione». Verifica che le destinazioni siano già cliccabili nei risultati e che il filtro per categoria funzioni.
 - Nel resoconto indica le voci aggiornate, i riferimenti verificati e gli eventuali passaggi rimasti aperti. Per ora resta da confermare il percorso per spostare le prenotazioni delle sale riunioni (le proprie prenotazioni sono in MyGeBeS). Per i rimborsi diversi dalle missioni la Carta dei servizi indica il fondo economale (piccole spese in contanti); altri casi restano da verificare.

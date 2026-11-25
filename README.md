@@ -10,9 +10,9 @@ Le voci si compilano nel Google Sheet [Rubrica DPG – Voci](https://docs.google
 
 ```sh
 quarto preview
-quarto render
+render.bat
 ```
 
-Il primo comando apre l’anteprima locale. Il secondo scarica il foglio, ne salva una copia in `dati/` e rigenera il sito statico in `docs/`, da includere nelle modifiche se cambia il sito. Se il foglio non è raggiungibile, il render usa la copia in `dati/`. Per la compilazione basta Quarto. I link restano navigabili anche con JavaScript disattivato.
+Il primo comando apre l’anteprima locale. Il secondo (su Windows; altrove `quarto render`) scarica il foglio, ne salva una copia in `dati/` e rigenera il sito statico in `docs/`, da includere nelle modifiche se cambia il sito. Se il foglio non è raggiungibile, il render usa la copia in `dati/` e `render.bat` lo segnala come errore. `render.bat` controlla anche che i file in `docs/` coincidano con i sorgenti e che CSS e JavaScript abbiano il parametro di versione contro la cache del browser. Per la compilazione basta Quarto. I link restano navigabili anche con JavaScript disattivato.
 
 La vecchia wiki e il foglio Excel si possono recuperare dalla revisione `eadaf75` con `git show eadaf75:procedures/missioni-fuori-sede.qmd` o `git log -- foglioWIKI.xlsx`.
