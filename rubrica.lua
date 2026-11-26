@@ -289,8 +289,8 @@ local DESTINAZIONI_DIRETTE = {
   ["https://richieste.dpg.psy.unipd.it/veicolo-dipartimentale/insert"] = true,
   ["https://richieste.dpg.psy.unipd.it/poweruser/insert"] = true,
   ["https://richieste.dpg.psy.unipd.it/hosting-web/insert"] = true,
-  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:211:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE,P211_FSVM_COD_ID_SEQUENCE_CALL,P211_FSGN_COD_GRU_ID,P211_FSNE_COD_NEWS_ID:513,38329,38329,2700,"] = true,
-  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:211:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE,P211_FSVM_COD_ID_SEQUENCE_CALL,P211_FSGN_COD_GRU_ID,P211_FSNE_COD_NEWS_ID:513,33559,33559,2694,"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:999:::::P999_PAGE,P999_FSVM_COD_ID,P999_FSVM_COD_ID_SEQUENCE:211,513,38329"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:999:::::P999_PAGE,P999_FSVM_COD_ID,P999_FSVM_COD_ID_SEQUENCE:211,513,33559"] = true,
   ["https://unipd-psy.sona-systems.com/"] = true,
   ["https://apex.cca.unipd.it/pls/apex/f?p=1300:104:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:513,3367"] = true,
   ["https://apps.unipd.it/richieste3/index/landzone?tipo=Missione"] = true,
@@ -399,11 +399,11 @@ local function entries()
     if entry.nota then
       -- anteprima di poche righe; se è tagliata o formattata, la scheda estesa si apre con un clic
       html[#html + 1] = '<p class="promemoria">' .. preview .. '</p>'
-      html[#html + 1] = string.format('<button type="button" class="apri-scheda" data-scheda="scheda-%s" '
-        .. 'aria-haspopup="dialog" hidden>Leggi tutto</button>', entry.id)
+      html[#html + 1] = '<button type="button" class="apri-scheda" '
+        .. 'aria-haspopup="dialog" hidden>Leggi tutto</button>'
     end
     html[#html + 1] = actions(entry)
-    -- ogni voce ha la sua scheda estesa, con link diretto #scheda-<id>
+    -- ogni voce ha la sua scheda estesa, con link diretto #<id>
     html[#html + 1] = dialog(entry, full)
     html[#html + 1] = '</article>'
   end

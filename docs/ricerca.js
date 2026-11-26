@@ -119,20 +119,20 @@
     }
   }
 
-  function openCard(id) {
-    const card = document.getElementById(id);
-    if (!card || card.open || !card.showModal || card.closest(".voce").hidden) return;
+  function openCard(row) {
+    if (!row || row.hidden) return;
+    const card = row.querySelector(".scheda");
+    if (!card || card.open || !card.showModal) return;
     card.showModal();
-    history.replaceState(null, "", "#" + id);
+    history.replaceState(null, "", "#" + row.id);
   }
 
   list.addEventListener("click", event => {
-    const button = event.target.closest(".apri-scheda");
-    if (button) return openCard(button.dataset.scheda);
     const row = event.target.closest(".voce");
+    if (event.target.closest(".apri-scheda")) return openCard(row);
     // clic su qualsiasi scheda, ma non su link, pulsanti, indirizzi o testo selezionato
     if (!row || event.target.closest("a, button, dialog, .azione-mail") || String(getSelection())) return;
-    openCard("scheda-" + row.id);
+    openCard(row);
   });
 
   document.querySelectorAll(".scheda").forEach(card => {
@@ -219,5 +219,6 @@
   // misura le anteprime solo a pagina impaginata (con i font caricati)
   expandable();
   document.fonts?.ready.then(expandable);
-  if (location.hash.startsWith("#scheda-")) openCard(decodeURIComponent(location.hash.slice(1)));
+  const id = location.hash.slice(1);
+  openCard(entries.find(({ row }) => row.id === id)?.row);
 })();
