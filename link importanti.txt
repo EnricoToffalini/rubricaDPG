@@ -1,0 +1,7 @@
+link interni sito scuola per consultazione commissioni e calendari anche in bozza
+
+https://apex.cca.unipd.it/pls/apex/f?p=1300:100:102816721519007::::F1300_FSVM_COD_ID:1110
+
+https://apex.cca.unipd.it/pls/apex/f?p=1300:209:102816721519007:::209:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1110,11607
+
+https://apex.cca.unipd.it/pls/apex/f?p=1300:209:102816721519007:::209:F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1110,11608

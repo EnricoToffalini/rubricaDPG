@@ -307,6 +307,8 @@ local DESTINAZIONI_DIRETTE = {
   ["https://mysign.infocert.it/"] = true,
   ["https://apex.cca.unipd.it/pls/apex/f?p=1300:209:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:833,5831"] = true,
   ["https://apex.cca.unipd.it/pls/apex/f?p=1300:209:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:833,5840"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:209:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1110,11607"] = true,
+  ["https://apex.cca.unipd.it/pls/apex/f?p=1300:209:::::F1300_FSVM_COD_ID,F1300_FSVM_COD_ID_SEQUENCE:1110,11608"] = true,
   ["https://opinionistudenti.didattica.unipd.it/it/login"] = true,
   ["https://apex.cca.unipd.it/pls/apex/f?p=155"] = true,
   ["https://opinionistudenti.didattica.unipd.it/it/public/opinione"] = true,

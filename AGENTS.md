@@ -52,6 +52,8 @@ Unisci le varianti che portano allo stesso percorso. Tieni separate le azioni co
 
 Nel sito il colore pieno indica le azioni che aprono il servizio dove si svolge la procedura o si consulta il dato cercato, anche dopo SSO. Email, guide, modulistica da inviare a parte, pagine informative e Ticket HelpMe hanno uno stile più discreto. Quando aggiungi o cambi una destinazione diretta, aggiorna l’elenco in `rubrica.lua`.
 
+Una scheda ha al massimo due link principali (a colore pieno). Se un servizio offre funzioni diverse, come comunicare le disponibilità, consultare i calendari e inserire le valutazioni, crea una scheda per ciascuna. Più di due link principali sono ammessi solo in casi eccezionali, quando hanno la stessa funzione e differiscono per un solo aspetto, come i moduli di accesso ai laboratori per ricerca, tirocinio o didattica.
+
 La ricerca usa titoli, parole chiave, promemoria, etichette, categoria e indirizzi email. Accetta parole in qualsiasi ordine, normalizza gli accenti e gestisce i prefissi digitati (`laur` trova «laureandi»). Tutte le parole significative della query devono trovare corrispondenza. Per evitare elenchi di varianti:
 
 - **Troncamento automatico.** Query e parole chiave perdono la vocale finale (e la `i` di `-io`/`-ia`, la `h` di `-che`/`-ghi`) prima del confronto. Basta quindi una forma: `laureando` copre laureandi, laureanda e laureande; `laboratorio` copre laboratori; `ricevuta` copre ricevute.
